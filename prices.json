@@ -3259,10 +3259,6 @@
     "price": 325.0,
     "date": "2026-01-13 07:58:36"
   },
-  "★ StatTrak™ M9 Bayonet | Blue Steel (Minimal Wear)": {
-    "price": 1135.66,
-    "date": "2026-01-13 07:58:36"
-  },
   "★ StatTrak™ Bayonet | Damascus Steel (Battle-Scarred)": {
     "price": 382.85,
     "date": "2026-01-13 07:58:36"
@@ -4023,261 +4019,13 @@
     "price": 1812.17,
     "date": "2026-01-13 10:47:20"
   },
-  "★ Bayonet | Doppler (Factory New)": {
-    "price": 623.23,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ StatTrak™ Bayonet | Doppler (Factory New)": {
-    "price": 669.46,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ Bayonet | Doppler (Minimal Wear)": {
-    "price": 744.0,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ M9 Bayonet | Doppler (Factory New)": {
-    "price": 1610.87,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ StatTrak™ Bayonet | Gamma Doppler (Factory New)": {
-    "price": 1076.45,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ StatTrak™ M9 Bayonet | Doppler (Factory New)": {
-    "price": 1707.81,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ Bayonet | Gamma Doppler (Minimal Wear)": {
-    "price": 1092.5,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ StatTrak™ Bayonet | Doppler (Minimal Wear)": {
-    "price": 1212.36,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)": {
-    "price": 1244.71,
-    "date": "2026-01-13 10:48:13"
-  },
-  "★ Bayonet | Freehand (Field-Tested)": {
-    "price": 224.37,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ Bayonet | Freehand (Factory New)": {
-    "price": 304.69,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ Bayonet | Freehand (Minimal Wear)": {
-    "price": 270.2,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ M9 Bayonet | Freehand (Factory New)": {
-    "price": 675.09,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ StatTrak™ Bayonet | Freehand (Field-Tested)": {
-    "price": 315.0,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ StatTrak™ Bayonet | Freehand (Factory New)": {
-    "price": 345.0,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ M9 Bayonet | Freehand (Field-Tested)": {
-    "price": 542.87,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ M9 Bayonet | Freehand (Minimal Wear)": {
-    "price": 781.23,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ StatTrak™ Bayonet | Freehand (Minimal Wear)": {
-    "price": 282.52,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ Bayonet | Freehand (Battle-Scarred)": {
-    "price": 256.57,
-    "date": "2026-01-13 10:48:58"
-  },
-  "★ Bayonet | Slaughter (Minimal Wear)": {
-    "price": 470.88,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ Bayonet | Slaughter (Factory New)": {
-    "price": 590.0,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ M9 Bayonet | Slaughter (Minimal Wear)": {
-    "price": 1167.48,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ Bayonet | Slaughter (Field-Tested)": {
-    "price": 425.99,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ M9 Bayonet | Slaughter (Factory New)": {
-    "price": 1639.17,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ StatTrak™ Bayonet | Slaughter (Minimal Wear)": {
-    "price": 701.89,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ StatTrak™ Bayonet | Slaughter (Factory New)": {
-    "price": 814.9,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ StatTrak™ M9 Bayonet | Slaughter (Minimal Wear)": {
-    "price": 1412.66,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ StatTrak™ M9 Bayonet | Slaughter (Field-Tested)": {
-    "price": 1360.6,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ M9 Bayonet | Slaughter (Field-Tested)": {
-    "price": 1100.0,
-    "date": "2026-01-13 10:52:15"
-  },
-  "★ Bayonet | Tiger Tooth (Factory New)": {
-    "price": 425.0,
-    "date": "2026-01-13 10:59:36"
-  },
-  "★ M9 Bayonet | Tiger Tooth (Factory New)": {
-    "price": 1072.2,
-    "date": "2026-01-13 10:59:36"
-  },
-  "★ StatTrak™ Bayonet | Tiger Tooth (Factory New)": {
-    "price": 621.99,
-    "date": "2026-01-13 10:59:36"
-  },
-  "★ StatTrak™ M9 Bayonet | Tiger Tooth (Factory New)": {
-    "price": 1073.12,
-    "date": "2026-01-13 10:59:36"
-  },
-  "★ Bayonet | Tiger Tooth (Minimal Wear)": {
-    "price": 677.14,
-    "date": "2026-01-13 10:59:36"
-  },
-  "★ Bayonet | Blue Steel (Minimal Wear)": {
-    "price": 395.17,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ Bayonet | Blue Steel (Well-Worn)": {
-    "price": 318.55,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ Bayonet | Blue Steel (Field-Tested)": {
-    "price": 346.35,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ M9 Bayonet | Blue Steel (Field-Tested)": {
-    "price": 850.0,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ StatTrak™ Bayonet | Blue Steel (Field-Tested)": {
-    "price": 342.26,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ Bayonet | Blue Steel (Battle-Scarred)": {
-    "price": 308.79,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ M9 Bayonet | Blue Steel (Well-Worn)": {
-    "price": 829.51,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ M9 Bayonet | Blue Steel (Battle-Scarred)": {
-    "price": 1150.0,
-    "date": "2026-01-13 11:07:24"
-  },
   "★ StatTrak™ Bayonet | Blue Steel (Battle-Scarred)": {
     "price": 280.19,
     "date": "2026-01-13 11:07:24"
   },
-  "★ StatTrak™ Bayonet | Blue Steel (Minimal Wear)": {
-    "price": 579.89,
-    "date": "2026-01-13 11:07:24"
-  },
-  "★ Bayonet | Damascus Steel (Field-Tested)": {
-    "price": 251.41,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ Bayonet | Damascus Steel (Factory New)": {
-    "price": 306.45,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ Bayonet | Damascus Steel (Minimal Wear)": {
-    "price": 267.35,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ M9 Bayonet | Damascus Steel (Field-Tested)": {
-    "price": 678.63,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ M9 Bayonet | Damascus Steel (Minimal Wear)": {
-    "price": 738.41,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ StatTrak™ M9 Bayonet | Damascus Steel (Field-Tested)": {
-    "price": 676.36,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ StatTrak™ Bayonet | Damascus Steel (Factory New)": {
-    "price": 393.09,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ StatTrak™ Bayonet | Damascus Steel (Field-Tested)": {
-    "price": 289.99,
-    "date": "2026-01-13 11:17:53"
-  },
-  "★ M9 Bayonet | Damascus Steel (Factory New)": {
-    "price": 900.0,
-    "date": "2026-01-13 11:17:53"
-  },
   "★ StatTrak™ M9 Bayonet | Damascus Steel (Factory New)": {
     "price": 1090.4,
     "date": "2026-01-13 11:17:53"
-  },
-  "★ Bayonet | Stained (Field-Tested)": {
-    "price": 246.29,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ Bayonet | Stained (Battle-Scarred)": {
-    "price": 255.2,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ Bayonet | Stained (Well-Worn)": {
-    "price": 244.0,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ Bayonet | Stained (Minimal Wear)": {
-    "price": 272.1,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ M9 Bayonet | Stained (Field-Tested)": {
-    "price": 617.58,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ M9 Bayonet | Stained (Minimal Wear)": {
-    "price": 696.96,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ StatTrak™ Bayonet | Stained (Field-Tested)": {
-    "price": 277.99,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ M9 Bayonet | Stained (Factory New)": {
-    "price": 879.99,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)": {
-    "price": 945.32,
-    "date": "2026-01-13 11:21:28"
-  },
-  "★ StatTrak™ Bayonet | Stained (Minimal Wear)": {
-    "price": 303.53,
-    "date": "2026-01-13 11:21:28"
   },
   "★ Bayonet | Case Hardened (Field-Tested)": {
     "price": 360.09,
@@ -5885,10 +5633,6 @@
   },
   "★ StatTrak™ Huntsman Knife | Gamma Doppler (Factory New)": {
     "price": 384.07,
-    "date": "2026-01-13 14:19:36"
-  },
-  "★ Bayonet | Gamma Doppler (Factory New)": {
-    "price": 764.42,
     "date": "2026-01-13 14:19:36"
   },
   "★ Butterfly Knife | Freehand (Field-Tested)": {
@@ -9590,5 +9334,265 @@
   "★ M9 Bayonet | Marble Fade (Minimal Wear)": {
     "price": 1643.97,
     "date": "2026-01-14 08:34:38"
+  },
+  "★ Bayonet | Doppler (Factory New)": {
+    "price": 614.05,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ Bayonet | Gamma Doppler (Factory New)": {
+    "price": 773.58,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ StatTrak™ Bayonet | Doppler (Factory New)": {
+    "price": 669.47,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ Bayonet | Doppler (Minimal Wear)": {
+    "price": 743.31,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ M9 Bayonet | Doppler (Factory New)": {
+    "price": 1610.87,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ StatTrak™ Bayonet | Gamma Doppler (Factory New)": {
+    "price": 1077.8,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ StatTrak™ M9 Bayonet | Doppler (Factory New)": {
+    "price": 1713.44,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ Bayonet | Gamma Doppler (Minimal Wear)": {
+    "price": 1092.5,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)": {
+    "price": 1236.82,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ StatTrak™ Bayonet | Doppler (Minimal Wear)": {
+    "price": 1204.67,
+    "date": "2026-01-14 08:35:28"
+  },
+  "★ Bayonet | Freehand (Field-Tested)": {
+    "price": 247.9,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ Bayonet | Freehand (Factory New)": {
+    "price": 304.69,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ Bayonet | Freehand (Minimal Wear)": {
+    "price": 268.3,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ M9 Bayonet | Freehand (Factory New)": {
+    "price": 670.81,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ StatTrak™ Bayonet | Freehand (Field-Tested)": {
+    "price": 314.9,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ StatTrak™ Bayonet | Freehand (Factory New)": {
+    "price": 345.0,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ M9 Bayonet | Freehand (Field-Tested)": {
+    "price": 563.58,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ M9 Bayonet | Freehand (Minimal Wear)": {
+    "price": 781.54,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ StatTrak™ Bayonet | Freehand (Minimal Wear)": {
+    "price": 268.27,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ Bayonet | Freehand (Battle-Scarred)": {
+    "price": 256.58,
+    "date": "2026-01-14 08:36:25"
+  },
+  "★ Bayonet | Slaughter (Minimal Wear)": {
+    "price": 481.87,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ Bayonet | Slaughter (Factory New)": {
+    "price": 594.98,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ M9 Bayonet | Slaughter (Minimal Wear)": {
+    "price": 1150.0,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ Bayonet | Slaughter (Field-Tested)": {
+    "price": 425.99,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ M9 Bayonet | Slaughter (Factory New)": {
+    "price": 1568.02,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ StatTrak™ Bayonet | Slaughter (Minimal Wear)": {
+    "price": 672.08,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ StatTrak™ Bayonet | Slaughter (Factory New)": {
+    "price": 814.21,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ StatTrak™ M9 Bayonet | Slaughter (Minimal Wear)": {
+    "price": 1292.17,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ StatTrak™ M9 Bayonet | Slaughter (Field-Tested)": {
+    "price": 1359.12,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ M9 Bayonet | Slaughter (Field-Tested)": {
+    "price": 1100.0,
+    "date": "2026-01-14 08:37:18"
+  },
+  "★ Bayonet | Tiger Tooth (Factory New)": {
+    "price": 454.3,
+    "date": "2026-01-14 08:37:56"
+  },
+  "★ M9 Bayonet | Tiger Tooth (Factory New)": {
+    "price": 1150.0,
+    "date": "2026-01-14 08:37:56"
+  },
+  "★ StatTrak™ Bayonet | Tiger Tooth (Factory New)": {
+    "price": 620.0,
+    "date": "2026-01-14 08:37:56"
+  },
+  "★ StatTrak™ M9 Bayonet | Tiger Tooth (Factory New)": {
+    "price": 1076.67,
+    "date": "2026-01-14 08:37:56"
+  },
+  "★ Bayonet | Tiger Tooth (Minimal Wear)": {
+    "price": 569.71,
+    "date": "2026-01-14 08:37:56"
+  },
+  "★ Bayonet | Blue Steel (Minimal Wear)": {
+    "price": 387.98,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ Bayonet | Blue Steel (Well-Worn)": {
+    "price": 318.55,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ Bayonet | Blue Steel (Field-Tested)": {
+    "price": 322.66,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ M9 Bayonet | Blue Steel (Field-Tested)": {
+    "price": 776.86,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ StatTrak™ Bayonet | Blue Steel (Field-Tested)": {
+    "price": 342.38,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ Bayonet | Blue Steel (Battle-Scarred)": {
+    "price": 309.82,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ M9 Bayonet | Blue Steel (Well-Worn)": {
+    "price": 895.16,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ M9 Bayonet | Blue Steel (Battle-Scarred)": {
+    "price": 1150.0,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ StatTrak™ M9 Bayonet | Blue Steel (Minimal Wear)": {
+    "price": 1135.69,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ StatTrak™ Bayonet | Blue Steel (Minimal Wear)": {
+    "price": 579.89,
+    "date": "2026-01-14 08:38:51"
+  },
+  "★ Bayonet | Damascus Steel (Field-Tested)": {
+    "price": 251.0,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ Bayonet | Damascus Steel (Minimal Wear)": {
+    "price": 268.27,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ Bayonet | Damascus Steel (Factory New)": {
+    "price": 308.4,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ M9 Bayonet | Damascus Steel (Field-Tested)": {
+    "price": 678.64,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ M9 Bayonet | Damascus Steel (Minimal Wear)": {
+    "price": 737.77,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ StatTrak™ M9 Bayonet | Damascus Steel (Field-Tested)": {
+    "price": 828.17,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ StatTrak™ Bayonet | Damascus Steel (Factory New)": {
+    "price": 389.99,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ StatTrak™ Bayonet | Damascus Steel (Field-Tested)": {
+    "price": 269.99,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ M9 Bayonet | Damascus Steel (Factory New)": {
+    "price": 894.27,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ Bayonet | Damascus Steel (Well-Worn)": {
+    "price": 342.12,
+    "date": "2026-01-14 08:39:36"
+  },
+  "★ Bayonet | Stained (Field-Tested)": {
+    "price": 241.79,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ Bayonet | Stained (Battle-Scarred)": {
+    "price": 249.98,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ Bayonet | Stained (Well-Worn)": {
+    "price": 235.45,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ Bayonet | Stained (Minimal Wear)": {
+    "price": 272.09,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ M9 Bayonet | Stained (Field-Tested)": {
+    "price": 617.04,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ M9 Bayonet | Stained (Minimal Wear)": {
+    "price": 719.99,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ M9 Bayonet | Stained (Factory New)": {
+    "price": 879.99,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ StatTrak™ Bayonet | Stained (Field-Tested)": {
+    "price": 278.96,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ StatTrak™ Bayonet | Stained (Minimal Wear)": {
+    "price": 303.28,
+    "date": "2026-01-14 08:40:18"
+  },
+  "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)": {
+    "price": 945.0,
+    "date": "2026-01-14 08:40:18"
   }
 }
