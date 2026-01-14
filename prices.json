@@ -4019,122 +4019,6 @@
     "price": 1800.0,
     "date": "2026-01-13 09:15:18"
   },
-  "★ Sport Gloves | Bronze Morph (Field-Tested)": {
-    "price": 184.0,
-    "date": "2026-01-13 10:27:00"
-  },
-  "★ Sport Gloves | Bronze Morph (Minimal Wear)": {
-    "price": 336.23,
-    "date": "2026-01-13 10:27:00"
-  },
-  "★ Sport Gloves | Bronze Morph (Well-Worn)": {
-    "price": 169.74,
-    "date": "2026-01-13 10:27:00"
-  },
-  "★ Sport Gloves | Bronze Morph (Battle-Scarred)": {
-    "price": 155.74,
-    "date": "2026-01-13 10:27:00"
-  },
-  "★ Sport Gloves | Bronze Morph (Factory New)": {
-    "price": 1150.0,
-    "date": "2026-01-13 10:27:00"
-  },
-  "★ Sport Gloves | Slingshot (Field-Tested)": {
-    "price": 809.04,
-    "date": "2026-01-13 10:28:09"
-  },
-  "★ Sport Gloves | Slingshot (Battle-Scarred)": {
-    "price": 363.4,
-    "date": "2026-01-13 10:28:09"
-  },
-  "★ Sport Gloves | Slingshot (Well-Worn)": {
-    "price": 583.74,
-    "date": "2026-01-13 10:28:09"
-  },
-  "★ Bloodhound Gloves | Charred (Field-Tested)": {
-    "price": 510.0,
-    "date": "2026-01-13 10:28:59"
-  },
-  "★ Bloodhound Gloves | Charred (Well-Worn)": {
-    "price": 227.66,
-    "date": "2026-01-13 10:28:59"
-  },
-  "★ Bloodhound Gloves | Charred (Battle-Scarred)": {
-    "price": 201.25,
-    "date": "2026-01-13 10:28:59"
-  },
-  "★ Bloodhound Gloves | Charred (Minimal Wear)": {
-    "price": 660.0,
-    "date": "2026-01-13 10:28:59"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Field-Tested)": {
-    "price": 319.03,
-    "date": "2026-01-13 10:29:40"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Battle-Scarred)": {
-    "price": 131.13,
-    "date": "2026-01-13 10:29:40"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Minimal Wear)": {
-    "price": 490.32,
-    "date": "2026-01-13 10:29:40"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Well-Worn)": {
-    "price": 149.53,
-    "date": "2026-01-13 10:29:40"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Factory New)": {
-    "price": 699.9,
-    "date": "2026-01-13 10:29:40"
-  },
-  "★ Bloodhound Gloves | Bronzed (Field-Tested)": {
-    "price": 300.0,
-    "date": "2026-01-13 10:30:30"
-  },
-  "★ Bloodhound Gloves | Bronzed (Minimal Wear)": {
-    "price": 450.76,
-    "date": "2026-01-13 10:30:30"
-  },
-  "★ Bloodhound Gloves | Bronzed (Battle-Scarred)": {
-    "price": 118.69,
-    "date": "2026-01-13 10:30:30"
-  },
-  "★ Bloodhound Gloves | Bronzed (Well-Worn)": {
-    "price": 152.63,
-    "date": "2026-01-13 10:30:30"
-  },
-  "★ Bloodhound Gloves | Bronzed (Factory New)": {
-    "price": 1745.33,
-    "date": "2026-01-13 10:30:30"
-  },
-  "★ Bloodhound Gloves | Snakebite (Field-Tested)": {
-    "price": 338.59,
-    "date": "2026-01-13 10:31:09"
-  },
-  "★ Bloodhound Gloves | Snakebite (Battle-Scarred)": {
-    "price": 139.09,
-    "date": "2026-01-13 10:31:09"
-  },
-  "★ Bloodhound Gloves | Snakebite (Well-Worn)": {
-    "price": 154.1,
-    "date": "2026-01-13 10:31:09"
-  },
-  "★ Bloodhound Gloves | Snakebite (Minimal Wear)": {
-    "price": 450.0,
-    "date": "2026-01-13 10:31:09"
-  },
-  "★ Broken Fang Gloves | Needle Point (Well-Worn)": {
-    "price": 83.16,
-    "date": "2026-01-13 10:31:57"
-  },
-  "★ Broken Fang Gloves | Needle Point (Minimal Wear)": {
-    "price": 126.5,
-    "date": "2026-01-13 10:31:57"
-  },
-  "★ Broken Fang Gloves | Needle Point (Factory New)": {
-    "price": 429.61,
-    "date": "2026-01-13 10:31:57"
-  },
   "★ Broken Fang Gloves | Yellow-banded (Field-Tested)": {
     "price": 93.35,
     "date": "2026-01-13 10:36:59"
@@ -4145,10 +4029,6 @@
   },
   "★ Broken Fang Gloves | Jade (Field-Tested)": {
     "price": 145.94,
-    "date": "2026-01-13 10:36:59"
-  },
-  "★ Broken Fang Gloves | Needle Point (Field-Tested)": {
-    "price": 85.3,
     "date": "2026-01-13 10:36:59"
   },
   "★ Broken Fang Gloves | Unhinged (Battle-Scarred)": {
@@ -4169,10 +4049,6 @@
   },
   "★ Broken Fang Gloves | Jade (Well-Worn)": {
     "price": 140.43,
-    "date": "2026-01-13 10:36:59"
-  },
-  "★ Broken Fang Gloves | Needle Point (Battle-Scarred)": {
-    "price": 82.13,
     "date": "2026-01-13 10:36:59"
   },
   "★ Hydra Gloves | Emerald (Field-Tested)": {
@@ -9586,5 +9462,129 @@
   "★ Sport Gloves | Amphibious (Minimal Wear)": {
     "price": 1602.93,
     "date": "2026-01-14 08:23:29"
+  },
+  "★ Sport Gloves | Bronze Morph (Field-Tested)": {
+    "price": 180.81,
+    "date": "2026-01-14 08:24:27"
+  },
+  "★ Sport Gloves | Bronze Morph (Minimal Wear)": {
+    "price": 341.96,
+    "date": "2026-01-14 08:24:27"
+  },
+  "★ Sport Gloves | Bronze Morph (Well-Worn)": {
+    "price": 225.35,
+    "date": "2026-01-14 08:24:27"
+  },
+  "★ Sport Gloves | Bronze Morph (Battle-Scarred)": {
+    "price": 155.6,
+    "date": "2026-01-14 08:24:27"
+  },
+  "★ Sport Gloves | Bronze Morph (Factory New)": {
+    "price": 1150.0,
+    "date": "2026-01-14 08:24:27"
+  },
+  "★ Sport Gloves | Slingshot (Field-Tested)": {
+    "price": 719.71,
+    "date": "2026-01-14 08:25:23"
+  },
+  "★ Sport Gloves | Slingshot (Battle-Scarred)": {
+    "price": 363.4,
+    "date": "2026-01-14 08:25:23"
+  },
+  "★ Sport Gloves | Slingshot (Well-Worn)": {
+    "price": 593.72,
+    "date": "2026-01-14 08:25:23"
+  },
+  "★ Bloodhound Gloves | Charred (Field-Tested)": {
+    "price": 510.0,
+    "date": "2026-01-14 08:26:19"
+  },
+  "★ Bloodhound Gloves | Charred (Well-Worn)": {
+    "price": 227.48,
+    "date": "2026-01-14 08:26:19"
+  },
+  "★ Bloodhound Gloves | Charred (Battle-Scarred)": {
+    "price": 198.3,
+    "date": "2026-01-14 08:26:19"
+  },
+  "★ Bloodhound Gloves | Charred (Minimal Wear)": {
+    "price": 660.0,
+    "date": "2026-01-14 08:26:19"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Field-Tested)": {
+    "price": 319.3,
+    "date": "2026-01-14 08:27:01"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Minimal Wear)": {
+    "price": 466.57,
+    "date": "2026-01-14 08:27:01"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Battle-Scarred)": {
+    "price": 135.67,
+    "date": "2026-01-14 08:27:01"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Well-Worn)": {
+    "price": 143.0,
+    "date": "2026-01-14 08:27:01"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Factory New)": {
+    "price": 699.9,
+    "date": "2026-01-14 08:27:01"
+  },
+  "★ Bloodhound Gloves | Bronzed (Field-Tested)": {
+    "price": 301.24,
+    "date": "2026-01-14 08:27:41"
+  },
+  "★ Bloodhound Gloves | Bronzed (Minimal Wear)": {
+    "price": 446.37,
+    "date": "2026-01-14 08:27:41"
+  },
+  "★ Bloodhound Gloves | Bronzed (Battle-Scarred)": {
+    "price": 126.8,
+    "date": "2026-01-14 08:27:41"
+  },
+  "★ Bloodhound Gloves | Bronzed (Well-Worn)": {
+    "price": 139.99,
+    "date": "2026-01-14 08:27:41"
+  },
+  "★ Bloodhound Gloves | Bronzed (Factory New)": {
+    "price": 1743.83,
+    "date": "2026-01-14 08:27:41"
+  },
+  "★ Bloodhound Gloves | Snakebite (Field-Tested)": {
+    "price": 338.28,
+    "date": "2026-01-14 08:28:26"
+  },
+  "★ Bloodhound Gloves | Snakebite (Battle-Scarred)": {
+    "price": 138.23,
+    "date": "2026-01-14 08:28:26"
+  },
+  "★ Bloodhound Gloves | Snakebite (Well-Worn)": {
+    "price": 161.04,
+    "date": "2026-01-14 08:28:26"
+  },
+  "★ Bloodhound Gloves | Snakebite (Minimal Wear)": {
+    "price": 431.6,
+    "date": "2026-01-14 08:28:26"
+  },
+  "★ Broken Fang Gloves | Needle Point (Field-Tested)": {
+    "price": 91.66,
+    "date": "2026-01-14 08:29:08"
+  },
+  "★ Broken Fang Gloves | Needle Point (Battle-Scarred)": {
+    "price": 89.24,
+    "date": "2026-01-14 08:29:08"
+  },
+  "★ Broken Fang Gloves | Needle Point (Well-Worn)": {
+    "price": 88.75,
+    "date": "2026-01-14 08:29:08"
+  },
+  "★ Broken Fang Gloves | Needle Point (Minimal Wear)": {
+    "price": 134.28,
+    "date": "2026-01-14 08:29:08"
+  },
+  "★ Broken Fang Gloves | Needle Point (Factory New)": {
+    "price": 429.25,
+    "date": "2026-01-14 08:29:08"
   }
 }
