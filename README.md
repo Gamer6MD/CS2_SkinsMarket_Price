@@ -2,7 +2,7 @@
 This repository serves as a centralized data hub for Counter-Strike 2 skin prices, collected directly from the Steam Community Market. The project is dedicated to providing up-to-date market information in a machine-readable format (.json).
 ## 📊 Provided Data
 The repository contains the prices.json file, which includes:
- * Real-time Prices: Current listing values on the Steam Market (in USD).
+ * Real-time Prices: Current listing values on the Steam Market (in USD). Data time is UTC+02:00 (Romania, Bucharest / Moldova, Chisinau)
  * Comprehensive Coverage: Data for both standard (Normal) and StatTrak™ variants.
  * Wear Differentiation: Specific pricing for every skin condition (Factory New, Minimal Wear, etc.).
 ## ⏱️ Update Frequency
