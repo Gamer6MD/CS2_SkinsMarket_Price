@@ -6775,86 +6775,6 @@
     "price": 763.15,
     "date": "2026-01-13 17:04:17"
   },
-  "★ Moto Gloves | Blood Pressure (Field-Tested)": {
-    "price": 224.25,
-    "date": "2026-01-14 07:58:42"
-  },
-  "★ Moto Gloves | Blood Pressure (Battle-Scarred)": {
-    "price": 138.34,
-    "date": "2026-01-14 07:58:42"
-  },
-  "★ Moto Gloves | Blood Pressure (Minimal Wear)": {
-    "price": 420.48,
-    "date": "2026-01-14 07:58:42"
-  },
-  "★ Moto Gloves | Blood Pressure (Well-Worn)": {
-    "price": 216.96,
-    "date": "2026-01-14 07:58:42"
-  },
-  "★ Moto Gloves | Blood Pressure (Factory New)": {
-    "price": 1350.0,
-    "date": "2026-01-14 07:58:42"
-  },
-  "★ Moto Gloves | Finish Line (Field-Tested)": {
-    "price": 157.98,
-    "date": "2026-01-14 07:59:22"
-  },
-  "★ Moto Gloves | Finish Line (Battle-Scarred)": {
-    "price": 110.79,
-    "date": "2026-01-14 07:59:22"
-  },
-  "★ Moto Gloves | Finish Line (Minimal Wear)": {
-    "price": 370.47,
-    "date": "2026-01-14 07:59:22"
-  },
-  "★ Moto Gloves | Finish Line (Well-Worn)": {
-    "price": 134.98,
-    "date": "2026-01-14 07:59:22"
-  },
-  "★ Moto Gloves | Finish Line (Factory New)": {
-    "price": 1502.39,
-    "date": "2026-01-14 07:59:22"
-  },
-  "★ Moto Gloves | POW! (Field-Tested)": {
-    "price": 157.51,
-    "date": "2026-01-14 08:00:11"
-  },
-  "★ Moto Gloves | POW! (Minimal Wear)": {
-    "price": 450.47,
-    "date": "2026-01-14 08:00:11"
-  },
-  "★ Moto Gloves | POW! (Well-Worn)": {
-    "price": 138.47,
-    "date": "2026-01-14 08:00:11"
-  },
-  "★ Moto Gloves | POW! (Battle-Scarred)": {
-    "price": 105.82,
-    "date": "2026-01-14 08:00:11"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Field-Tested)": {
-    "price": 79.5,
-    "date": "2026-01-14 08:01:02"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)": {
-    "price": 73.55,
-    "date": "2026-01-14 08:01:02"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Minimal Wear)": {
-    "price": 163.0,
-    "date": "2026-01-14 08:01:02"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Well-Worn)": {
-    "price": 83.12,
-    "date": "2026-01-14 08:01:02"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Factory New)": {
-    "price": 575.0,
-    "date": "2026-01-14 08:01:02"
-  },
-  "★ Moto Gloves | Spearmint (Battle-Scarred)": {
-    "price": 969.31,
-    "date": "2026-01-14 08:01:52"
-  },
   "★ Moto Gloves | Boom! (Well-Worn)": {
     "price": 367.48,
     "date": "2026-01-14 08:02:39"
@@ -9618,5 +9538,85 @@
   "★ Moto Gloves | Turtle (Factory New)": {
     "price": 1495.0,
     "date": "2026-01-14 11:53:15"
+  },
+  "★ Moto Gloves | Blood Pressure (Field-Tested)": {
+    "price": 224.25,
+    "date": "2026-01-14 11:54:08"
+  },
+  "★ Moto Gloves | Blood Pressure (Battle-Scarred)": {
+    "price": 138.34,
+    "date": "2026-01-14 11:54:08"
+  },
+  "★ Moto Gloves | Blood Pressure (Minimal Wear)": {
+    "price": 418.46,
+    "date": "2026-01-14 11:54:08"
+  },
+  "★ Moto Gloves | Blood Pressure (Well-Worn)": {
+    "price": 210.0,
+    "date": "2026-01-14 11:54:08"
+  },
+  "★ Moto Gloves | Blood Pressure (Factory New)": {
+    "price": 1350.0,
+    "date": "2026-01-14 11:54:08"
+  },
+  "★ Moto Gloves | Finish Line (Field-Tested)": {
+    "price": 157.98,
+    "date": "2026-01-14 11:54:54"
+  },
+  "★ Moto Gloves | Finish Line (Battle-Scarred)": {
+    "price": 110.25,
+    "date": "2026-01-14 11:54:54"
+  },
+  "★ Moto Gloves | Finish Line (Minimal Wear)": {
+    "price": 370.47,
+    "date": "2026-01-14 11:54:54"
+  },
+  "★ Moto Gloves | Finish Line (Well-Worn)": {
+    "price": 139.39,
+    "date": "2026-01-14 11:54:54"
+  },
+  "★ Moto Gloves | Finish Line (Factory New)": {
+    "price": 1502.39,
+    "date": "2026-01-14 11:54:54"
+  },
+  "★ Moto Gloves | POW! (Field-Tested)": {
+    "price": 154.99,
+    "date": "2026-01-14 11:55:47"
+  },
+  "★ Moto Gloves | POW! (Minimal Wear)": {
+    "price": 450.47,
+    "date": "2026-01-14 11:55:47"
+  },
+  "★ Moto Gloves | POW! (Well-Worn)": {
+    "price": 138.47,
+    "date": "2026-01-14 11:55:47"
+  },
+  "★ Moto Gloves | POW! (Battle-Scarred)": {
+    "price": 105.82,
+    "date": "2026-01-14 11:55:47"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Field-Tested)": {
+    "price": 82.89,
+    "date": "2026-01-14 11:56:24"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)": {
+    "price": 71.0,
+    "date": "2026-01-14 11:56:24"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Minimal Wear)": {
+    "price": 164.3,
+    "date": "2026-01-14 11:56:24"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Well-Worn)": {
+    "price": 83.12,
+    "date": "2026-01-14 11:56:24"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Factory New)": {
+    "price": 575.0,
+    "date": "2026-01-14 11:56:24"
+  },
+  "★ Moto Gloves | Spearmint (Battle-Scarred)": {
+    "price": 969.31,
+    "date": "2026-01-14 13:28:07"
   }
 }
