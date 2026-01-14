@@ -20,10 +20,10 @@ The prices.json file is structured as an object, where the key is the official S
     "price": 5450.00,
     "date": "2024-05-20 14:35:12"
   }
-}```
-
+}
+```
 ## ⚠️ Important Notes
  * Currency: All prices are expressed in USD.
  * Source: Data is sourced exclusively from the Steam Community Market.
  * Purpose: This repository is intended for developers who need a consistent price feed or users who wish to track market trends without running their own scripts.
-This repository contains only the resulting data. The collector's source code is private and runs on a separate infrastructure.
+**This repository contains only the resulting data. The collector's source code is private and runs on a separate infrastructure.**
