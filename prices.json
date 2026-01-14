@@ -6775,42 +6775,6 @@
     "price": 763.15,
     "date": "2026-01-13 17:04:17"
   },
-  "★ Specialist Gloves | Foundation (Battle-Scarred)": {
-    "price": 411.48,
-    "date": "2026-01-14 08:17:55"
-  },
-  "★ Specialist Gloves | Foundation (Well-Worn)": {
-    "price": 698.59,
-    "date": "2026-01-14 08:17:55"
-  },
-  "★ Sport Gloves | Omega (Field-Tested)": {
-    "price": 410.2,
-    "date": "2026-01-14 08:18:39"
-  },
-  "★ Sport Gloves | Omega (Battle-Scarred)": {
-    "price": 279.95,
-    "date": "2026-01-14 08:18:39"
-  },
-  "★ Sport Gloves | Omega (Well-Worn)": {
-    "price": 367.73,
-    "date": "2026-01-14 08:18:39"
-  },
-  "★ Sport Gloves | Omega (Minimal Wear)": {
-    "price": 1308.24,
-    "date": "2026-01-14 08:18:39"
-  },
-  "★ Sport Gloves | Vice (Field-Tested)": {
-    "price": 908.66,
-    "date": "2026-01-14 08:19:20"
-  },
-  "★ Sport Gloves | Vice (Battle-Scarred)": {
-    "price": 499.99,
-    "date": "2026-01-14 08:19:20"
-  },
-  "★ Sport Gloves | Vice (Well-Worn)": {
-    "price": 824.28,
-    "date": "2026-01-14 08:19:20"
-  },
   "★ Sport Gloves | Scarlet Shamagh (Field-Tested)": {
     "price": 402.42,
     "date": "2026-01-14 08:20:15"
@@ -9535,76 +9499,8 @@
     "price": 291.65,
     "date": "2026-01-14 13:54:49"
   },
-  "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
-    "price": 600.0,
-    "date": "2026-01-14 13:55:33"
-  },
-  "★ Specialist Gloves | Crimson Web (Well-Worn)": {
-    "price": 226.09,
-    "date": "2026-01-14 13:55:33"
-  },
-  "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
-    "price": 177.99,
-    "date": "2026-01-14 13:55:33"
-  },
-  "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
-    "price": 886.37,
-    "date": "2026-01-14 13:55:33"
-  },
-  "★ Specialist Gloves | Emerald Web (Well-Worn)": {
-    "price": 1349.9,
-    "date": "2026-01-14 13:55:33"
-  },
-  "★ Specialist Gloves | Marble Fade (Battle-Scarred)": {
-    "price": 184.51,
-    "date": "2026-01-14 13:56:27"
-  },
-  "★ Specialist Gloves | Fade (Battle-Scarred)": {
-    "price": 198.3,
-    "date": "2026-01-14 13:56:27"
-  },
-  "★ Specialist Gloves | Fade (Well-Worn)": {
-    "price": 297.46,
-    "date": "2026-01-14 13:56:27"
-  },
-  "★ Specialist Gloves | Marble Fade (Well-Worn)": {
-    "price": 220.0,
-    "date": "2026-01-14 13:56:27"
-  },
-  "★ Specialist Gloves | Marble Fade (Minimal Wear)": {
-    "price": 826.16,
-    "date": "2026-01-14 13:56:27"
-  },
-  "★ Specialist Gloves | Fade (Minimal Wear)": {
-    "price": 1035.32,
-    "date": "2026-01-14 13:56:27"
-  },
-  "★ Specialist Gloves | Crimson Web (Field-Tested)": {
-    "price": 253.62,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Fade (Field-Tested)": {
-    "price": 360.0,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Lt. Commander (Field-Tested)": {
-    "price": 181.31,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Marble Fade (Field-Tested)": {
-    "price": 261.99,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Mogul (Field-Tested)": {
-    "price": 174.99,
-    "date": "2026-01-14 13:57:24"
-  },
   "★ Specialist Gloves | Field Agent (Field-Tested)": {
     "price": 239.92,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Tiger Strike (Field-Tested)": {
-    "price": 340.48,
     "date": "2026-01-14 13:57:24"
   },
   "★ Specialist Gloves | Field Agent (Battle-Scarred)": {
@@ -9634,5 +9530,149 @@
   "★ Specialist Gloves | Buckshot (Factory New)": {
     "price": 653.23,
     "date": "2026-01-14 13:58:13"
+  },
+  "★ Specialist Gloves | Fade (Field-Tested)": {
+    "price": 360.0,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Marble Fade (Field-Tested)": {
+    "price": 261.99,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Marble Fade (Battle-Scarred)": {
+    "price": 184.51,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Fade (Battle-Scarred)": {
+    "price": 198.3,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Marble Fade (Well-Worn)": {
+    "price": 220.0,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Fade (Well-Worn)": {
+    "price": 297.46,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Marble Fade (Minimal Wear)": {
+    "price": 826.16,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Fade (Minimal Wear)": {
+    "price": 1035.32,
+    "date": "2026-01-14 13:59:54"
+  },
+  "★ Specialist Gloves | Foundation (Battle-Scarred)": {
+    "price": 411.48,
+    "date": "2026-01-14 14:00:31"
+  },
+  "★ Specialist Gloves | Foundation (Well-Worn)": {
+    "price": 698.59,
+    "date": "2026-01-14 14:00:31"
+  },
+  "★ Specialist Gloves | Lt. Commander (Field-Tested)": {
+    "price": 181.31,
+    "date": "2026-01-14 14:01:22"
+  },
+  "★ Specialist Gloves | Lt. Commander (Battle-Scarred)": {
+    "price": 148.37,
+    "date": "2026-01-14 14:01:22"
+  },
+  "★ Specialist Gloves | Lt. Commander (Minimal Wear)": {
+    "price": 384.94,
+    "date": "2026-01-14 14:01:22"
+  },
+  "★ Specialist Gloves | Lt. Commander (Well-Worn)": {
+    "price": 183.6,
+    "date": "2026-01-14 14:01:22"
+  },
+  "★ Specialist Gloves | Tiger Strike (Field-Tested)": {
+    "price": 340.48,
+    "date": "2026-01-14 14:02:07"
+  },
+  "★ Specialist Gloves | Tiger Strike (Battle-Scarred)": {
+    "price": 176.89,
+    "date": "2026-01-14 14:02:07"
+  },
+  "★ Specialist Gloves | Tiger Strike (Minimal Wear)": {
+    "price": 932.0,
+    "date": "2026-01-14 14:02:07"
+  },
+  "★ Specialist Gloves | Tiger Strike (Well-Worn)": {
+    "price": 274.74,
+    "date": "2026-01-14 14:02:07"
+  },
+  "★ Specialist Gloves | Crimson Web (Field-Tested)": {
+    "price": 253.62,
+    "date": "2026-01-14 14:02:50"
+  },
+  "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
+    "price": 600.0,
+    "date": "2026-01-14 14:02:50"
+  },
+  "★ Specialist Gloves | Crimson Web (Well-Worn)": {
+    "price": 226.09,
+    "date": "2026-01-14 14:02:50"
+  },
+  "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
+    "price": 177.99,
+    "date": "2026-01-14 14:02:50"
+  },
+  "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
+    "price": 886.37,
+    "date": "2026-01-14 14:02:50"
+  },
+  "★ Specialist Gloves | Emerald Web (Well-Worn)": {
+    "price": 1349.9,
+    "date": "2026-01-14 14:02:50"
+  },
+  "★ Specialist Gloves | Mogul (Field-Tested)": {
+    "price": 174.99,
+    "date": "2026-01-14 14:11:52"
+  },
+  "★ Specialist Gloves | Mogul (Battle-Scarred)": {
+    "price": 150.0,
+    "date": "2026-01-14 14:11:52"
+  },
+  "★ Specialist Gloves | Mogul (Minimal Wear)": {
+    "price": 354.56,
+    "date": "2026-01-14 14:11:52"
+  },
+  "★ Specialist Gloves | Mogul (Well-Worn)": {
+    "price": 171.12,
+    "date": "2026-01-14 14:11:52"
+  },
+  "★ Specialist Gloves | Mogul (Factory New)": {
+    "price": 1016.6,
+    "date": "2026-01-14 14:11:52"
+  },
+  "★ Sport Gloves | Omega (Field-Tested)": {
+    "price": 402.0,
+    "date": "2026-01-14 14:27:18"
+  },
+  "★ Sport Gloves | Omega (Battle-Scarred)": {
+    "price": 279.95,
+    "date": "2026-01-14 14:27:18"
+  },
+  "★ Sport Gloves | Omega (Well-Worn)": {
+    "price": 361.39,
+    "date": "2026-01-14 14:27:18"
+  },
+  "★ Sport Gloves | Omega (Minimal Wear)": {
+    "price": 1308.24,
+    "date": "2026-01-14 14:27:18"
+  },
+  "★ Sport Gloves | Vice (Field-Tested)": {
+    "price": 882.76,
+    "date": "2026-01-14 14:40:16"
+  },
+  "★ Sport Gloves | Vice (Battle-Scarred)": {
+    "price": 509.76,
+    "date": "2026-01-14 14:40:16"
+  },
+  "★ Sport Gloves | Vice (Well-Worn)": {
+    "price": 820.82,
+    "date": "2026-01-14 14:40:16"
   }
 }
