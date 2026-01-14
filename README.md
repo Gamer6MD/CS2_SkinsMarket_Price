@@ -1,5 +1,5 @@
 # CS2 SkinsMarket Price Tracker (Data Feed)
-This repository serves as a centralized data hub for Counter-Strike 2 skin prices, collected directly from the Steam Community Market. The project is dedicated to providing up-to-date market information in a machine-readable format (.json).
+This repository serves as a centralized data hub for Counter-Strike 2 skin prices, collected directly from the Steam Community Market. The project is dedicated to providing up-to-date market information in a machine-readable format (.json) completely free.
 ## 📊 Provided Data
 The repository contains the prices.json file, which includes:
  * Real-time Prices: Current listing values on the Steam Market (in USD). Data time is UTC+02:00 (Romania, Bucharest / Moldova, Chisinau)
@@ -31,6 +31,7 @@ The prices.json file is structured as an object, where the key is the official S
 This project is in active development. If you find it useful and want to support its continuation:
 * Support the project: If I see enough support, I will invest more time and resources into this project to make it much better, faster and with extended functionalities.
 * Feedback: Any suggestions are welcome in the "Issues" section.
+ERC20/BEP20 wallet (binance): 0x8361392fad7cc5bca67522de8521c2236c23074d
 
 *This repository contains only the resulting data. The collector's source code is private and runs on a separate infrastructure.*
 
