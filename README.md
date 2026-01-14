@@ -27,4 +27,11 @@ The prices.json file is structured as an object, where the key is the official S
  * Source: Data is sourced exclusively from the Steam Community Market.
  * Purpose: This repository is intended for developers who need a consistent price feed or users who wish to track market trends without running their own scripts.
 
+## ☕ Support & Future Development
+This project is in active development. If you find it useful and want to support its continuation:
+* Support the project: If I see enough support, I will invest more time and resources into this project to make it much better, faster and with extended functionalities.
+* Feedback: Any suggestions are welcome in the "Issues" section.
+
 *This repository contains only the resulting data. The collector's source code is private and runs on a separate infrastructure.*
+
+*Disclaimer: This project is not affiliated with Valve Corporation or Steam.*
