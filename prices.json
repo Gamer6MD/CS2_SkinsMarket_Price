@@ -8107,22 +8107,6 @@
     "price": 1396.96,
     "date": "2026-01-14 08:02:39"
   },
-  "★ Moto Gloves | Smoke Out (Field-Tested)": {
-    "price": 188.97,
-    "date": "2026-01-14 08:03:17"
-  },
-  "★ Moto Gloves | Smoke Out (Minimal Wear)": {
-    "price": 378.2,
-    "date": "2026-01-14 08:03:17"
-  },
-  "★ Moto Gloves | Smoke Out (Battle-Scarred)": {
-    "price": 155.6,
-    "date": "2026-01-14 08:03:17"
-  },
-  "★ Moto Gloves | Smoke Out (Well-Worn)": {
-    "price": 174.38,
-    "date": "2026-01-14 08:03:17"
-  },
   "★ Moto Gloves | Cool Mint (Well-Worn)": {
     "price": 812.52,
     "date": "2026-01-14 08:03:54"
@@ -9606,5 +9590,21 @@
   "★ M9 Bayonet | Safari Mesh (Well-Worn)": {
     "price": 727.27,
     "date": "2026-01-14 08:50:48"
+  },
+  "★ Moto Gloves | Smoke Out (Field-Tested)": {
+    "price": 188.97,
+    "date": "2026-01-14 10:10:30"
+  },
+  "★ Moto Gloves | Smoke Out (Minimal Wear)": {
+    "price": 378.2,
+    "date": "2026-01-14 10:10:30"
+  },
+  "★ Moto Gloves | Smoke Out (Battle-Scarred)": {
+    "price": 155.6,
+    "date": "2026-01-14 10:10:30"
+  },
+  "★ Moto Gloves | Smoke Out (Well-Worn)": {
+    "price": 174.38,
+    "date": "2026-01-14 10:10:30"
   }
 }
