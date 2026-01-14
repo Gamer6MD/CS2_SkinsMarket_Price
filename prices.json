@@ -7119,126 +7119,6 @@
     "price": 378.0,
     "date": "2026-01-14 10:47:31"
   },
-  "★ Kukri Knife | Boreal Forest (Field-Tested)": {
-    "price": 79.99,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Survival Knife | Boreal Forest (Field-Tested)": {
-    "price": 74.66,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Navaja Knife | Boreal Forest (Field-Tested)": {
-    "price": 66.72,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Paracord Knife | Boreal Forest (Field-Tested)": {
-    "price": 79.88,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Kukri Knife | Boreal Forest (Battle-Scarred)": {
-    "price": 77.8,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Nomad Knife | Boreal Forest (Field-Tested)": {
-    "price": 124.84,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Shadow Daggers | Boreal Forest (Field-Tested)": {
-    "price": 66.48,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Falchion Knife | Boreal Forest (Field-Tested)": {
-    "price": 106.44,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Kukri Knife | Boreal Forest (Well-Worn)": {
-    "price": 78.0,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Kukri Knife | Boreal Forest (Minimal Wear)": {
-    "price": 93.52,
-    "date": "2026-01-14 10:55:16"
-  },
-  "★ Shadow Daggers | Bright Water (Field-Tested)": {
-    "price": 64.67,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Bowie Knife | Bright Water (Field-Tested)": {
-    "price": 93.33,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Huntsman Knife | Bright Water (Field-Tested)": {
-    "price": 94.92,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Shadow Daggers | Bright Water (Factory New)": {
-    "price": 76.4,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Shadow Daggers | Bright Water (Minimal Wear)": {
-    "price": 71.84,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Bowie Knife | Bright Water (Minimal Wear)": {
-    "price": 103.5,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Falchion Knife | Bright Water (Field-Tested)": {
-    "price": 111.69,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Bowie Knife | Bright Water (Factory New)": {
-    "price": 116.18,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Falchion Knife | Bright Water (Factory New)": {
-    "price": 138.52,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Falchion Knife | Bright Water (Minimal Wear)": {
-    "price": 121.87,
-    "date": "2026-01-14 10:56:13"
-  },
-  "★ Kukri Knife | Crimson Web (Field-Tested)": {
-    "price": 160.66,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Navaja Knife | Crimson Web (Field-Tested)": {
-    "price": 97.99,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Paracord Knife | Crimson Web (Field-Tested)": {
-    "price": 144.04,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Survival Knife | Crimson Web (Field-Tested)": {
-    "price": 126.5,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Kukri Knife | Crimson Web (Minimal Wear)": {
-    "price": 202.0,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Shadow Daggers | Crimson Web (Field-Tested)": {
-    "price": 105.29,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Kukri Knife | Crimson Web (Battle-Scarred)": {
-    "price": 126.8,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Gut Knife | Crimson Web (Field-Tested)": {
-    "price": 118.07,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Huntsman Knife | Crimson Web (Field-Tested)": {
-    "price": 154.65,
-    "date": "2026-01-14 10:57:08"
-  },
-  "★ Bowie Knife | Crimson Web (Field-Tested)": {
-    "price": 170.0,
-    "date": "2026-01-14 10:57:08"
-  },
   "★ Butterfly Knife | Night (Field-Tested)": {
     "price": 838.67,
     "date": "2026-01-14 10:57:50"
@@ -9698,5 +9578,125 @@
   "★ Gut Knife | Forest DDPAT (Field-Tested)": {
     "price": 74.12,
     "date": "2026-01-14 16:15:33"
+  },
+  "★ Kukri Knife | Boreal Forest (Field-Tested)": {
+    "price": 75.0,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Survival Knife | Boreal Forest (Field-Tested)": {
+    "price": 75.58,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Navaja Knife | Boreal Forest (Field-Tested)": {
+    "price": 66.72,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Paracord Knife | Boreal Forest (Field-Tested)": {
+    "price": 79.0,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Kukri Knife | Boreal Forest (Battle-Scarred)": {
+    "price": 76.06,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Nomad Knife | Boreal Forest (Field-Tested)": {
+    "price": 124.84,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Shadow Daggers | Boreal Forest (Field-Tested)": {
+    "price": 66.48,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Falchion Knife | Boreal Forest (Field-Tested)": {
+    "price": 106.44,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Kukri Knife | Boreal Forest (Well-Worn)": {
+    "price": 85.52,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Kukri Knife | Boreal Forest (Minimal Wear)": {
+    "price": 93.52,
+    "date": "2026-01-14 16:28:50"
+  },
+  "★ Shadow Daggers | Bright Water (Field-Tested)": {
+    "price": 64.67,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Bowie Knife | Bright Water (Field-Tested)": {
+    "price": 91.31,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Huntsman Knife | Bright Water (Field-Tested)": {
+    "price": 94.92,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Shadow Daggers | Bright Water (Factory New)": {
+    "price": 72.79,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Shadow Daggers | Bright Water (Minimal Wear)": {
+    "price": 72.26,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Bowie Knife | Bright Water (Minimal Wear)": {
+    "price": 103.46,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Falchion Knife | Bright Water (Field-Tested)": {
+    "price": 113.0,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Bowie Knife | Bright Water (Factory New)": {
+    "price": 116.18,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Falchion Knife | Bright Water (Factory New)": {
+    "price": 140.45,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Falchion Knife | Bright Water (Minimal Wear)": {
+    "price": 123.65,
+    "date": "2026-01-14 16:35:58"
+  },
+  "★ Kukri Knife | Crimson Web (Field-Tested)": {
+    "price": 147.55,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Navaja Knife | Crimson Web (Field-Tested)": {
+    "price": 97.0,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Paracord Knife | Crimson Web (Field-Tested)": {
+    "price": 143.92,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Survival Knife | Crimson Web (Field-Tested)": {
+    "price": 136.3,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Kukri Knife | Crimson Web (Minimal Wear)": {
+    "price": 190.0,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Shadow Daggers | Crimson Web (Field-Tested)": {
+    "price": 104.99,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Kukri Knife | Crimson Web (Battle-Scarred)": {
+    "price": 126.8,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Gut Knife | Crimson Web (Field-Tested)": {
+    "price": 119.44,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Huntsman Knife | Crimson Web (Field-Tested)": {
+    "price": 145.83,
+    "date": "2026-01-14 16:45:52"
+  },
+  "★ Bowie Knife | Crimson Web (Field-Tested)": {
+    "price": 170.0,
+    "date": "2026-01-14 16:45:52"
   }
 }
