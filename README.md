@@ -31,7 +31,8 @@ The prices.json file is structured as an object, where the key is the official S
 This project is in active development. If you find it useful and want to support its continuation:
 * Support the project: If I see enough support, I will invest more time and resources into this project to make it much better, faster and with extended functionalities.
 * Feedback: Any suggestions are welcome in the "Issues" section.
-ERC20/BEP20 wallet (binance): 0x8361392fad7cc5bca67522de8521c2236c23074d
+* ERC20/BEP20 wallet (binance): 0x8361392fad7cc5bca67522de8521c2236c23074d
+
 
 *This repository contains only the resulting data. The collector's source code is private and runs on a separate infrastructure.*
 
