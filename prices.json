@@ -5779,56 +5779,20 @@
     "price": 1319.48,
     "date": "2026-01-13 17:00:34"
   },
-  "★ Karambit | Rust Coat (Battle-Scarred)": {
-    "price": 655.66,
-    "date": "2026-01-13 17:01:14"
-  },
   "★ StatTrak™ Karambit | Rust Coat (Battle-Scarred)": {
     "price": 699.32,
     "date": "2026-01-13 17:01:14"
   },
-  "★ Karambit | Lore (Field-Tested)": {
-    "price": 916.98,
-    "date": "2026-01-13 17:01:57"
-  },
-  "★ Karambit | Lore (Battle-Scarred)": {
-    "price": 765.84,
-    "date": "2026-01-13 17:01:57"
-  },
   "★ StatTrak™ Karambit | Lore (Field-Tested)": {
     "price": 900.0,
-    "date": "2026-01-13 17:01:57"
-  },
-  "★ Karambit | Lore (Well-Worn)": {
-    "price": 872.67,
-    "date": "2026-01-13 17:01:57"
-  },
-  "★ Karambit | Lore (Minimal Wear)": {
-    "price": 1399.98,
     "date": "2026-01-13 17:01:57"
   },
   "★ StatTrak™ Karambit | Lore (Battle-Scarred)": {
     "price": 647.04,
     "date": "2026-01-13 17:01:57"
   },
-  "★ Karambit | Black Laminate (Minimal Wear)": {
-    "price": 1201.32,
-    "date": "2026-01-13 17:02:41"
-  },
-  "★ Karambit | Black Laminate (Battle-Scarred)": {
-    "price": 860.8,
-    "date": "2026-01-13 17:02:41"
-  },
   "★ StatTrak™ Karambit | Black Laminate (Battle-Scarred)": {
     "price": 934.19,
-    "date": "2026-01-13 17:02:41"
-  },
-  "★ Karambit | Black Laminate (Field-Tested)": {
-    "price": 1052.56,
-    "date": "2026-01-13 17:02:41"
-  },
-  "★ Karambit | Black Laminate (Well-Worn)": {
-    "price": 1061.61,
     "date": "2026-01-13 17:02:41"
   },
   "★ StatTrak™ Karambit | Black Laminate (Well-Worn)": {
@@ -5839,33 +5803,9 @@
     "price": 1300.0,
     "date": "2026-01-13 17:02:41"
   },
-  "★ Karambit | Autotronic (Battle-Scarred)": {
-    "price": 1246.19,
-    "date": "2026-01-13 17:03:35"
-  },
-  "★ Karambit | Autotronic (Field-Tested)": {
-    "price": 1519.15,
-    "date": "2026-01-13 17:03:35"
-  },
   "★ StatTrak™ Karambit | Autotronic (Field-Tested)": {
     "price": 1500.0,
     "date": "2026-01-13 17:03:35"
-  },
-  "★ Karambit | Forest DDPAT (Field-Tested)": {
-    "price": 572.97,
-    "date": "2026-01-13 17:04:17"
-  },
-  "★ Karambit | Forest DDPAT (Minimal Wear)": {
-    "price": 673.05,
-    "date": "2026-01-13 17:04:17"
-  },
-  "★ Karambit | Forest DDPAT (Battle-Scarred)": {
-    "price": 574.27,
-    "date": "2026-01-13 17:04:17"
-  },
-  "★ Karambit | Forest DDPAT (Well-Worn)": {
-    "price": 600.0,
-    "date": "2026-01-13 17:04:17"
   },
   "★ StatTrak™ Karambit | Forest DDPAT (Field-Tested)": {
     "price": 793.87,
@@ -9758,5 +9698,209 @@
   "★ Karambit | Case Hardened (Well-Worn)": {
     "price": 1174.89,
     "date": "2026-01-15 16:08:27"
+  },
+  "★ Karambit | Rust Coat (Battle-Scarred)": {
+    "price": 648.43,
+    "date": "2026-01-15 16:09:20"
+  },
+  "★ Karambit | Lore (Field-Tested)": {
+    "price": 943.0,
+    "date": "2026-01-15 16:10:16"
+  },
+  "★ Karambit | Lore (Battle-Scarred)": {
+    "price": 799.64,
+    "date": "2026-01-15 16:10:16"
+  },
+  "★ Karambit | Lore (Well-Worn)": {
+    "price": 871.09,
+    "date": "2026-01-15 16:10:16"
+  },
+  "★ Karambit | Lore (Minimal Wear)": {
+    "price": 1412.47,
+    "date": "2026-01-15 16:10:16"
+  },
+  "★ Karambit | Black Laminate (Minimal Wear)": {
+    "price": 1199.15,
+    "date": "2026-01-15 16:11:04"
+  },
+  "★ Karambit | Black Laminate (Battle-Scarred)": {
+    "price": 845.02,
+    "date": "2026-01-15 16:11:04"
+  },
+  "★ Karambit | Black Laminate (Well-Worn)": {
+    "price": 1321.44,
+    "date": "2026-01-15 16:11:04"
+  },
+  "★ Karambit | Black Laminate (Field-Tested)": {
+    "price": 1160.0,
+    "date": "2026-01-15 16:11:04"
+  },
+  "★ Karambit | Autotronic (Battle-Scarred)": {
+    "price": 1150.0,
+    "date": "2026-01-15 16:14:33"
+  },
+  "★ Karambit | Autotronic (Field-Tested)": {
+    "price": 1529.64,
+    "date": "2026-01-15 16:14:33"
+  },
+  "★ Karambit | Forest DDPAT (Field-Tested)": {
+    "price": 563.5,
+    "date": "2026-01-15 16:30:42"
+  },
+  "★ Karambit | Forest DDPAT (Battle-Scarred)": {
+    "price": 690.0,
+    "date": "2026-01-15 16:30:42"
+  },
+  "★ Karambit | Forest DDPAT (Minimal Wear)": {
+    "price": 700.0,
+    "date": "2026-01-15 16:30:42"
+  },
+  "★ Karambit | Forest DDPAT (Well-Worn)": {
+    "price": 585.0,
+    "date": "2026-01-15 16:30:42"
+  },
+  "★ Karambit | Boreal Forest (Field-Tested)": {
+    "price": 552.13,
+    "date": "2026-01-15 16:31:27"
+  },
+  "★ Karambit | Boreal Forest (Minimal Wear)": {
+    "price": 687.29,
+    "date": "2026-01-15 16:31:27"
+  },
+  "★ Karambit | Boreal Forest (Well-Worn)": {
+    "price": 571.22,
+    "date": "2026-01-15 16:31:27"
+  },
+  "★ Karambit | Boreal Forest (Battle-Scarred)": {
+    "price": 862.5,
+    "date": "2026-01-15 16:31:27"
+  },
+  "★ Karambit | Bright Water (Factory New)": {
+    "price": 914.74,
+    "date": "2026-01-15 16:32:22"
+  },
+  "★ Karambit | Bright Water (Minimal Wear)": {
+    "price": 800.0,
+    "date": "2026-01-15 16:32:22"
+  },
+  "★ Karambit | Bright Water (Field-Tested)": {
+    "price": 658.0,
+    "date": "2026-01-15 16:32:22"
+  },
+  "★ Karambit | Bright Water (Battle-Scarred)": {
+    "price": 750.0,
+    "date": "2026-01-15 16:32:22"
+  },
+  "★ Karambit | Crimson Web (Field-Tested)": {
+    "price": 929.98,
+    "date": "2026-01-15 16:33:11"
+  },
+  "★ Karambit | Crimson Web (Battle-Scarred)": {
+    "price": 920.0,
+    "date": "2026-01-15 16:33:11"
+  },
+  "★ Karambit | Crimson Web (Minimal Wear)": {
+    "price": 1546.98,
+    "date": "2026-01-15 16:33:11"
+  },
+  "★ Karambit | Crimson Web (Well-Worn)": {
+    "price": 919.0,
+    "date": "2026-01-15 16:33:11"
+  },
+  "★ Karambit | Night (Field-Tested)": {
+    "price": 692.48,
+    "date": "2026-01-15 16:34:00"
+  },
+  "★ Karambit | Night (Minimal Wear)": {
+    "price": 989.39,
+    "date": "2026-01-15 16:34:00"
+  },
+  "★ Karambit | Night (Well-Worn)": {
+    "price": 805.0,
+    "date": "2026-01-15 16:34:00"
+  },
+  "★ Karambit | Night (Battle-Scarred)": {
+    "price": 1100.0,
+    "date": "2026-01-15 16:34:00"
+  },
+  "★ Karambit | Ultraviolet (Field-Tested)": {
+    "price": 698.06,
+    "date": "2026-01-15 16:34:39"
+  },
+  "★ Karambit | Ultraviolet (Battle-Scarred)": {
+    "price": 931.0,
+    "date": "2026-01-15 16:34:39"
+  },
+  "★ Karambit | Ultraviolet (Well-Worn)": {
+    "price": 734.18,
+    "date": "2026-01-15 16:34:39"
+  },
+  "★ Karambit | Ultraviolet (Minimal Wear)": {
+    "price": 1036.79,
+    "date": "2026-01-15 16:34:39"
+  },
+  "★ Karambit | Scorched (Minimal Wear)": {
+    "price": 841.17,
+    "date": "2026-01-15 16:35:27"
+  },
+  "★ Karambit | Scorched (Battle-Scarred)": {
+    "price": 712.35,
+    "date": "2026-01-15 16:35:27"
+  },
+  "★ Karambit | Scorched (Well-Worn)": {
+    "price": 699.23,
+    "date": "2026-01-15 16:35:27"
+  },
+  "★ Karambit | Scorched (Field-Tested)": {
+    "price": 627.48,
+    "date": "2026-01-15 16:35:27"
+  },
+  "★ Karambit | Safari Mesh (Field-Tested)": {
+    "price": 533.0,
+    "date": "2026-01-15 16:36:09"
+  },
+  "★ Karambit | Safari Mesh (Minimal Wear)": {
+    "price": 686.41,
+    "date": "2026-01-15 16:36:09"
+  },
+  "★ Karambit | Safari Mesh (Battle-Scarred)": {
+    "price": 701.44,
+    "date": "2026-01-15 16:36:09"
+  },
+  "★ Karambit | Urban Masked (Field-Tested)": {
+    "price": 627.29,
+    "date": "2026-01-15 16:36:49"
+  },
+  "★ Karambit | Urban Masked (Battle-Scarred)": {
+    "price": 581.0,
+    "date": "2026-01-15 16:36:49"
+  },
+  "★ Karambit | Urban Masked (Minimal Wear)": {
+    "price": 823.97,
+    "date": "2026-01-15 16:36:49"
+  },
+  "★ Karambit | Urban Masked (Well-Worn)": {
+    "price": 646.77,
+    "date": "2026-01-15 16:36:49"
+  },
+  "★ Kukri Knife | Fade (Factory New)": {
+    "price": 311.04,
+    "date": "2026-01-15 16:37:37"
+  },
+  "★ Kukri Knife | Fade (Minimal Wear)": {
+    "price": 379.08,
+    "date": "2026-01-15 16:37:37"
+  },
+  "★ Kukri Knife | Slaughter (Factory New)": {
+    "price": 249.98,
+    "date": "2026-01-15 16:38:49"
+  },
+  "★ Kukri Knife | Slaughter (Minimal Wear)": {
+    "price": 221.41,
+    "date": "2026-01-15 16:38:49"
+  },
+  "★ Kukri Knife | Slaughter (Field-Tested)": {
+    "price": 198.8,
+    "date": "2026-01-15 16:38:49"
   }
 }
