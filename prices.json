@@ -5479,24 +5479,12 @@
     "price": 327.77,
     "date": "2026-01-13 16:37:12"
   },
-  "★ Gut Knife | Doppler (Factory New)": {
-    "price": 180.05,
-    "date": "2026-01-13 16:37:56"
-  },
   "★ StatTrak™ Gut Knife | Doppler (Factory New)": {
     "price": 230.0,
     "date": "2026-01-13 16:37:56"
   },
   "★ StatTrak™ Gut Knife | Gamma Doppler (Factory New)": {
     "price": 276.99,
-    "date": "2026-01-13 16:37:56"
-  },
-  "★ Gut Knife | Doppler (Minimal Wear)": {
-    "price": 254.43,
-    "date": "2026-01-13 16:37:56"
-  },
-  "★ Gut Knife | Gamma Doppler (Minimal Wear)": {
-    "price": 446.67,
     "date": "2026-01-13 16:37:56"
   },
   "★ StatTrak™ Gut Knife | Doppler (Minimal Wear)": {
@@ -9039,10 +9027,6 @@
     "price": 363.41,
     "date": "2026-01-15 09:48:49"
   },
-  "★ Gut Knife | Gamma Doppler (Factory New)": {
-    "price": 235.69,
-    "date": "2026-01-15 09:48:49"
-  },
   "★ Navaja Knife | Marble Fade (Factory New)": {
     "price": 137.0,
     "date": "2026-01-15 09:49:44"
@@ -9742,5 +9726,21 @@
   "★ Gut Knife | Marble Fade (Minimal Wear)": {
     "price": 271.91,
     "date": "2026-01-15 10:28:03"
+  },
+  "★ Gut Knife | Doppler (Factory New)": {
+    "price": 188.95,
+    "date": "2026-01-15 11:07:37"
+  },
+  "★ Gut Knife | Gamma Doppler (Factory New)": {
+    "price": 228.01,
+    "date": "2026-01-15 11:07:37"
+  },
+  "★ Gut Knife | Doppler (Minimal Wear)": {
+    "price": 254.26,
+    "date": "2026-01-15 11:07:37"
+  },
+  "★ Gut Knife | Gamma Doppler (Minimal Wear)": {
+    "price": 369.95,
+    "date": "2026-01-15 11:07:37"
   }
 }
