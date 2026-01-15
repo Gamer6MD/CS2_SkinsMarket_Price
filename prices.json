@@ -5491,22 +5491,6 @@
     "price": 575.0,
     "date": "2026-01-13 16:37:56"
   },
-  "★ Gut Knife | Freehand (Field-Tested)": {
-    "price": 88.73,
-    "date": "2026-01-13 16:38:46"
-  },
-  "★ Gut Knife | Freehand (Minimal Wear)": {
-    "price": 102.08,
-    "date": "2026-01-13 16:38:46"
-  },
-  "★ Gut Knife | Freehand (Factory New)": {
-    "price": 124.0,
-    "date": "2026-01-13 16:38:46"
-  },
-  "★ Gut Knife | Freehand (Well-Worn)": {
-    "price": 115.76,
-    "date": "2026-01-13 16:38:46"
-  },
   "★ StatTrak™ Gut Knife | Freehand (Minimal Wear)": {
     "price": 122.51,
     "date": "2026-01-13 16:38:46"
@@ -5519,10 +5503,6 @@
     "price": 98.91,
     "date": "2026-01-13 16:38:46"
   },
-  "★ Gut Knife | Freehand (Battle-Scarred)": {
-    "price": 99.72,
-    "date": "2026-01-13 16:38:46"
-  },
   "★ StatTrak™ Gut Knife | Freehand (Well-Worn)": {
     "price": 153.13,
     "date": "2026-01-13 16:38:46"
@@ -5530,18 +5510,6 @@
   "★ StatTrak™ Gut Knife | Freehand (Battle-Scarred)": {
     "price": 440.28,
     "date": "2026-01-13 16:38:46"
-  },
-  "★ Gut Knife | Slaughter (Minimal Wear)": {
-    "price": 150.78,
-    "date": "2026-01-13 16:39:35"
-  },
-  "★ Gut Knife | Slaughter (Factory New)": {
-    "price": 191.42,
-    "date": "2026-01-13 16:39:35"
-  },
-  "★ Gut Knife | Slaughter (Field-Tested)": {
-    "price": 138.0,
-    "date": "2026-01-13 16:39:35"
   },
   "★ StatTrak™ Gut Knife | Slaughter (Minimal Wear)": {
     "price": 221.52,
@@ -9011,54 +8979,6 @@
     "price": 1165.36,
     "date": "2026-01-15 09:41:19"
   },
-  "★ Shadow Daggers | Gamma Doppler (Factory New)": {
-    "price": 142.0,
-    "date": "2026-01-15 09:48:49"
-  },
-  "★ Bowie Knife | Gamma Doppler (Factory New)": {
-    "price": 303.05,
-    "date": "2026-01-15 09:48:49"
-  },
-  "★ Falchion Knife | Gamma Doppler (Factory New)": {
-    "price": 345.0,
-    "date": "2026-01-15 09:48:49"
-  },
-  "★ Huntsman Knife | Gamma Doppler (Factory New)": {
-    "price": 363.41,
-    "date": "2026-01-15 09:48:49"
-  },
-  "★ Navaja Knife | Marble Fade (Factory New)": {
-    "price": 137.0,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Bowie Knife | Marble Fade (Factory New)": {
-    "price": 262.49,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Shadow Daggers | Marble Fade (Factory New)": {
-    "price": 149.91,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Falchion Knife | Marble Fade (Factory New)": {
-    "price": 281.43,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Paracord Knife | Marble Fade (Factory New)": {
-    "price": 205.0,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Survival Knife | Marble Fade (Factory New)": {
-    "price": 216.69,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Huntsman Knife | Marble Fade (Factory New)": {
-    "price": 290.0,
-    "date": "2026-01-15 09:49:44"
-  },
-  "★ Bayonet | Marble Fade (Factory New)": {
-    "price": 540.0,
-    "date": "2026-01-15 09:49:44"
-  },
   "★ Skeleton Knife | Marble Fade (Factory New)": {
     "price": 655.5,
     "date": "2026-01-15 09:49:44"
@@ -9110,46 +9030,6 @@
   "★ Flip Knife | Slaughter (Field-Tested)": {
     "price": 391.38,
     "date": "2026-01-15 09:52:33"
-  },
-  "★ Navaja Knife | Tiger Tooth (Factory New)": {
-    "price": 110.95,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Bowie Knife | Tiger Tooth (Factory New)": {
-    "price": 195.0,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Shadow Daggers | Tiger Tooth (Factory New)": {
-    "price": 124.0,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Falchion Knife | Tiger Tooth (Factory New)": {
-    "price": 228.29,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Survival Knife | Tiger Tooth (Factory New)": {
-    "price": 166.02,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Paracord Knife | Tiger Tooth (Factory New)": {
-    "price": 172.5,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Gut Knife | Tiger Tooth (Factory New)": {
-    "price": 149.5,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Huntsman Knife | Tiger Tooth (Factory New)": {
-    "price": 238.89,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Ursus Knife | Tiger Tooth (Factory New)": {
-    "price": 222.32,
-    "date": "2026-01-15 09:53:24"
-  },
-  "★ Talon Knife | Tiger Tooth (Factory New)": {
-    "price": 729.99,
-    "date": "2026-01-15 09:53:24"
   },
   "★ Kukri Knife | Blue Steel (Field-Tested)": {
     "price": 138.8,
@@ -9711,14 +9591,6 @@
     "price": 80.41,
     "date": "2026-01-15 10:18:01"
   },
-  "★ Gut Knife | Marble Fade (Factory New)": {
-    "price": 174.88,
-    "date": "2026-01-15 10:28:03"
-  },
-  "★ Gut Knife | Fade (Factory New)": {
-    "price": 202.79,
-    "date": "2026-01-15 10:28:03"
-  },
   "★ Gut Knife | Fade (Minimal Wear)": {
     "price": 269.99,
     "date": "2026-01-15 10:28:03"
@@ -9727,20 +9599,148 @@
     "price": 271.91,
     "date": "2026-01-15 10:28:03"
   },
+  "★ Shadow Daggers | Gamma Doppler (Factory New)": {
+    "price": 156.0,
+    "date": "2026-01-15 11:55:29"
+  },
+  "★ Bowie Knife | Gamma Doppler (Factory New)": {
+    "price": 302.5,
+    "date": "2026-01-15 11:55:29"
+  },
+  "★ Falchion Knife | Gamma Doppler (Factory New)": {
+    "price": 343.47,
+    "date": "2026-01-15 11:55:29"
+  },
+  "★ Huntsman Knife | Gamma Doppler (Factory New)": {
+    "price": 362.08,
+    "date": "2026-01-15 11:55:29"
+  },
+  "★ Navaja Knife | Marble Fade (Factory New)": {
+    "price": 132.73,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Bowie Knife | Marble Fade (Factory New)": {
+    "price": 263.0,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Shadow Daggers | Marble Fade (Factory New)": {
+    "price": 145.67,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Falchion Knife | Marble Fade (Factory New)": {
+    "price": 282.03,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Paracord Knife | Marble Fade (Factory New)": {
+    "price": 196.09,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Survival Knife | Marble Fade (Factory New)": {
+    "price": 216.69,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Gut Knife | Marble Fade (Factory New)": {
+    "price": 174.85,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Huntsman Knife | Marble Fade (Factory New)": {
+    "price": 289.94,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Bayonet | Marble Fade (Factory New)": {
+    "price": 540.0,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Gut Knife | Fade (Factory New)": {
+    "price": 202.79,
+    "date": "2026-01-15 11:56:10"
+  },
+  "★ Gut Knife | Freehand (Minimal Wear)": {
+    "price": 107.21,
+    "date": "2026-01-15 11:57:01"
+  },
+  "★ Gut Knife | Freehand (Field-Tested)": {
+    "price": 92.0,
+    "date": "2026-01-15 11:57:01"
+  },
+  "★ Gut Knife | Freehand (Factory New)": {
+    "price": 119.23,
+    "date": "2026-01-15 11:57:01"
+  },
+  "★ Gut Knife | Freehand (Well-Worn)": {
+    "price": 114.47,
+    "date": "2026-01-15 11:57:01"
+  },
+  "★ Gut Knife | Freehand (Battle-Scarred)": {
+    "price": 99.53,
+    "date": "2026-01-15 11:57:01"
+  },
   "★ Gut Knife | Doppler (Factory New)": {
     "price": 188.95,
-    "date": "2026-01-15 11:51:21"
+    "date": "2026-01-15 11:58:19"
   },
   "★ Gut Knife | Gamma Doppler (Factory New)": {
     "price": 228.01,
-    "date": "2026-01-15 11:51:21"
+    "date": "2026-01-15 11:58:19"
   },
   "★ Gut Knife | Doppler (Minimal Wear)": {
     "price": 254.26,
-    "date": "2026-01-15 11:51:21"
+    "date": "2026-01-15 11:58:19"
   },
   "★ Gut Knife | Gamma Doppler (Minimal Wear)": {
     "price": 369.95,
-    "date": "2026-01-15 11:51:21"
+    "date": "2026-01-15 11:58:19"
+  },
+  "★ Gut Knife | Slaughter (Minimal Wear)": {
+    "price": 157.61,
+    "date": "2026-01-15 11:59:01"
+  },
+  "★ Gut Knife | Slaughter (Factory New)": {
+    "price": 186.27,
+    "date": "2026-01-15 11:59:01"
+  },
+  "★ Gut Knife | Slaughter (Field-Tested)": {
+    "price": 138.0,
+    "date": "2026-01-15 11:59:01"
+  },
+  "★ Navaja Knife | Tiger Tooth (Factory New)": {
+    "price": 110.7,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Bowie Knife | Tiger Tooth (Factory New)": {
+    "price": 195.0,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Shadow Daggers | Tiger Tooth (Factory New)": {
+    "price": 116.55,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Falchion Knife | Tiger Tooth (Factory New)": {
+    "price": 220.0,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Survival Knife | Tiger Tooth (Factory New)": {
+    "price": 171.27,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Paracord Knife | Tiger Tooth (Factory New)": {
+    "price": 175.95,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Gut Knife | Tiger Tooth (Factory New)": {
+    "price": 149.5,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Huntsman Knife | Tiger Tooth (Factory New)": {
+    "price": 242.32,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Ursus Knife | Tiger Tooth (Factory New)": {
+    "price": 224.97,
+    "date": "2026-01-15 13:20:01"
+  },
+  "★ Talon Knife | Tiger Tooth (Factory New)": {
+    "price": 727.32,
+    "date": "2026-01-15 13:20:01"
   }
 }
