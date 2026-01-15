@@ -5627,24 +5627,12 @@
     "price": 80.55,
     "date": "2026-01-13 16:49:02"
   },
-  "★ Navaja Knife | Fade (Factory New)": {
-    "price": 151.77,
-    "date": "2026-01-13 16:49:45"
-  },
   "★ StatTrak™ Navaja Knife | Marble Fade (Factory New)": {
     "price": 225.07,
     "date": "2026-01-13 16:49:45"
   },
   "★ StatTrak™ Navaja Knife | Fade (Factory New)": {
     "price": 278.41,
-    "date": "2026-01-13 16:49:45"
-  },
-  "★ Navaja Knife | Marble Fade (Minimal Wear)": {
-    "price": 164.19,
-    "date": "2026-01-13 16:49:45"
-  },
-  "★ Navaja Knife | Fade (Minimal Wear)": {
-    "price": 190.0,
     "date": "2026-01-13 16:49:45"
   },
   "★ StatTrak™ Navaja Knife | Marble Fade (Minimal Wear)": {
@@ -9047,46 +9035,6 @@
     "price": 384.59,
     "date": "2026-01-15 10:04:55"
   },
-  "★ Kukri Knife | Urban Masked (Field-Tested)": {
-    "price": 86.25,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Survival Knife | Urban Masked (Field-Tested)": {
-    "price": 84.18,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Paracord Knife | Urban Masked (Field-Tested)": {
-    "price": 86.07,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Navaja Knife | Urban Masked (Field-Tested)": {
-    "price": 73.32,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Shadow Daggers | Urban Masked (Field-Tested)": {
-    "price": 71.02,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Skeleton Knife | Urban Masked (Field-Tested)": {
-    "price": 200.99,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Nomad Knife | Urban Masked (Field-Tested)": {
-    "price": 151.6,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Kukri Knife | Urban Masked (Minimal Wear)": {
-    "price": 126.5,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Ursus Knife | Urban Masked (Field-Tested)": {
-    "price": 110.95,
-    "date": "2026-01-15 10:18:01"
-  },
-  "★ Gut Knife | Urban Masked (Field-Tested)": {
-    "price": 80.41,
-    "date": "2026-01-15 10:18:01"
-  },
   "★ Gut Knife | Fade (Minimal Wear)": {
     "price": 269.99,
     "date": "2026-01-15 10:28:03"
@@ -9110,10 +9058,6 @@
   "★ Huntsman Knife | Gamma Doppler (Factory New)": {
     "price": 362.08,
     "date": "2026-01-15 11:55:29"
-  },
-  "★ Navaja Knife | Marble Fade (Factory New)": {
-    "price": 132.73,
-    "date": "2026-01-15 11:56:10"
   },
   "★ Bowie Knife | Marble Fade (Factory New)": {
     "price": 263.0,
@@ -9742,5 +9686,61 @@
   "★ Navaja Knife | Safari Mesh (Minimal Wear)": {
     "price": 71.15,
     "date": "2026-01-15 14:24:12"
+  },
+  "★ Kukri Knife | Urban Masked (Field-Tested)": {
+    "price": 86.21,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Survival Knife | Urban Masked (Field-Tested)": {
+    "price": 84.18,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Paracord Knife | Urban Masked (Field-Tested)": {
+    "price": 85.12,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Navaja Knife | Urban Masked (Field-Tested)": {
+    "price": 72.7,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Shadow Daggers | Urban Masked (Field-Tested)": {
+    "price": 68.93,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Skeleton Knife | Urban Masked (Field-Tested)": {
+    "price": 198.11,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Nomad Knife | Urban Masked (Field-Tested)": {
+    "price": 152.09,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Kukri Knife | Urban Masked (Minimal Wear)": {
+    "price": 127.3,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Ursus Knife | Urban Masked (Field-Tested)": {
+    "price": 118.86,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Gut Knife | Urban Masked (Field-Tested)": {
+    "price": 77.34,
+    "date": "2026-01-15 14:43:48"
+  },
+  "★ Navaja Knife | Marble Fade (Factory New)": {
+    "price": 138.53,
+    "date": "2026-01-15 15:07:30"
+  },
+  "★ Navaja Knife | Fade (Factory New)": {
+    "price": 151.5,
+    "date": "2026-01-15 15:07:30"
+  },
+  "★ Navaja Knife | Marble Fade (Minimal Wear)": {
+    "price": 181.81,
+    "date": "2026-01-15 15:07:30"
+  },
+  "★ Navaja Knife | Fade (Minimal Wear)": {
+    "price": 190.0,
+    "date": "2026-01-15 15:07:30"
   }
 }
