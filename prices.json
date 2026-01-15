@@ -5607,24 +5607,8 @@
     "price": 131.3,
     "date": "2026-01-13 16:47:21"
   },
-  "★ Gut Knife | Scorched (Field-Tested)": {
-    "price": 74.75,
-    "date": "2026-01-13 16:48:18"
-  },
-  "★ Gut Knife | Scorched (Battle-Scarred)": {
-    "price": 82.0,
-    "date": "2026-01-13 16:48:18"
-  },
-  "★ Gut Knife | Scorched (Minimal Wear)": {
-    "price": 94.61,
-    "date": "2026-01-13 16:48:18"
-  },
   "★ StatTrak™ Gut Knife | Scorched (Field-Tested)": {
     "price": 97.34,
-    "date": "2026-01-13 16:48:18"
-  },
-  "★ Gut Knife | Scorched (Well-Worn)": {
-    "price": 81.83,
     "date": "2026-01-13 16:48:18"
   },
   "★ StatTrak™ Gut Knife | Scorched (Minimal Wear)": {
@@ -9063,46 +9047,6 @@
     "price": 384.59,
     "date": "2026-01-15 10:04:55"
   },
-  "★ Kukri Knife | Safari Mesh (Field-Tested)": {
-    "price": 79.9,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Survival Knife | Safari Mesh (Field-Tested)": {
-    "price": 69.0,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Navaja Knife | Safari Mesh (Field-Tested)": {
-    "price": 60.12,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Paracord Knife | Safari Mesh (Field-Tested)": {
-    "price": 69.94,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Kukri Knife | Safari Mesh (Battle-Scarred)": {
-    "price": 81.74,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Shadow Daggers | Safari Mesh (Field-Tested)": {
-    "price": 69.0,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Paracord Knife | Safari Mesh (Battle-Scarred)": {
-    "price": 73.41,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Kukri Knife | Safari Mesh (Well-Worn)": {
-    "price": 77.05,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Nomad Knife | Safari Mesh (Field-Tested)": {
-    "price": 121.21,
-    "date": "2026-01-15 10:05:39"
-  },
-  "★ Navaja Knife | Safari Mesh (Minimal Wear)": {
-    "price": 71.15,
-    "date": "2026-01-15 10:05:39"
-  },
   "★ Kukri Knife | Urban Masked (Field-Tested)": {
     "price": 86.25,
     "date": "2026-01-15 10:18:01"
@@ -9742,5 +9686,61 @@
   "★ Gut Knife | Ultraviolet (Well-Worn)": {
     "price": 84.8,
     "date": "2026-01-15 13:52:41"
+  },
+  "★ Gut Knife | Scorched (Field-Tested)": {
+    "price": 81.01,
+    "date": "2026-01-15 14:10:35"
+  },
+  "★ Gut Knife | Scorched (Battle-Scarred)": {
+    "price": 83.73,
+    "date": "2026-01-15 14:10:35"
+  },
+  "★ Gut Knife | Scorched (Minimal Wear)": {
+    "price": 82.83,
+    "date": "2026-01-15 14:10:35"
+  },
+  "★ Gut Knife | Scorched (Well-Worn)": {
+    "price": 76.52,
+    "date": "2026-01-15 14:10:35"
+  },
+  "★ Kukri Knife | Safari Mesh (Field-Tested)": {
+    "price": 79.64,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Survival Knife | Safari Mesh (Field-Tested)": {
+    "price": 71.88,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Navaja Knife | Safari Mesh (Field-Tested)": {
+    "price": 63.77,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Paracord Knife | Safari Mesh (Field-Tested)": {
+    "price": 68.93,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Kukri Knife | Safari Mesh (Battle-Scarred)": {
+    "price": 79.21,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Shadow Daggers | Safari Mesh (Field-Tested)": {
+    "price": 67.58,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Paracord Knife | Safari Mesh (Battle-Scarred)": {
+    "price": 73.04,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Kukri Knife | Safari Mesh (Well-Worn)": {
+    "price": 77.05,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Nomad Knife | Safari Mesh (Field-Tested)": {
+    "price": 121.21,
+    "date": "2026-01-15 14:24:12"
+  },
+  "★ Navaja Knife | Safari Mesh (Minimal Wear)": {
+    "price": 71.15,
+    "date": "2026-01-15 14:24:12"
   }
 }
