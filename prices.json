@@ -6311,605 +6311,9 @@
     "price": 1566.78,
     "date": "2026-01-14 11:19:06"
   },
-  "★ Hand Wraps | Desert Shamagh (Field-Tested)": {
-    "price": 81.02,
-    "date": "2026-01-14 11:20:34"
-  },
-  "★ Hand Wraps | Desert Shamagh (Battle-Scarred)": {
-    "price": 82.83,
-    "date": "2026-01-14 11:20:34"
-  },
-  "★ Hand Wraps | Desert Shamagh (Well-Worn)": {
-    "price": 89.25,
-    "date": "2026-01-14 11:20:34"
-  },
-  "★ Hand Wraps | Desert Shamagh (Minimal Wear)": {
-    "price": 146.0,
-    "date": "2026-01-14 11:20:34"
-  },
-  "★ Hand Wraps | Badlands (Well-Worn)": {
-    "price": 291.66,
-    "date": "2026-01-14 11:21:28"
-  },
-  "★ Hand Wraps | Badlands (Field-Tested)": {
-    "price": 1206.13,
-    "date": "2026-01-14 11:21:28"
-  },
-  "★ Hand Wraps | Badlands (Battle-Scarred)": {
-    "price": 199.99,
-    "date": "2026-01-14 11:21:28"
-  },
-  "★ Hand Wraps | Badlands (Minimal Wear)": {
-    "price": 1225.91,
-    "date": "2026-01-14 11:21:28"
-  },
-  "★ Hand Wraps | CAUTION! (Field-Tested)": {
-    "price": 202.0,
-    "date": "2026-01-14 11:22:15"
-  },
-  "★ Hand Wraps | CAUTION! (Battle-Scarred)": {
-    "price": 180.83,
-    "date": "2026-01-14 11:22:15"
-  },
-  "★ Hand Wraps | CAUTION! (Well-Worn)": {
-    "price": 180.81,
-    "date": "2026-01-14 11:22:15"
-  },
-  "★ Hand Wraps | CAUTION! (Minimal Wear)": {
-    "price": 414.65,
-    "date": "2026-01-14 11:22:15"
-  },
-  "★ Hand Wraps | Duct Tape (Field-Tested)": {
-    "price": 90.57,
-    "date": "2026-01-14 11:22:58"
-  },
-  "★ Hand Wraps | Duct Tape (Well-Worn)": {
-    "price": 91.0,
-    "date": "2026-01-14 11:22:58"
-  },
-  "★ Hand Wraps | Duct Tape (Minimal Wear)": {
-    "price": 154.56,
-    "date": "2026-01-14 11:22:58"
-  },
-  "★ Hand Wraps | Duct Tape (Battle-Scarred)": {
-    "price": 88.13,
-    "date": "2026-01-14 11:22:58"
-  },
-  "★ Hand Wraps | Duct Tape (Factory New)": {
-    "price": 729.04,
-    "date": "2026-01-14 11:22:58"
-  },
-  "★ Hand Wraps | Cobalt Skulls (Field-Tested)": {
-    "price": 381.0,
-    "date": "2026-01-14 11:23:53"
-  },
-  "★ Hand Wraps | Cobalt Skulls (Battle-Scarred)": {
-    "price": 283.93,
-    "date": "2026-01-14 11:23:53"
-  },
-  "★ Hand Wraps | Cobalt Skulls (Minimal Wear)": {
-    "price": 816.52,
-    "date": "2026-01-14 11:23:53"
-  },
-  "★ Hand Wraps | Cobalt Skulls (Well-Worn)": {
-    "price": 340.0,
-    "date": "2026-01-14 11:23:53"
-  },
-  "★ Hand Wraps | Overprint (Field-Tested)": {
-    "price": 187.0,
-    "date": "2026-01-14 11:24:31"
-  },
-  "★ Hand Wraps | Overprint (Battle-Scarred)": {
-    "price": 134.98,
-    "date": "2026-01-14 11:24:31"
-  },
-  "★ Hand Wraps | Overprint (Well-Worn)": {
-    "price": 169.0,
-    "date": "2026-01-14 11:24:31"
-  },
-  "★ Hand Wraps | Overprint (Minimal Wear)": {
-    "price": 342.06,
-    "date": "2026-01-14 11:24:31"
-  },
-  "★ Hand Wraps | Overprint (Factory New)": {
-    "price": 999.0,
-    "date": "2026-01-14 11:24:31"
-  },
-  "★ Hand Wraps | Giraffe (Field-Tested)": {
-    "price": 86.25,
-    "date": "2026-01-14 11:25:14"
-  },
-  "★ Hand Wraps | Giraffe (Minimal Wear)": {
-    "price": 166.2,
-    "date": "2026-01-14 11:25:14"
-  },
-  "★ Hand Wraps | Giraffe (Battle-Scarred)": {
-    "price": 88.69,
-    "date": "2026-01-14 11:25:14"
-  },
-  "★ Hand Wraps | Giraffe (Well-Worn)": {
-    "price": 90.13,
-    "date": "2026-01-14 11:25:14"
-  },
-  "★ Hand Wraps | Giraffe (Factory New)": {
-    "price": 901.62,
-    "date": "2026-01-14 11:25:14"
-  },
-  "★ Hand Wraps | Arboreal (Field-Tested)": {
-    "price": 90.99,
-    "date": "2026-01-14 11:26:03"
-  },
-  "★ Hand Wraps | Arboreal (Battle-Scarred)": {
-    "price": 83.68,
-    "date": "2026-01-14 11:26:03"
-  },
-  "★ Hand Wraps | Arboreal (Minimal Wear)": {
-    "price": 163.32,
-    "date": "2026-01-14 11:26:03"
-  },
-  "★ Hand Wraps | Arboreal (Well-Worn)": {
-    "price": 90.42,
-    "date": "2026-01-14 11:26:03"
-  },
-  "★ Hand Wraps | Arboreal (Factory New)": {
-    "price": 522.58,
-    "date": "2026-01-14 11:26:03"
-  },
-  "★ Hand Wraps | Leather (Battle-Scarred)": {
-    "price": 468.92,
-    "date": "2026-01-14 11:26:45"
-  },
-  "★ Hand Wraps | Leather (Well-Worn)": {
-    "price": 569.4,
-    "date": "2026-01-14 11:26:45"
-  },
-  "★ Hand Wraps | Leather (Field-Tested)": {
-    "price": 1784.68,
-    "date": "2026-01-14 11:26:45"
-  },
-  "★ Hand Wraps | Leather (Minimal Wear)": {
-    "price": 1616.05,
-    "date": "2026-01-14 11:26:45"
-  },
-  "★ Hand Wraps | Constrictor (Field-Tested)": {
-    "price": 98.44,
-    "date": "2026-01-14 11:27:38"
-  },
-  "★ Hand Wraps | Constrictor (Minimal Wear)": {
-    "price": 149.5,
-    "date": "2026-01-14 11:27:38"
-  },
-  "★ Hand Wraps | Constrictor (Battle-Scarred)": {
-    "price": 85.16,
-    "date": "2026-01-14 11:27:38"
-  },
-  "★ Hand Wraps | Constrictor (Well-Worn)": {
-    "price": 92.14,
-    "date": "2026-01-14 11:27:38"
-  },
-  "★ Hand Wraps | Constrictor (Factory New)": {
-    "price": 597.26,
-    "date": "2026-01-14 11:27:38"
-  },
-  "★ Hand Wraps | Slaughter (Well-Worn)": {
-    "price": 501.57,
-    "date": "2026-01-14 11:28:33"
-  },
-  "★ Hand Wraps | Slaughter (Battle-Scarred)": {
-    "price": 414.54,
-    "date": "2026-01-14 11:28:33"
-  },
-  "★ Hand Wraps | Slaughter (Minimal Wear)": {
-    "price": 1976.35,
-    "date": "2026-01-14 11:28:33"
-  },
-  "★ Moto Gloves | Eclipse (Field-Tested)": {
-    "price": 746.52,
-    "date": "2026-01-14 11:41:03"
-  },
-  "★ Moto Gloves | Eclipse (Battle-Scarred)": {
-    "price": 163.92,
-    "date": "2026-01-14 11:41:03"
-  },
-  "★ Moto Gloves | Eclipse (Well-Worn)": {
-    "price": 291.65,
-    "date": "2026-01-14 11:41:03"
-  },
-  "★ Moto Gloves | Eclipse (Minimal Wear)": {
-    "price": 1153.61,
-    "date": "2026-01-14 11:41:03"
-  },
-  "★ Moto Gloves | Turtle (Field-Tested)": {
-    "price": 147.6,
-    "date": "2026-01-14 11:53:15"
-  },
-  "★ Moto Gloves | Turtle (Battle-Scarred)": {
-    "price": 97.92,
-    "date": "2026-01-14 11:53:15"
-  },
-  "★ Moto Gloves | Turtle (Well-Worn)": {
-    "price": 143.75,
-    "date": "2026-01-14 11:53:15"
-  },
-  "★ Moto Gloves | Turtle (Minimal Wear)": {
-    "price": 354.2,
-    "date": "2026-01-14 11:53:15"
-  },
-  "★ Moto Gloves | Turtle (Factory New)": {
-    "price": 1495.0,
-    "date": "2026-01-14 11:53:15"
-  },
-  "★ Moto Gloves | Blood Pressure (Field-Tested)": {
-    "price": 224.25,
-    "date": "2026-01-14 11:54:08"
-  },
-  "★ Moto Gloves | Blood Pressure (Battle-Scarred)": {
-    "price": 138.34,
-    "date": "2026-01-14 11:54:08"
-  },
-  "★ Moto Gloves | Blood Pressure (Minimal Wear)": {
-    "price": 418.46,
-    "date": "2026-01-14 11:54:08"
-  },
-  "★ Moto Gloves | Blood Pressure (Well-Worn)": {
-    "price": 210.0,
-    "date": "2026-01-14 11:54:08"
-  },
-  "★ Moto Gloves | Blood Pressure (Factory New)": {
-    "price": 1350.0,
-    "date": "2026-01-14 11:54:08"
-  },
-  "★ Moto Gloves | Finish Line (Field-Tested)": {
-    "price": 157.98,
-    "date": "2026-01-14 11:54:54"
-  },
-  "★ Moto Gloves | Finish Line (Battle-Scarred)": {
-    "price": 110.25,
-    "date": "2026-01-14 11:54:54"
-  },
-  "★ Moto Gloves | Finish Line (Minimal Wear)": {
-    "price": 370.47,
-    "date": "2026-01-14 11:54:54"
-  },
-  "★ Moto Gloves | Finish Line (Well-Worn)": {
-    "price": 139.39,
-    "date": "2026-01-14 11:54:54"
-  },
-  "★ Moto Gloves | Finish Line (Factory New)": {
-    "price": 1502.39,
-    "date": "2026-01-14 11:54:54"
-  },
-  "★ Moto Gloves | POW! (Field-Tested)": {
-    "price": 154.99,
-    "date": "2026-01-14 11:55:47"
-  },
-  "★ Moto Gloves | POW! (Minimal Wear)": {
-    "price": 450.47,
-    "date": "2026-01-14 11:55:47"
-  },
-  "★ Moto Gloves | POW! (Well-Worn)": {
-    "price": 138.47,
-    "date": "2026-01-14 11:55:47"
-  },
-  "★ Moto Gloves | POW! (Battle-Scarred)": {
-    "price": 105.82,
-    "date": "2026-01-14 11:55:47"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Field-Tested)": {
-    "price": 82.89,
-    "date": "2026-01-14 11:56:24"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)": {
-    "price": 71.0,
-    "date": "2026-01-14 11:56:24"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Minimal Wear)": {
-    "price": 164.3,
-    "date": "2026-01-14 11:56:24"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Well-Worn)": {
-    "price": 83.12,
-    "date": "2026-01-14 11:56:24"
-  },
-  "★ Moto Gloves | 3rd Commando Company (Factory New)": {
-    "price": 575.0,
-    "date": "2026-01-14 11:56:24"
-  },
-  "★ Moto Gloves | Spearmint (Battle-Scarred)": {
-    "price": 969.31,
-    "date": "2026-01-14 13:28:07"
-  },
-  "★ Moto Gloves | Boom! (Field-Tested)": {
-    "price": 1140.8,
-    "date": "2026-01-14 13:28:57"
-  },
-  "★ Moto Gloves | Boom! (Well-Worn)": {
-    "price": 392.0,
-    "date": "2026-01-14 13:28:57"
-  },
-  "★ Moto Gloves | Boom! (Battle-Scarred)": {
-    "price": 217.89,
-    "date": "2026-01-14 13:28:57"
-  },
-  "★ Moto Gloves | Boom! (Minimal Wear)": {
-    "price": 1396.96,
-    "date": "2026-01-14 13:28:57"
-  },
-  "★ Moto Gloves | Smoke Out (Field-Tested)": {
-    "price": 174.37,
-    "date": "2026-01-14 13:29:53"
-  },
-  "★ Moto Gloves | Smoke Out (Minimal Wear)": {
-    "price": 378.2,
-    "date": "2026-01-14 13:29:53"
-  },
-  "★ Moto Gloves | Smoke Out (Battle-Scarred)": {
-    "price": 155.6,
-    "date": "2026-01-14 13:29:53"
-  },
-  "★ Moto Gloves | Smoke Out (Well-Worn)": {
-    "price": 169.99,
-    "date": "2026-01-14 13:29:53"
-  },
-  "★ Moto Gloves | Cool Mint (Well-Worn)": {
-    "price": 933.27,
-    "date": "2026-01-14 13:30:46"
-  },
-  "★ Moto Gloves | Cool Mint (Battle-Scarred)": {
-    "price": 363.22,
-    "date": "2026-01-14 13:30:46"
-  },
-  "★ Moto Gloves | Polygon (Field-Tested)": {
-    "price": 209.99,
-    "date": "2026-01-14 13:31:39"
-  },
-  "★ Moto Gloves | Polygon (Minimal Wear)": {
-    "price": 426.55,
-    "date": "2026-01-14 13:31:39"
-  },
-  "★ Moto Gloves | Polygon (Battle-Scarred)": {
-    "price": 145.83,
-    "date": "2026-01-14 13:31:39"
-  },
-  "★ Moto Gloves | Polygon (Well-Worn)": {
-    "price": 194.35,
-    "date": "2026-01-14 13:31:39"
-  },
-  "★ Moto Gloves | Polygon (Factory New)": {
-    "price": 1475.56,
-    "date": "2026-01-14 13:31:39"
-  },
-  "★ Moto Gloves | Transport (Field-Tested)": {
-    "price": 75.91,
-    "date": "2026-01-14 13:32:25"
-  },
-  "★ Moto Gloves | Transport (Battle-Scarred)": {
-    "price": 65.92,
-    "date": "2026-01-14 13:32:25"
-  },
-  "★ Moto Gloves | Transport (Well-Worn)": {
-    "price": 70.15,
-    "date": "2026-01-14 13:32:25"
-  },
-  "★ Moto Gloves | Transport (Minimal Wear)": {
-    "price": 158.64,
-    "date": "2026-01-14 13:32:25"
-  },
-  "★ Moto Gloves | Transport (Factory New)": {
-    "price": 646.71,
-    "date": "2026-01-14 13:32:25"
-  },
-  "★ Driver Gloves | Snow Leopard (Field-Tested)": {
-    "price": 491.05,
-    "date": "2026-01-14 13:36:25"
-  },
-  "★ Driver Gloves | Snow Leopard (Battle-Scarred)": {
-    "price": 390.0,
-    "date": "2026-01-14 13:36:25"
-  },
-  "★ Driver Gloves | Snow Leopard (Well-Worn)": {
-    "price": 450.0,
-    "date": "2026-01-14 13:36:25"
-  },
-  "★ Driver Gloves | Snow Leopard (Minimal Wear)": {
-    "price": 1102.48,
-    "date": "2026-01-14 13:36:25"
-  },
-  "★ Driver Gloves | Queen Jaguar (Field-Tested)": {
-    "price": 106.0,
-    "date": "2026-01-14 13:37:05"
-  },
-  "★ Driver Gloves | Queen Jaguar (Minimal Wear)": {
-    "price": 218.04,
-    "date": "2026-01-14 13:37:05"
-  },
-  "★ Driver Gloves | Queen Jaguar (Well-Worn)": {
-    "price": 106.0,
-    "date": "2026-01-14 13:37:05"
-  },
-  "★ Driver Gloves | Queen Jaguar (Battle-Scarred)": {
-    "price": 90.0,
-    "date": "2026-01-14 13:37:05"
-  },
-  "★ Driver Gloves | Queen Jaguar (Factory New)": {
-    "price": 900.0,
-    "date": "2026-01-14 13:37:05"
-  },
-  "★ Driver Gloves | Convoy (Field-Tested)": {
-    "price": 605.4,
-    "date": "2026-01-14 13:37:57"
-  },
-  "★ Driver Gloves | Convoy (Minimal Wear)": {
-    "price": 650.0,
-    "date": "2026-01-14 13:37:57"
-  },
-  "★ Driver Gloves | Convoy (Battle-Scarred)": {
-    "price": 126.8,
-    "date": "2026-01-14 13:37:57"
-  },
-  "★ Driver Gloves | Convoy (Well-Worn)": {
-    "price": 190.92,
-    "date": "2026-01-14 13:37:57"
-  },
-  "★ Driver Gloves | Convoy (Factory New)": {
-    "price": 1493.05,
-    "date": "2026-01-14 13:37:57"
-  },
-  "★ Driver Gloves | Imperial Plaid (Field-Tested)": {
-    "price": 367.44,
-    "date": "2026-01-14 13:38:40"
-  },
-  "★ Driver Gloves | Imperial Plaid (Battle-Scarred)": {
-    "price": 249.98,
-    "date": "2026-01-14 13:38:40"
-  },
-  "★ Driver Gloves | Imperial Plaid (Minimal Wear)": {
-    "price": 856.58,
-    "date": "2026-01-14 13:38:40"
-  },
-  "★ Driver Gloves | Imperial Plaid (Well-Worn)": {
-    "price": 345.0,
-    "date": "2026-01-14 13:38:40"
-  },
-  "★ Driver Gloves | Crimson Weave (Battle-Scarred)": {
-    "price": 418.46,
-    "date": "2026-01-14 13:39:29"
-  },
-  "★ Driver Gloves | Crimson Weave (Well-Worn)": {
-    "price": 805.0,
-    "date": "2026-01-14 13:39:29"
-  },
-  "★ Driver Gloves | Lunar Weave (Well-Worn)": {
-    "price": 430.23,
-    "date": "2026-01-14 13:39:29"
-  },
-  "★ Driver Gloves | Lunar Weave (Battle-Scarred)": {
-    "price": 235.15,
-    "date": "2026-01-14 13:39:29"
-  },
   "★ Driver Gloves | Lunar Weave (Field-Tested)": {
     "price": 1621.34,
     "date": "2026-01-14 13:39:29"
-  },
-  "★ Driver Gloves | Rezan the Red (Field-Tested)": {
-    "price": 144.63,
-    "date": "2026-01-14 13:40:10"
-  },
-  "★ Driver Gloves | Rezan the Red (Minimal Wear)": {
-    "price": 367.43,
-    "date": "2026-01-14 13:40:10"
-  },
-  "★ Driver Gloves | Rezan the Red (Battle-Scarred)": {
-    "price": 115.98,
-    "date": "2026-01-14 13:40:10"
-  },
-  "★ Driver Gloves | Rezan the Red (Well-Worn)": {
-    "price": 131.73,
-    "date": "2026-01-14 13:40:10"
-  },
-  "★ Driver Gloves | Rezan the Red (Factory New)": {
-    "price": 1425.47,
-    "date": "2026-01-14 13:40:10"
-  },
-  "★ Driver Gloves | King Snake (Field-Tested)": {
-    "price": 291.6,
-    "date": "2026-01-14 13:40:57"
-  },
-  "★ Driver Gloves | King Snake (Battle-Scarred)": {
-    "price": 218.0,
-    "date": "2026-01-14 13:40:57"
-  },
-  "★ Driver Gloves | King Snake (Well-Worn)": {
-    "price": 230.54,
-    "date": "2026-01-14 13:40:57"
-  },
-  "★ Driver Gloves | King Snake (Minimal Wear)": {
-    "price": 969.31,
-    "date": "2026-01-14 13:40:57"
-  },
-  "★ Driver Gloves | Diamondback (Battle-Scarred)": {
-    "price": 204.16,
-    "date": "2026-01-14 13:41:39"
-  },
-  "★ Driver Gloves | Diamondback (Well-Worn)": {
-    "price": 350.0,
-    "date": "2026-01-14 13:41:39"
-  },
-  "★ Driver Gloves | Diamondback (Minimal Wear)": {
-    "price": 1725.0,
-    "date": "2026-01-14 13:41:39"
-  },
-  "★ Driver Gloves | Overtake (Field-Tested)": {
-    "price": 105.76,
-    "date": "2026-01-14 13:52:35"
-  },
-  "★ Driver Gloves | Overtake (Minimal Wear)": {
-    "price": 214.14,
-    "date": "2026-01-14 13:52:35"
-  },
-  "★ Driver Gloves | Overtake (Battle-Scarred)": {
-    "price": 86.22,
-    "date": "2026-01-14 13:52:35"
-  },
-  "★ Driver Gloves | Overtake (Well-Worn)": {
-    "price": 97.99,
-    "date": "2026-01-14 13:52:35"
-  },
-  "★ Driver Gloves | Overtake (Factory New)": {
-    "price": 768.82,
-    "date": "2026-01-14 13:52:35"
-  },
-  "★ Driver Gloves | Black Tie (Field-Tested)": {
-    "price": 238.09,
-    "date": "2026-01-14 13:53:24"
-  },
-  "★ Driver Gloves | Black Tie (Battle-Scarred)": {
-    "price": 180.7,
-    "date": "2026-01-14 13:53:24"
-  },
-  "★ Driver Gloves | Black Tie (Minimal Wear)": {
-    "price": 708.46,
-    "date": "2026-01-14 13:53:24"
-  },
-  "★ Driver Gloves | Black Tie (Well-Worn)": {
-    "price": 210.0,
-    "date": "2026-01-14 13:53:24"
-  },
-  "★ Driver Gloves | Racing Green (Field-Tested)": {
-    "price": 57.68,
-    "date": "2026-01-14 13:54:04"
-  },
-  "★ Driver Gloves | Racing Green (Battle-Scarred)": {
-    "price": 56.3,
-    "date": "2026-01-14 13:54:04"
-  },
-  "★ Driver Gloves | Racing Green (Minimal Wear)": {
-    "price": 149.67,
-    "date": "2026-01-14 13:54:04"
-  },
-  "★ Driver Gloves | Racing Green (Well-Worn)": {
-    "price": 58.96,
-    "date": "2026-01-14 13:54:04"
-  },
-  "★ Driver Gloves | Racing Green (Factory New)": {
-    "price": 468.99,
-    "date": "2026-01-14 13:54:04"
-  },
-  "★ Specialist Gloves | Forest DDPAT (Field-Tested)": {
-    "price": 659.99,
-    "date": "2026-01-14 13:54:49"
-  },
-  "★ Specialist Gloves | Forest DDPAT (Battle-Scarred)": {
-    "price": 212.66,
-    "date": "2026-01-14 13:54:49"
-  },
-  "★ Specialist Gloves | Forest DDPAT (Minimal Wear)": {
-    "price": 637.1,
-    "date": "2026-01-14 13:54:49"
-  },
-  "★ Specialist Gloves | Forest DDPAT (Well-Worn)": {
-    "price": 291.65,
-    "date": "2026-01-14 13:54:49"
   },
   "★ Specialist Gloves | Field Agent (Field-Tested)": {
     "price": 239.92,
@@ -6942,38 +6346,6 @@
   "★ Specialist Gloves | Buckshot (Factory New)": {
     "price": 653.23,
     "date": "2026-01-14 13:58:13"
-  },
-  "★ Specialist Gloves | Fade (Field-Tested)": {
-    "price": 360.0,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Marble Fade (Field-Tested)": {
-    "price": 261.99,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Marble Fade (Battle-Scarred)": {
-    "price": 184.51,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Fade (Battle-Scarred)": {
-    "price": 198.3,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Marble Fade (Well-Worn)": {
-    "price": 220.0,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Fade (Well-Worn)": {
-    "price": 297.46,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Marble Fade (Minimal Wear)": {
-    "price": 826.16,
-    "date": "2026-01-14 13:59:54"
-  },
-  "★ Specialist Gloves | Fade (Minimal Wear)": {
-    "price": 1035.32,
-    "date": "2026-01-14 13:59:54"
   },
   "★ Specialist Gloves | Foundation (Battle-Scarred)": {
     "price": 411.48,
@@ -7014,30 +6386,6 @@
   "★ Specialist Gloves | Tiger Strike (Well-Worn)": {
     "price": 274.74,
     "date": "2026-01-14 14:02:07"
-  },
-  "★ Specialist Gloves | Crimson Web (Field-Tested)": {
-    "price": 253.62,
-    "date": "2026-01-14 14:02:50"
-  },
-  "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
-    "price": 600.0,
-    "date": "2026-01-14 14:02:50"
-  },
-  "★ Specialist Gloves | Crimson Web (Well-Worn)": {
-    "price": 226.09,
-    "date": "2026-01-14 14:02:50"
-  },
-  "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
-    "price": 177.99,
-    "date": "2026-01-14 14:02:50"
-  },
-  "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
-    "price": 886.37,
-    "date": "2026-01-14 14:02:50"
-  },
-  "★ Specialist Gloves | Emerald Web (Well-Worn)": {
-    "price": 1349.9,
-    "date": "2026-01-14 14:02:50"
   },
   "★ Specialist Gloves | Mogul (Field-Tested)": {
     "price": 174.99,
@@ -9942,5 +9290,657 @@
   "★ Hand Wraps | Spruce DDPAT (Minimal Wear)": {
     "price": 1239.86,
     "date": "2026-01-15 17:01:57"
+  },
+  "★ Hand Wraps | Desert Shamagh (Field-Tested)": {
+    "price": 78.37,
+    "date": "2026-01-15 17:02:52"
+  },
+  "★ Hand Wraps | Desert Shamagh (Battle-Scarred)": {
+    "price": 77.74,
+    "date": "2026-01-15 17:02:52"
+  },
+  "★ Hand Wraps | Desert Shamagh (Well-Worn)": {
+    "price": 80.41,
+    "date": "2026-01-15 17:02:52"
+  },
+  "★ Hand Wraps | Desert Shamagh (Minimal Wear)": {
+    "price": 146.0,
+    "date": "2026-01-15 17:02:52"
+  },
+  "★ Hand Wraps | Badlands (Well-Worn)": {
+    "price": 293.33,
+    "date": "2026-01-15 17:03:41"
+  },
+  "★ Hand Wraps | Badlands (Battle-Scarred)": {
+    "price": 172.84,
+    "date": "2026-01-15 17:03:41"
+  },
+  "★ Hand Wraps | Badlands (Field-Tested)": {
+    "price": 1204.99,
+    "date": "2026-01-15 17:03:41"
+  },
+  "★ Hand Wraps | Badlands (Minimal Wear)": {
+    "price": 1225.6,
+    "date": "2026-01-15 17:03:41"
+  },
+  "★ Hand Wraps | CAUTION! (Field-Tested)": {
+    "price": 199.31,
+    "date": "2026-01-15 17:04:22"
+  },
+  "★ Hand Wraps | CAUTION! (Battle-Scarred)": {
+    "price": 174.81,
+    "date": "2026-01-15 17:04:22"
+  },
+  "★ Hand Wraps | CAUTION! (Well-Worn)": {
+    "price": 205.33,
+    "date": "2026-01-15 17:04:22"
+  },
+  "★ Hand Wraps | CAUTION! (Minimal Wear)": {
+    "price": 367.78,
+    "date": "2026-01-15 17:04:22"
+  },
+  "★ Hand Wraps | Duct Tape (Field-Tested)": {
+    "price": 91.48,
+    "date": "2026-01-15 17:05:11"
+  },
+  "★ Hand Wraps | Duct Tape (Well-Worn)": {
+    "price": 90.0,
+    "date": "2026-01-15 17:05:11"
+  },
+  "★ Hand Wraps | Duct Tape (Minimal Wear)": {
+    "price": 170.15,
+    "date": "2026-01-15 17:05:11"
+  },
+  "★ Hand Wraps | Duct Tape (Battle-Scarred)": {
+    "price": 89.98,
+    "date": "2026-01-15 17:05:11"
+  },
+  "★ Hand Wraps | Duct Tape (Factory New)": {
+    "price": 728.35,
+    "date": "2026-01-15 17:05:11"
+  },
+  "★ Hand Wraps | Cobalt Skulls (Field-Tested)": {
+    "price": 380.0,
+    "date": "2026-01-15 17:05:54"
+  },
+  "★ Hand Wraps | Cobalt Skulls (Battle-Scarred)": {
+    "price": 283.43,
+    "date": "2026-01-15 17:05:54"
+  },
+  "★ Hand Wraps | Cobalt Skulls (Minimal Wear)": {
+    "price": 815.74,
+    "date": "2026-01-15 17:05:54"
+  },
+  "★ Hand Wraps | Cobalt Skulls (Well-Worn)": {
+    "price": 340.0,
+    "date": "2026-01-15 17:05:54"
+  },
+  "★ Hand Wraps | Overprint (Field-Tested)": {
+    "price": 191.68,
+    "date": "2026-01-15 17:06:45"
+  },
+  "★ Hand Wraps | Overprint (Battle-Scarred)": {
+    "price": 131.83,
+    "date": "2026-01-15 17:06:45"
+  },
+  "★ Hand Wraps | Overprint (Well-Worn)": {
+    "price": 154.12,
+    "date": "2026-01-15 17:06:45"
+  },
+  "★ Hand Wraps | Overprint (Minimal Wear)": {
+    "price": 343.59,
+    "date": "2026-01-15 17:06:45"
+  },
+  "★ Hand Wraps | Overprint (Factory New)": {
+    "price": 999.0,
+    "date": "2026-01-15 17:06:45"
+  },
+  "★ Hand Wraps | Giraffe (Field-Tested)": {
+    "price": 84.43,
+    "date": "2026-01-15 17:07:35"
+  },
+  "★ Hand Wraps | Giraffe (Minimal Wear)": {
+    "price": 177.16,
+    "date": "2026-01-15 17:07:35"
+  },
+  "★ Hand Wraps | Giraffe (Battle-Scarred)": {
+    "price": 80.41,
+    "date": "2026-01-15 17:07:35"
+  },
+  "★ Hand Wraps | Giraffe (Well-Worn)": {
+    "price": 89.86,
+    "date": "2026-01-15 17:07:35"
+  },
+  "★ Hand Wraps | Giraffe (Factory New)": {
+    "price": 901.4,
+    "date": "2026-01-15 17:07:35"
+  },
+  "★ Hand Wraps | Arboreal (Field-Tested)": {
+    "price": 94.3,
+    "date": "2026-01-15 17:08:21"
+  },
+  "★ Hand Wraps | Arboreal (Battle-Scarred)": {
+    "price": 86.08,
+    "date": "2026-01-15 17:08:21"
+  },
+  "★ Hand Wraps | Arboreal (Minimal Wear)": {
+    "price": 160.82,
+    "date": "2026-01-15 17:08:21"
+  },
+  "★ Hand Wraps | Arboreal (Well-Worn)": {
+    "price": 93.8,
+    "date": "2026-01-15 17:08:21"
+  },
+  "★ Hand Wraps | Arboreal (Factory New)": {
+    "price": 368.09,
+    "date": "2026-01-15 17:08:21"
+  },
+  "★ Hand Wraps | Leather (Battle-Scarred)": {
+    "price": 468.48,
+    "date": "2026-01-15 17:09:12"
+  },
+  "★ Hand Wraps | Leather (Well-Worn)": {
+    "price": 569.55,
+    "date": "2026-01-15 17:09:12"
+  },
+  "★ Hand Wraps | Leather (Field-Tested)": {
+    "price": 1758.27,
+    "date": "2026-01-15 17:09:12"
+  },
+  "★ Hand Wraps | Leather (Minimal Wear)": {
+    "price": 1614.25,
+    "date": "2026-01-15 17:09:12"
+  },
+  "★ Hand Wraps | Constrictor (Field-Tested)": {
+    "price": 97.81,
+    "date": "2026-01-15 17:09:56"
+  },
+  "★ Hand Wraps | Constrictor (Minimal Wear)": {
+    "price": 158.44,
+    "date": "2026-01-15 17:09:56"
+  },
+  "★ Hand Wraps | Constrictor (Battle-Scarred)": {
+    "price": 96.3,
+    "date": "2026-01-15 17:09:56"
+  },
+  "★ Hand Wraps | Constrictor (Well-Worn)": {
+    "price": 97.31,
+    "date": "2026-01-15 17:09:56"
+  },
+  "★ Hand Wraps | Constrictor (Factory New)": {
+    "price": 597.13,
+    "date": "2026-01-15 17:09:56"
+  },
+  "★ Hand Wraps | Slaughter (Well-Worn)": {
+    "price": 501.1,
+    "date": "2026-01-15 17:10:36"
+  },
+  "★ Hand Wraps | Slaughter (Battle-Scarred)": {
+    "price": 416.92,
+    "date": "2026-01-15 17:10:36"
+  },
+  "★ Hand Wraps | Slaughter (Minimal Wear)": {
+    "price": 1974.15,
+    "date": "2026-01-15 17:10:36"
+  },
+  "★ Moto Gloves | Eclipse (Field-Tested)": {
+    "price": 798.26,
+    "date": "2026-01-15 17:11:33"
+  },
+  "★ Moto Gloves | Eclipse (Battle-Scarred)": {
+    "price": 163.89,
+    "date": "2026-01-15 17:11:33"
+  },
+  "★ Moto Gloves | Eclipse (Well-Worn)": {
+    "price": 274.73,
+    "date": "2026-01-15 17:11:33"
+  },
+  "★ Moto Gloves | Eclipse (Minimal Wear)": {
+    "price": 1152.54,
+    "date": "2026-01-15 17:11:33"
+  },
+  "★ Moto Gloves | Turtle (Field-Tested)": {
+    "price": 145.67,
+    "date": "2026-01-15 17:12:21"
+  },
+  "★ Moto Gloves | Turtle (Battle-Scarred)": {
+    "price": 107.64,
+    "date": "2026-01-15 17:12:21"
+  },
+  "★ Moto Gloves | Turtle (Well-Worn)": {
+    "price": 143.75,
+    "date": "2026-01-15 17:12:21"
+  },
+  "★ Moto Gloves | Turtle (Minimal Wear)": {
+    "price": 353.1,
+    "date": "2026-01-15 17:12:21"
+  },
+  "★ Moto Gloves | Turtle (Factory New)": {
+    "price": 1495.0,
+    "date": "2026-01-15 17:12:21"
+  },
+  "★ Moto Gloves | Blood Pressure (Field-Tested)": {
+    "price": 204.06,
+    "date": "2026-01-15 17:13:15"
+  },
+  "★ Moto Gloves | Blood Pressure (Battle-Scarred)": {
+    "price": 141.0,
+    "date": "2026-01-15 17:13:15"
+  },
+  "★ Moto Gloves | Blood Pressure (Minimal Wear)": {
+    "price": 420.86,
+    "date": "2026-01-15 17:13:15"
+  },
+  "★ Moto Gloves | Blood Pressure (Well-Worn)": {
+    "price": 207.38,
+    "date": "2026-01-15 17:13:15"
+  },
+  "★ Moto Gloves | Blood Pressure (Factory New)": {
+    "price": 1350.0,
+    "date": "2026-01-15 17:13:15"
+  },
+  "★ Moto Gloves | Finish Line (Field-Tested)": {
+    "price": 165.45,
+    "date": "2026-01-15 17:13:59"
+  },
+  "★ Moto Gloves | Finish Line (Battle-Scarred)": {
+    "price": 107.12,
+    "date": "2026-01-15 17:13:59"
+  },
+  "★ Moto Gloves | Finish Line (Minimal Wear)": {
+    "price": 347.27,
+    "date": "2026-01-15 17:13:59"
+  },
+  "★ Moto Gloves | Finish Line (Well-Worn)": {
+    "price": 134.98,
+    "date": "2026-01-15 17:13:59"
+  },
+  "★ Moto Gloves | Finish Line (Factory New)": {
+    "price": 1500.98,
+    "date": "2026-01-15 17:13:59"
+  },
+  "★ Moto Gloves | POW! (Field-Tested)": {
+    "price": 157.47,
+    "date": "2026-01-15 17:14:55"
+  },
+  "★ Moto Gloves | POW! (Minimal Wear)": {
+    "price": 441.22,
+    "date": "2026-01-15 17:14:55"
+  },
+  "★ Moto Gloves | POW! (Well-Worn)": {
+    "price": 150.46,
+    "date": "2026-01-15 17:14:55"
+  },
+  "★ Moto Gloves | POW! (Battle-Scarred)": {
+    "price": 114.79,
+    "date": "2026-01-15 17:14:55"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Field-Tested)": {
+    "price": 85.0,
+    "date": "2026-01-15 17:15:39"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)": {
+    "price": 73.63,
+    "date": "2026-01-15 17:15:39"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Minimal Wear)": {
+    "price": 165.05,
+    "date": "2026-01-15 17:15:39"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Well-Worn)": {
+    "price": 82.11,
+    "date": "2026-01-15 17:15:39"
+  },
+  "★ Moto Gloves | 3rd Commando Company (Factory New)": {
+    "price": 575.0,
+    "date": "2026-01-15 17:15:39"
+  },
+  "★ Moto Gloves | Spearmint (Battle-Scarred)": {
+    "price": 969.08,
+    "date": "2026-01-15 17:16:33"
+  },
+  "★ Moto Gloves | Boom! (Field-Tested)": {
+    "price": 1139.72,
+    "date": "2026-01-15 17:17:16"
+  },
+  "★ Moto Gloves | Boom! (Well-Worn)": {
+    "price": 328.51,
+    "date": "2026-01-15 17:17:16"
+  },
+  "★ Moto Gloves | Boom! (Battle-Scarred)": {
+    "price": 206.03,
+    "date": "2026-01-15 17:17:16"
+  },
+  "★ Moto Gloves | Boom! (Minimal Wear)": {
+    "price": 1408.12,
+    "date": "2026-01-15 17:17:16"
+  },
+  "★ Moto Gloves | Smoke Out (Field-Tested)": {
+    "price": 188.45,
+    "date": "2026-01-15 17:17:55"
+  },
+  "★ Moto Gloves | Smoke Out (Minimal Wear)": {
+    "price": 371.69,
+    "date": "2026-01-15 17:17:55"
+  },
+  "★ Moto Gloves | Smoke Out (Battle-Scarred)": {
+    "price": 137.0,
+    "date": "2026-01-15 17:17:55"
+  },
+  "★ Moto Gloves | Smoke Out (Well-Worn)": {
+    "price": 174.22,
+    "date": "2026-01-15 17:17:55"
+  },
+  "★ Moto Gloves | Cool Mint (Well-Worn)": {
+    "price": 929.37,
+    "date": "2026-01-15 17:18:52"
+  },
+  "★ Moto Gloves | Cool Mint (Battle-Scarred)": {
+    "price": 362.13,
+    "date": "2026-01-15 17:18:52"
+  },
+  "★ Moto Gloves | Polygon (Field-Tested)": {
+    "price": 209.31,
+    "date": "2026-01-15 17:19:45"
+  },
+  "★ Moto Gloves | Polygon (Minimal Wear)": {
+    "price": 417.49,
+    "date": "2026-01-15 17:19:45"
+  },
+  "★ Moto Gloves | Polygon (Battle-Scarred)": {
+    "price": 151.5,
+    "date": "2026-01-15 17:19:45"
+  },
+  "★ Moto Gloves | Polygon (Well-Worn)": {
+    "price": 197.26,
+    "date": "2026-01-15 17:19:45"
+  },
+  "★ Moto Gloves | Polygon (Factory New)": {
+    "price": 1072.12,
+    "date": "2026-01-15 17:19:45"
+  },
+  "★ Moto Gloves | Transport (Field-Tested)": {
+    "price": 79.25,
+    "date": "2026-01-15 17:20:37"
+  },
+  "★ Moto Gloves | Transport (Battle-Scarred)": {
+    "price": 70.15,
+    "date": "2026-01-15 17:20:37"
+  },
+  "★ Moto Gloves | Transport (Well-Worn)": {
+    "price": 70.15,
+    "date": "2026-01-15 17:20:37"
+  },
+  "★ Moto Gloves | Transport (Minimal Wear)": {
+    "price": 159.62,
+    "date": "2026-01-15 17:20:37"
+  },
+  "★ Moto Gloves | Transport (Factory New)": {
+    "price": 650.44,
+    "date": "2026-01-15 17:20:37"
+  },
+  "★ Driver Gloves | Snow Leopard (Field-Tested)": {
+    "price": 479.98,
+    "date": "2026-01-15 17:22:08"
+  },
+  "★ Driver Gloves | Snow Leopard (Battle-Scarred)": {
+    "price": 388.78,
+    "date": "2026-01-15 17:22:08"
+  },
+  "★ Driver Gloves | Snow Leopard (Well-Worn)": {
+    "price": 448.59,
+    "date": "2026-01-15 17:22:08"
+  },
+  "★ Driver Gloves | Snow Leopard (Minimal Wear)": {
+    "price": 1096.8,
+    "date": "2026-01-15 17:22:08"
+  },
+  "★ Driver Gloves | Queen Jaguar (Field-Tested)": {
+    "price": 102.53,
+    "date": "2026-01-15 17:23:05"
+  },
+  "★ Driver Gloves | Queen Jaguar (Minimal Wear)": {
+    "price": 211.46,
+    "date": "2026-01-15 17:23:05"
+  },
+  "★ Driver Gloves | Queen Jaguar (Well-Worn)": {
+    "price": 102.15,
+    "date": "2026-01-15 17:23:05"
+  },
+  "★ Driver Gloves | Queen Jaguar (Battle-Scarred)": {
+    "price": 87.68,
+    "date": "2026-01-15 17:23:05"
+  },
+  "★ Driver Gloves | Queen Jaguar (Factory New)": {
+    "price": 900.0,
+    "date": "2026-01-15 17:23:05"
+  },
+  "★ Driver Gloves | Convoy (Field-Tested)": {
+    "price": 585.17,
+    "date": "2026-01-15 17:23:43"
+  },
+  "★ Driver Gloves | Convoy (Minimal Wear)": {
+    "price": 639.77,
+    "date": "2026-01-15 17:23:43"
+  },
+  "★ Driver Gloves | Convoy (Battle-Scarred)": {
+    "price": 116.46,
+    "date": "2026-01-15 17:23:43"
+  },
+  "★ Driver Gloves | Convoy (Well-Worn)": {
+    "price": 190.86,
+    "date": "2026-01-15 17:23:43"
+  },
+  "★ Driver Gloves | Convoy (Factory New)": {
+    "price": 1491.64,
+    "date": "2026-01-15 17:23:43"
+  },
+  "★ Driver Gloves | Imperial Plaid (Field-Tested)": {
+    "price": 394.08,
+    "date": "2026-01-15 17:24:30"
+  },
+  "★ Driver Gloves | Imperial Plaid (Battle-Scarred)": {
+    "price": 282.0,
+    "date": "2026-01-15 17:24:30"
+  },
+  "★ Driver Gloves | Imperial Plaid (Minimal Wear)": {
+    "price": 795.0,
+    "date": "2026-01-15 17:24:30"
+  },
+  "★ Driver Gloves | Imperial Plaid (Well-Worn)": {
+    "price": 376.68,
+    "date": "2026-01-15 17:24:30"
+  },
+  "★ Driver Gloves | Crimson Weave (Battle-Scarred)": {
+    "price": 420.86,
+    "date": "2026-01-15 17:25:27"
+  },
+  "★ Driver Gloves | Crimson Weave (Well-Worn)": {
+    "price": 805.0,
+    "date": "2026-01-15 17:25:27"
+  },
+  "★ Driver Gloves | Lunar Weave (Well-Worn)": {
+    "price": 430.46,
+    "date": "2026-01-15 17:25:27"
+  },
+  "★ Driver Gloves | Lunar Weave (Battle-Scarred)": {
+    "price": 210.0,
+    "date": "2026-01-15 17:25:27"
+  },
+  "★ Driver Gloves | Rezan the Red (Field-Tested)": {
+    "price": 138.7,
+    "date": "2026-01-15 17:26:18"
+  },
+  "★ Driver Gloves | Rezan the Red (Minimal Wear)": {
+    "price": 350.0,
+    "date": "2026-01-15 17:26:18"
+  },
+  "★ Driver Gloves | Rezan the Red (Battle-Scarred)": {
+    "price": 123.3,
+    "date": "2026-01-15 17:26:18"
+  },
+  "★ Driver Gloves | Rezan the Red (Well-Worn)": {
+    "price": 132.86,
+    "date": "2026-01-15 17:26:18"
+  },
+  "★ Driver Gloves | Rezan the Red (Factory New)": {
+    "price": 1425.13,
+    "date": "2026-01-15 17:26:18"
+  },
+  "★ Driver Gloves | King Snake (Field-Tested)": {
+    "price": 273.87,
+    "date": "2026-01-15 17:27:03"
+  },
+  "★ Driver Gloves | King Snake (Battle-Scarred)": {
+    "price": 215.18,
+    "date": "2026-01-15 17:27:03"
+  },
+  "★ Driver Gloves | King Snake (Well-Worn)": {
+    "price": 276.18,
+    "date": "2026-01-15 17:27:03"
+  },
+  "★ Driver Gloves | King Snake (Minimal Wear)": {
+    "price": 925.0,
+    "date": "2026-01-15 17:27:03"
+  },
+  "★ Driver Gloves | Diamondback (Battle-Scarred)": {
+    "price": 183.33,
+    "date": "2026-01-15 17:27:56"
+  },
+  "★ Driver Gloves | Diamondback (Well-Worn)": {
+    "price": 350.0,
+    "date": "2026-01-15 17:27:56"
+  },
+  "★ Driver Gloves | Diamondback (Minimal Wear)": {
+    "price": 1725.0,
+    "date": "2026-01-15 17:27:56"
+  },
+  "★ Driver Gloves | Overtake (Field-Tested)": {
+    "price": 99.06,
+    "date": "2026-01-15 17:28:40"
+  },
+  "★ Driver Gloves | Overtake (Minimal Wear)": {
+    "price": 229.16,
+    "date": "2026-01-15 17:28:40"
+  },
+  "★ Driver Gloves | Overtake (Battle-Scarred)": {
+    "price": 89.96,
+    "date": "2026-01-15 17:28:40"
+  },
+  "★ Driver Gloves | Overtake (Well-Worn)": {
+    "price": 99.27,
+    "date": "2026-01-15 17:28:40"
+  },
+  "★ Driver Gloves | Overtake (Factory New)": {
+    "price": 768.63,
+    "date": "2026-01-15 17:28:40"
+  },
+  "★ Driver Gloves | Black Tie (Field-Tested)": {
+    "price": 230.0,
+    "date": "2026-01-15 17:29:29"
+  },
+  "★ Driver Gloves | Black Tie (Battle-Scarred)": {
+    "price": 174.81,
+    "date": "2026-01-15 17:29:29"
+  },
+  "★ Driver Gloves | Black Tie (Minimal Wear)": {
+    "price": 674.08,
+    "date": "2026-01-15 17:29:29"
+  },
+  "★ Driver Gloves | Black Tie (Well-Worn)": {
+    "price": 209.78,
+    "date": "2026-01-15 17:29:29"
+  },
+  "★ Driver Gloves | Racing Green (Field-Tested)": {
+    "price": 60.6,
+    "date": "2026-01-15 17:30:20"
+  },
+  "★ Driver Gloves | Racing Green (Battle-Scarred)": {
+    "price": 56.9,
+    "date": "2026-01-15 17:30:20"
+  },
+  "★ Driver Gloves | Racing Green (Minimal Wear)": {
+    "price": 142.63,
+    "date": "2026-01-15 17:30:20"
+  },
+  "★ Driver Gloves | Racing Green (Well-Worn)": {
+    "price": 61.22,
+    "date": "2026-01-15 17:30:20"
+  },
+  "★ Driver Gloves | Racing Green (Factory New)": {
+    "price": 461.0,
+    "date": "2026-01-15 17:30:20"
+  },
+  "★ Specialist Gloves | Forest DDPAT (Field-Tested)": {
+    "price": 640.95,
+    "date": "2026-01-15 17:31:07"
+  },
+  "★ Specialist Gloves | Forest DDPAT (Battle-Scarred)": {
+    "price": 211.63,
+    "date": "2026-01-15 17:31:07"
+  },
+  "★ Specialist Gloves | Forest DDPAT (Minimal Wear)": {
+    "price": 635.96,
+    "date": "2026-01-15 17:31:07"
+  },
+  "★ Specialist Gloves | Forest DDPAT (Well-Worn)": {
+    "price": 242.14,
+    "date": "2026-01-15 17:31:07"
+  },
+  "★ Specialist Gloves | Crimson Web (Field-Tested)": {
+    "price": 223.65,
+    "date": "2026-01-15 17:31:47"
+  },
+  "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
+    "price": 708.14,
+    "date": "2026-01-15 17:31:47"
+  },
+  "★ Specialist Gloves | Crimson Web (Well-Worn)": {
+    "price": 226.62,
+    "date": "2026-01-15 17:31:47"
+  },
+  "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
+    "price": 182.97,
+    "date": "2026-01-15 17:31:47"
+  },
+  "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
+    "price": 784.34,
+    "date": "2026-01-15 17:31:47"
+  },
+  "★ Specialist Gloves | Emerald Web (Well-Worn)": {
+    "price": 1349.9,
+    "date": "2026-01-15 17:31:47"
+  },
+  "★ Specialist Gloves | Fade (Field-Tested)": {
+    "price": 357.78,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Marble Fade (Field-Tested)": {
+    "price": 253.06,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Marble Fade (Battle-Scarred)": {
+    "price": 191.13,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Fade (Battle-Scarred)": {
+    "price": 223.29,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Marble Fade (Well-Worn)": {
+    "price": 214.42,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Fade (Well-Worn)": {
+    "price": 297.31,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Marble Fade (Minimal Wear)": {
+    "price": 911.03,
+    "date": "2026-01-15 17:32:24"
+  },
+  "★ Specialist Gloves | Fade (Minimal Wear)": {
+    "price": 1033.52,
+    "date": "2026-01-15 17:32:24"
   }
 }
