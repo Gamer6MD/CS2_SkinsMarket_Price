@@ -5839,10 +5839,6 @@
     "price": 1713.44,
     "date": "2026-01-14 08:35:28"
   },
-  "★ Bayonet | Gamma Doppler (Minimal Wear)": {
-    "price": 1092.5,
-    "date": "2026-01-14 08:35:28"
-  },
   "★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)": {
     "price": 1236.82,
     "date": "2026-01-14 08:35:28"
@@ -6315,457 +6311,9 @@
     "price": 1621.34,
     "date": "2026-01-14 13:39:29"
   },
-  "★ Specialist Gloves | Field Agent (Field-Tested)": {
-    "price": 239.92,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Field Agent (Battle-Scarred)": {
-    "price": 163.32,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Field Agent (Minimal Wear)": {
-    "price": 631.2,
-    "date": "2026-01-14 13:57:24"
-  },
-  "★ Specialist Gloves | Buckshot (Field-Tested)": {
-    "price": 92.37,
-    "date": "2026-01-14 13:58:13"
-  },
-  "★ Specialist Gloves | Buckshot (Minimal Wear)": {
-    "price": 176.35,
-    "date": "2026-01-14 13:58:13"
-  },
-  "★ Specialist Gloves | Buckshot (Well-Worn)": {
-    "price": 92.61,
-    "date": "2026-01-14 13:58:13"
-  },
-  "★ Specialist Gloves | Buckshot (Battle-Scarred)": {
-    "price": 88.98,
-    "date": "2026-01-14 13:58:13"
-  },
-  "★ Specialist Gloves | Buckshot (Factory New)": {
-    "price": 653.23,
-    "date": "2026-01-14 13:58:13"
-  },
-  "★ Specialist Gloves | Foundation (Battle-Scarred)": {
-    "price": 411.48,
-    "date": "2026-01-14 14:00:31"
-  },
-  "★ Specialist Gloves | Foundation (Well-Worn)": {
-    "price": 698.59,
-    "date": "2026-01-14 14:00:31"
-  },
-  "★ Specialist Gloves | Lt. Commander (Field-Tested)": {
-    "price": 181.31,
-    "date": "2026-01-14 14:01:22"
-  },
-  "★ Specialist Gloves | Lt. Commander (Battle-Scarred)": {
-    "price": 148.37,
-    "date": "2026-01-14 14:01:22"
-  },
-  "★ Specialist Gloves | Lt. Commander (Minimal Wear)": {
-    "price": 384.94,
-    "date": "2026-01-14 14:01:22"
-  },
-  "★ Specialist Gloves | Lt. Commander (Well-Worn)": {
-    "price": 183.6,
-    "date": "2026-01-14 14:01:22"
-  },
-  "★ Specialist Gloves | Tiger Strike (Field-Tested)": {
-    "price": 340.48,
-    "date": "2026-01-14 14:02:07"
-  },
-  "★ Specialist Gloves | Tiger Strike (Battle-Scarred)": {
-    "price": 176.89,
-    "date": "2026-01-14 14:02:07"
-  },
-  "★ Specialist Gloves | Tiger Strike (Minimal Wear)": {
-    "price": 932.0,
-    "date": "2026-01-14 14:02:07"
-  },
-  "★ Specialist Gloves | Tiger Strike (Well-Worn)": {
-    "price": 274.74,
-    "date": "2026-01-14 14:02:07"
-  },
-  "★ Specialist Gloves | Mogul (Field-Tested)": {
-    "price": 174.99,
-    "date": "2026-01-14 14:11:52"
-  },
-  "★ Specialist Gloves | Mogul (Battle-Scarred)": {
-    "price": 150.0,
-    "date": "2026-01-14 14:11:52"
-  },
-  "★ Specialist Gloves | Mogul (Minimal Wear)": {
-    "price": 354.56,
-    "date": "2026-01-14 14:11:52"
-  },
-  "★ Specialist Gloves | Mogul (Well-Worn)": {
-    "price": 171.12,
-    "date": "2026-01-14 14:11:52"
-  },
-  "★ Specialist Gloves | Mogul (Factory New)": {
-    "price": 1016.6,
-    "date": "2026-01-14 14:11:52"
-  },
-  "★ Sport Gloves | Omega (Field-Tested)": {
-    "price": 402.0,
-    "date": "2026-01-14 14:27:18"
-  },
-  "★ Sport Gloves | Omega (Battle-Scarred)": {
-    "price": 279.95,
-    "date": "2026-01-14 14:27:18"
-  },
-  "★ Sport Gloves | Omega (Well-Worn)": {
-    "price": 361.39,
-    "date": "2026-01-14 14:27:18"
-  },
-  "★ Sport Gloves | Omega (Minimal Wear)": {
-    "price": 1308.24,
-    "date": "2026-01-14 14:27:18"
-  },
-  "★ Sport Gloves | Vice (Field-Tested)": {
-    "price": 882.76,
-    "date": "2026-01-14 14:40:16"
-  },
-  "★ Sport Gloves | Vice (Battle-Scarred)": {
-    "price": 509.76,
-    "date": "2026-01-14 14:40:16"
-  },
-  "★ Sport Gloves | Vice (Well-Worn)": {
-    "price": 820.82,
-    "date": "2026-01-14 14:40:16"
-  },
-  "★ Sport Gloves | Hedge Maze": {
-    "price": 0.0,
-    "date": "2026-01-14 14:49:11"
-  },
-  "★ Sport Gloves | Scarlet Shamagh (Field-Tested)": {
-    "price": 393.43,
-    "date": "2026-01-14 14:49:15"
-  },
-  "★ Sport Gloves | Scarlet Shamagh (Battle-Scarred)": {
-    "price": 301.82,
-    "date": "2026-01-14 14:49:15"
-  },
-  "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)": {
-    "price": 824.21,
-    "date": "2026-01-14 14:49:15"
-  },
-  "★ Sport Gloves | Scarlet Shamagh (Well-Worn)": {
-    "price": 368.0,
-    "date": "2026-01-14 14:49:15"
-  },
-  "★ Sport Gloves | Big Game (Field-Tested)": {
-    "price": 292.8,
-    "date": "2026-01-14 14:50:09"
-  },
-  "★ Sport Gloves | Big Game (Minimal Wear)": {
-    "price": 472.44,
-    "date": "2026-01-14 14:50:09"
-  },
-  "★ Sport Gloves | Big Game (Well-Worn)": {
-    "price": 261.64,
-    "date": "2026-01-14 14:50:09"
-  },
-  "★ Sport Gloves | Big Game (Battle-Scarred)": {
-    "price": 244.31,
-    "date": "2026-01-14 14:50:09"
-  },
-  "★ Sport Gloves | Nocts (Field-Tested)": {
-    "price": 940.33,
-    "date": "2026-01-14 14:50:48"
-  },
-  "★ Sport Gloves | Nocts (Well-Worn)": {
-    "price": 930.84,
-    "date": "2026-01-14 14:50:48"
-  },
-  "★ Sport Gloves | Nocts (Battle-Scarred)": {
-    "price": 671.77,
-    "date": "2026-01-14 14:50:48"
-  },
   "★ Sport Gloves | Nocts (Minimal Wear)": {
     "price": 1800.0,
     "date": "2026-01-14 14:50:48"
-  },
-  "★ Sport Gloves | Superconductor": {
-    "price": 0.0,
-    "date": "2026-01-14 14:51:37"
-  },
-  "★ Sport Gloves | Arid (Battle-Scarred)": {
-    "price": 591.34,
-    "date": "2026-01-14 14:51:40"
-  },
-  "★ Sport Gloves | Arid (Well-Worn)": {
-    "price": 1399.74,
-    "date": "2026-01-14 14:51:40"
-  },
-  "★ Sport Gloves | Amphibious (Field-Tested)": {
-    "price": 583.23,
-    "date": "2026-01-14 14:54:35"
-  },
-  "★ Sport Gloves | Amphibious (Battle-Scarred)": {
-    "price": 381.05,
-    "date": "2026-01-14 14:54:35"
-  },
-  "★ Sport Gloves | Amphibious (Well-Worn)": {
-    "price": 516.44,
-    "date": "2026-01-14 14:54:35"
-  },
-  "★ Sport Gloves | Amphibious (Minimal Wear)": {
-    "price": 1602.93,
-    "date": "2026-01-14 14:54:35"
-  },
-  "★ Sport Gloves | Bronze Morph (Field-Tested)": {
-    "price": 178.52,
-    "date": "2026-01-14 14:55:32"
-  },
-  "★ Sport Gloves | Bronze Morph (Minimal Wear)": {
-    "price": 335.47,
-    "date": "2026-01-14 14:55:32"
-  },
-  "★ Sport Gloves | Bronze Morph (Well-Worn)": {
-    "price": 201.25,
-    "date": "2026-01-14 14:55:32"
-  },
-  "★ Sport Gloves | Bronze Morph (Battle-Scarred)": {
-    "price": 153.96,
-    "date": "2026-01-14 14:55:32"
-  },
-  "★ Sport Gloves | Bronze Morph (Factory New)": {
-    "price": 1150.0,
-    "date": "2026-01-14 14:55:32"
-  },
-  "★ Sport Gloves | Pandora's Box": {
-    "price": 0.0,
-    "date": "2026-01-14 14:56:19"
-  },
-  "★ Sport Gloves | Slingshot (Field-Tested)": {
-    "price": 719.71,
-    "date": "2026-01-14 14:56:22"
-  },
-  "★ Sport Gloves | Slingshot (Battle-Scarred)": {
-    "price": 360.0,
-    "date": "2026-01-14 14:56:22"
-  },
-  "★ Sport Gloves | Slingshot (Well-Worn)": {
-    "price": 593.72,
-    "date": "2026-01-14 14:56:22"
-  },
-  "★ Bloodhound Gloves | Charred (Field-Tested)": {
-    "price": 510.0,
-    "date": "2026-01-14 14:57:17"
-  },
-  "★ Bloodhound Gloves | Charred (Well-Worn)": {
-    "price": 227.48,
-    "date": "2026-01-14 14:57:17"
-  },
-  "★ Bloodhound Gloves | Charred (Battle-Scarred)": {
-    "price": 198.3,
-    "date": "2026-01-14 14:57:17"
-  },
-  "★ Bloodhound Gloves | Charred (Minimal Wear)": {
-    "price": 660.0,
-    "date": "2026-01-14 14:57:17"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Field-Tested)": {
-    "price": 329.37,
-    "date": "2026-01-14 14:57:59"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Minimal Wear)": {
-    "price": 464.25,
-    "date": "2026-01-14 14:57:59"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Battle-Scarred)": {
-    "price": 135.67,
-    "date": "2026-01-14 14:57:59"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Well-Worn)": {
-    "price": 143.0,
-    "date": "2026-01-14 14:57:59"
-  },
-  "★ Bloodhound Gloves | Guerrilla (Factory New)": {
-    "price": 699.9,
-    "date": "2026-01-14 14:57:59"
-  },
-  "★ Bloodhound Gloves | Bronzed (Field-Tested)": {
-    "price": 320.0,
-    "date": "2026-01-14 14:58:44"
-  },
-  "★ Bloodhound Gloves | Bronzed (Minimal Wear)": {
-    "price": 446.37,
-    "date": "2026-01-14 14:58:44"
-  },
-  "★ Bloodhound Gloves | Bronzed (Battle-Scarred)": {
-    "price": 126.8,
-    "date": "2026-01-14 14:58:44"
-  },
-  "★ Bloodhound Gloves | Bronzed (Well-Worn)": {
-    "price": 139.99,
-    "date": "2026-01-14 14:58:44"
-  },
-  "★ Bloodhound Gloves | Bronzed (Factory New)": {
-    "price": 1743.83,
-    "date": "2026-01-14 14:58:44"
-  },
-  "★ Bloodhound Gloves | Snakebite (Field-Tested)": {
-    "price": 338.23,
-    "date": "2026-01-14 14:59:27"
-  },
-  "★ Bloodhound Gloves | Snakebite (Battle-Scarred)": {
-    "price": 138.23,
-    "date": "2026-01-14 14:59:27"
-  },
-  "★ Bloodhound Gloves | Snakebite (Minimal Wear)": {
-    "price": 450.0,
-    "date": "2026-01-14 14:59:27"
-  },
-  "★ Bloodhound Gloves | Snakebite (Well-Worn)": {
-    "price": 157.24,
-    "date": "2026-01-14 14:59:27"
-  },
-  "★ Broken Fang Gloves | Needle Point (Well-Worn)": {
-    "price": 91.31,
-    "date": "2026-01-14 15:00:19"
-  },
-  "★ Broken Fang Gloves | Needle Point (Minimal Wear)": {
-    "price": 134.14,
-    "date": "2026-01-14 15:00:19"
-  },
-  "★ Broken Fang Gloves | Needle Point (Factory New)": {
-    "price": 429.25,
-    "date": "2026-01-14 15:00:19"
-  },
-  "★ Broken Fang Gloves | Yellow-banded (Field-Tested)": {
-    "price": 88.51,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Unhinged (Field-Tested)": {
-    "price": 98.91,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Jade (Field-Tested)": {
-    "price": 133.0,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Needle Point (Field-Tested)": {
-    "price": 87.48,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Unhinged (Battle-Scarred)": {
-    "price": 78.94,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Jade (Battle-Scarred)": {
-    "price": 133.13,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Jade (Minimal Wear)": {
-    "price": 239.55,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Yellow-banded (Minimal Wear)": {
-    "price": 161.0,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Jade (Well-Worn)": {
-    "price": 144.09,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Broken Fang Gloves | Needle Point (Battle-Scarred)": {
-    "price": 87.48,
-    "date": "2026-01-14 15:02:38"
-  },
-  "★ Hydra Gloves | Emerald (Field-Tested)": {
-    "price": 65.57,
-    "date": "2026-01-14 15:03:27"
-  },
-  "★ Hydra Gloves | Emerald (Battle-Scarred)": {
-    "price": 65.0,
-    "date": "2026-01-14 15:03:27"
-  },
-  "★ Hydra Gloves | Emerald (Minimal Wear)": {
-    "price": 106.64,
-    "date": "2026-01-14 15:03:27"
-  },
-  "★ Hydra Gloves | Emerald (Well-Worn)": {
-    "price": 69.0,
-    "date": "2026-01-14 15:03:27"
-  },
-  "★ Hydra Gloves | Emerald (Factory New)": {
-    "price": 367.97,
-    "date": "2026-01-14 15:03:27"
-  },
-  "★ Hydra Gloves | Case Hardened (Field-Tested)": {
-    "price": 119.0,
-    "date": "2026-01-14 15:04:13"
-  },
-  "★ Hydra Gloves | Case Hardened (Battle-Scarred)": {
-    "price": 103.81,
-    "date": "2026-01-14 15:04:13"
-  },
-  "★ Hydra Gloves | Case Hardened (Minimal Wear)": {
-    "price": 167.9,
-    "date": "2026-01-14 15:04:13"
-  },
-  "★ Hydra Gloves | Case Hardened (Well-Worn)": {
-    "price": 106.44,
-    "date": "2026-01-14 15:04:13"
-  },
-  "★ Hydra Gloves | Case Hardened (Factory New)": {
-    "price": 644.64,
-    "date": "2026-01-14 15:04:13"
-  },
-  "★ Hydra Gloves | Mangrove (Field-Tested)": {
-    "price": 55.79,
-    "date": "2026-01-14 15:04:56"
-  },
-  "★ Hydra Gloves | Mangrove (Minimal Wear)": {
-    "price": 75.82,
-    "date": "2026-01-14 15:04:56"
-  },
-  "★ Hydra Gloves | Mangrove (Battle-Scarred)": {
-    "price": 53.65,
-    "date": "2026-01-14 15:04:56"
-  },
-  "★ Hydra Gloves | Mangrove (Well-Worn)": {
-    "price": 58.33,
-    "date": "2026-01-14 15:04:56"
-  },
-  "★ Hydra Gloves | Mangrove (Factory New)": {
-    "price": 401.0,
-    "date": "2026-01-14 15:04:56"
-  },
-  "★ Hydra Gloves | Rattler (Field-Tested)": {
-    "price": 54.2,
-    "date": "2026-01-14 15:05:45"
-  },
-  "★ Hydra Gloves | Rattler (Battle-Scarred)": {
-    "price": 53.26,
-    "date": "2026-01-14 15:05:45"
-  },
-  "★ Hydra Gloves | Rattler (Minimal Wear)": {
-    "price": 77.29,
-    "date": "2026-01-14 15:05:45"
-  },
-  "★ Hydra Gloves | Rattler (Well-Worn)": {
-    "price": 59.0,
-    "date": "2026-01-14 15:05:45"
-  },
-  "★ Hydra Gloves | Rattler (Factory New)": {
-    "price": 356.36,
-    "date": "2026-01-14 15:05:45"
-  },
-  "★ Bayonet | Fade (Factory New)": {
-    "price": 539.5,
-    "date": "2026-01-14 15:06:35"
-  },
-  "★ Bayonet | Fade (Minimal Wear)": {
-    "price": 656.23,
-    "date": "2026-01-14 15:06:35"
-  },
-  "★ Bayonet | Marble Fade (Minimal Wear)": {
-    "price": 760.84,
-    "date": "2026-01-14 15:14:44"
   },
   "★ Bayonet | Freehand (Field-Tested)": {
     "price": 247.9,
@@ -6794,14 +6342,6 @@
   "★ Bayonet | Freehand (Battle-Scarred)": {
     "price": 253.6,
     "date": "2026-01-14 15:15:36"
-  },
-  "★ Bayonet | Doppler (Factory New)": {
-    "price": 612.29,
-    "date": "2026-01-14 15:17:11"
-  },
-  "★ Bayonet | Doppler (Minimal Wear)": {
-    "price": 743.31,
-    "date": "2026-01-14 15:17:11"
   },
   "★ Bayonet | Slaughter (Minimal Wear)": {
     "price": 481.87,
@@ -7314,10 +6854,6 @@
   "★ Butterfly Knife | Doppler": {
     "price": 0.0,
     "date": "2026-01-14 15:32:54"
-  },
-  "★ Bayonet | Gamma Doppler (Factory New)": {
-    "price": 743.83,
-    "date": "2026-01-14 15:35:09"
   },
   "★ Butterfly Knife | Freehand (Field-Tested)": {
     "price": 883.79,
@@ -8387,10 +7923,6 @@
     "price": 151.5,
     "date": "2026-01-15 15:11:52"
   },
-  "★ Bayonet | Marble Fade (Factory New)": {
-    "price": 540.0,
-    "date": "2026-01-15 15:11:52"
-  },
   "★ Navaja Knife | Doppler (Factory New)": {
     "price": 182.97,
     "date": "2026-01-15 15:20:04"
@@ -9259,22 +8791,6 @@
     "price": 77.02,
     "date": "2026-01-15 16:47:27"
   },
-  "★ M9 Bayonet | Marble Fade (Factory New)": {
-    "price": 1322.66,
-    "date": "2026-01-15 16:48:04"
-  },
-  "★ M9 Bayonet | Fade (Factory New)": {
-    "price": 1800.0,
-    "date": "2026-01-15 16:48:04"
-  },
-  "★ M9 Bayonet | Marble Fade (Minimal Wear)": {
-    "price": 1633.42,
-    "date": "2026-01-15 16:48:04"
-  },
-  "★ M9 Bayonet | Doppler (Factory New)": {
-    "price": 1610.87,
-    "date": "2026-01-15 16:48:44"
-  },
   "★ Hand Wraps | Spruce DDPAT (Field-Tested)": {
     "price": 1040.8,
     "date": "2026-01-15 17:01:57"
@@ -9887,60 +9403,544 @@
     "price": 242.14,
     "date": "2026-01-15 17:31:07"
   },
-  "★ Specialist Gloves | Crimson Web (Field-Tested)": {
-    "price": 223.65,
-    "date": "2026-01-15 17:31:47"
+  "★ Specialist Gloves | Field Agent (Field-Tested)": {
+    "price": 234.2,
+    "date": "2026-01-15 17:33:08"
   },
-  "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
-    "price": 708.14,
-    "date": "2026-01-15 17:31:47"
+  "★ Specialist Gloves | Field Agent (Battle-Scarred)": {
+    "price": 165.79,
+    "date": "2026-01-15 17:33:08"
   },
-  "★ Specialist Gloves | Crimson Web (Well-Worn)": {
-    "price": 226.62,
-    "date": "2026-01-15 17:31:47"
+  "★ Specialist Gloves | Field Agent (Minimal Wear)": {
+    "price": 628.74,
+    "date": "2026-01-15 17:33:08"
   },
-  "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
-    "price": 182.97,
-    "date": "2026-01-15 17:31:47"
+  "★ Specialist Gloves | Buckshot (Field-Tested)": {
+    "price": 85.0,
+    "date": "2026-01-15 17:33:50"
   },
-  "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
-    "price": 784.34,
-    "date": "2026-01-15 17:31:47"
+  "★ Specialist Gloves | Buckshot (Minimal Wear)": {
+    "price": 176.45,
+    "date": "2026-01-15 17:33:50"
   },
-  "★ Specialist Gloves | Emerald Web (Well-Worn)": {
-    "price": 1349.9,
-    "date": "2026-01-15 17:31:47"
+  "★ Specialist Gloves | Buckshot (Well-Worn)": {
+    "price": 92.02,
+    "date": "2026-01-15 17:33:50"
+  },
+  "★ Specialist Gloves | Buckshot (Battle-Scarred)": {
+    "price": 86.1,
+    "date": "2026-01-15 17:33:50"
+  },
+  "★ Specialist Gloves | Buckshot (Factory New)": {
+    "price": 652.62,
+    "date": "2026-01-15 17:33:50"
   },
   "★ Specialist Gloves | Fade (Field-Tested)": {
     "price": 357.78,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
   },
   "★ Specialist Gloves | Marble Fade (Field-Tested)": {
     "price": 253.06,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
   },
   "★ Specialist Gloves | Marble Fade (Battle-Scarred)": {
     "price": 191.13,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
   },
   "★ Specialist Gloves | Fade (Battle-Scarred)": {
     "price": 223.29,
-    "date": "2026-01-15 17:32:24"
-  },
-  "★ Specialist Gloves | Marble Fade (Well-Worn)": {
-    "price": 214.42,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
   },
   "★ Specialist Gloves | Fade (Well-Worn)": {
     "price": 297.31,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
+  },
+  "★ Specialist Gloves | Marble Fade (Well-Worn)": {
+    "price": 214.42,
+    "date": "2026-01-15 17:35:39"
   },
   "★ Specialist Gloves | Marble Fade (Minimal Wear)": {
     "price": 911.03,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
   },
   "★ Specialist Gloves | Fade (Minimal Wear)": {
     "price": 1033.52,
-    "date": "2026-01-15 17:32:24"
+    "date": "2026-01-15 17:35:39"
+  },
+  "★ Specialist Gloves | Foundation (Battle-Scarred)": {
+    "price": 395.72,
+    "date": "2026-01-15 17:36:31"
+  },
+  "★ Specialist Gloves | Foundation (Well-Worn)": {
+    "price": 695.14,
+    "date": "2026-01-15 17:36:31"
+  },
+  "★ Specialist Gloves | Lt. Commander (Field-Tested)": {
+    "price": 174.8,
+    "date": "2026-01-15 17:37:15"
+  },
+  "★ Specialist Gloves | Lt. Commander (Minimal Wear)": {
+    "price": 380.43,
+    "date": "2026-01-15 17:37:15"
+  },
+  "★ Specialist Gloves | Lt. Commander (Battle-Scarred)": {
+    "price": 142.79,
+    "date": "2026-01-15 17:37:15"
+  },
+  "★ Specialist Gloves | Lt. Commander (Well-Worn)": {
+    "price": 174.27,
+    "date": "2026-01-15 17:37:15"
+  },
+  "★ Specialist Gloves | Tiger Strike (Field-Tested)": {
+    "price": 340.4,
+    "date": "2026-01-15 17:38:05"
+  },
+  "★ Specialist Gloves | Tiger Strike (Battle-Scarred)": {
+    "price": 178.91,
+    "date": "2026-01-15 17:38:05"
+  },
+  "★ Specialist Gloves | Tiger Strike (Minimal Wear)": {
+    "price": 931.12,
+    "date": "2026-01-15 17:38:05"
+  },
+  "★ Specialist Gloves | Tiger Strike (Well-Worn)": {
+    "price": 268.78,
+    "date": "2026-01-15 17:38:05"
+  },
+  "★ Specialist Gloves | Crimson Web (Field-Tested)": {
+    "price": 223.65,
+    "date": "2026-01-15 17:38:53"
+  },
+  "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
+    "price": 708.14,
+    "date": "2026-01-15 17:38:53"
+  },
+  "★ Specialist Gloves | Crimson Web (Well-Worn)": {
+    "price": 226.62,
+    "date": "2026-01-15 17:38:53"
+  },
+  "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
+    "price": 182.97,
+    "date": "2026-01-15 17:38:53"
+  },
+  "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
+    "price": 784.34,
+    "date": "2026-01-15 17:38:53"
+  },
+  "★ Specialist Gloves | Emerald Web (Well-Worn)": {
+    "price": 1349.9,
+    "date": "2026-01-15 17:38:53"
+  },
+  "★ Specialist Gloves | Mogul (Field-Tested)": {
+    "price": 180.0,
+    "date": "2026-01-15 17:39:45"
+  },
+  "★ Specialist Gloves | Mogul (Battle-Scarred)": {
+    "price": 149.17,
+    "date": "2026-01-15 17:39:45"
+  },
+  "★ Specialist Gloves | Mogul (Minimal Wear)": {
+    "price": 348.45,
+    "date": "2026-01-15 17:39:45"
+  },
+  "★ Specialist Gloves | Mogul (Well-Worn)": {
+    "price": 162.35,
+    "date": "2026-01-15 17:39:45"
+  },
+  "★ Specialist Gloves | Mogul (Factory New)": {
+    "price": 1023.9,
+    "date": "2026-01-15 17:39:45"
+  },
+  "★ Sport Gloves | Omega (Field-Tested)": {
+    "price": 430.0,
+    "date": "2026-01-15 17:40:30"
+  },
+  "★ Sport Gloves | Omega (Battle-Scarred)": {
+    "price": 272.87,
+    "date": "2026-01-15 17:40:30"
+  },
+  "★ Sport Gloves | Omega (Well-Worn)": {
+    "price": 357.1,
+    "date": "2026-01-15 17:40:30"
+  },
+  "★ Sport Gloves | Omega (Minimal Wear)": {
+    "price": 1230.43,
+    "date": "2026-01-15 17:40:30"
+  },
+  "★ Sport Gloves | Vice (Field-Tested)": {
+    "price": 900.0,
+    "date": "2026-01-15 17:41:07"
+  },
+  "★ Sport Gloves | Vice (Battle-Scarred)": {
+    "price": 512.0,
+    "date": "2026-01-15 17:41:07"
+  },
+  "★ Sport Gloves | Vice (Well-Worn)": {
+    "price": 700.0,
+    "date": "2026-01-15 17:41:07"
+  },
+  "★ Sport Gloves | Hedge Maze": {
+    "price": 0.0,
+    "date": "2026-01-15 17:41:54"
+  },
+  "★ Sport Gloves | Scarlet Shamagh (Field-Tested)": {
+    "price": 378.81,
+    "date": "2026-01-15 17:41:57"
+  },
+  "★ Sport Gloves | Scarlet Shamagh (Battle-Scarred)": {
+    "price": 285.0,
+    "date": "2026-01-15 17:41:57"
+  },
+  "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)": {
+    "price": 836.22,
+    "date": "2026-01-15 17:41:57"
+  },
+  "★ Sport Gloves | Scarlet Shamagh (Well-Worn)": {
+    "price": 365.18,
+    "date": "2026-01-15 17:41:57"
+  },
+  "★ Sport Gloves | Big Game (Field-Tested)": {
+    "price": 297.22,
+    "date": "2026-01-15 17:42:48"
+  },
+  "★ Sport Gloves | Big Game (Minimal Wear)": {
+    "price": 471.86,
+    "date": "2026-01-15 17:42:48"
+  },
+  "★ Sport Gloves | Big Game (Well-Worn)": {
+    "price": 266.54,
+    "date": "2026-01-15 17:42:48"
+  },
+  "★ Sport Gloves | Big Game (Battle-Scarred)": {
+    "price": 252.05,
+    "date": "2026-01-15 17:42:48"
+  },
+  "★ Sport Gloves | Nocts (Field-Tested)": {
+    "price": 995.39,
+    "date": "2026-01-15 17:43:33"
+  },
+  "★ Sport Gloves | Nocts (Well-Worn)": {
+    "price": 931.12,
+    "date": "2026-01-15 17:43:33"
+  },
+  "★ Sport Gloves | Nocts (Battle-Scarred)": {
+    "price": 656.68,
+    "date": "2026-01-15 17:43:33"
+  },
+  "★ Sport Gloves | Superconductor": {
+    "price": 0.0,
+    "date": "2026-01-15 17:44:16"
+  },
+  "★ Sport Gloves | Arid (Battle-Scarred)": {
+    "price": 649.9,
+    "date": "2026-01-15 17:44:20"
+  },
+  "★ Sport Gloves | Arid (Well-Worn)": {
+    "price": 1396.62,
+    "date": "2026-01-15 17:44:20"
+  },
+  "★ Sport Gloves | Amphibious (Field-Tested)": {
+    "price": 580.75,
+    "date": "2026-01-15 17:44:57"
+  },
+  "★ Sport Gloves | Amphibious (Battle-Scarred)": {
+    "price": 445.92,
+    "date": "2026-01-15 17:44:57"
+  },
+  "★ Sport Gloves | Amphibious (Well-Worn)": {
+    "price": 515.95,
+    "date": "2026-01-15 17:44:57"
+  },
+  "★ Sport Gloves | Amphibious (Minimal Wear)": {
+    "price": 1580.15,
+    "date": "2026-01-15 17:44:57"
+  },
+  "★ Sport Gloves | Bronze Morph (Field-Tested)": {
+    "price": 174.54,
+    "date": "2026-01-15 17:45:44"
+  },
+  "★ Sport Gloves | Bronze Morph (Minimal Wear)": {
+    "price": 314.53,
+    "date": "2026-01-15 17:45:44"
+  },
+  "★ Sport Gloves | Bronze Morph (Well-Worn)": {
+    "price": 186.36,
+    "date": "2026-01-15 17:45:44"
+  },
+  "★ Sport Gloves | Bronze Morph (Battle-Scarred)": {
+    "price": 155.45,
+    "date": "2026-01-15 17:45:44"
+  },
+  "★ Sport Gloves | Bronze Morph (Factory New)": {
+    "price": 1150.0,
+    "date": "2026-01-15 17:45:44"
+  },
+  "★ Sport Gloves | Pandora's Box": {
+    "price": 0.0,
+    "date": "2026-01-15 17:46:34"
+  },
+  "★ Sport Gloves | Slingshot (Field-Tested)": {
+    "price": 780.78,
+    "date": "2026-01-15 17:46:39"
+  },
+  "★ Sport Gloves | Slingshot (Battle-Scarred)": {
+    "price": 360.0,
+    "date": "2026-01-15 17:46:39"
+  },
+  "★ Sport Gloves | Slingshot (Well-Worn)": {
+    "price": 593.17,
+    "date": "2026-01-15 17:46:39"
+  },
+  "★ Bloodhound Gloves | Charred (Field-Tested)": {
+    "price": 534.52,
+    "date": "2026-01-15 17:47:24"
+  },
+  "★ Bloodhound Gloves | Charred (Well-Worn)": {
+    "price": 227.27,
+    "date": "2026-01-15 17:47:24"
+  },
+  "★ Bloodhound Gloves | Charred (Battle-Scarred)": {
+    "price": 198.11,
+    "date": "2026-01-15 17:47:24"
+  },
+  "★ Bloodhound Gloves | Charred (Minimal Wear)": {
+    "price": 660.0,
+    "date": "2026-01-15 17:47:24"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Field-Tested)": {
+    "price": 347.36,
+    "date": "2026-01-15 17:48:08"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Minimal Wear)": {
+    "price": 454.5,
+    "date": "2026-01-15 17:48:08"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Battle-Scarred)": {
+    "price": 136.0,
+    "date": "2026-01-15 17:48:08"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Well-Worn)": {
+    "price": 140.0,
+    "date": "2026-01-15 17:48:08"
+  },
+  "★ Bloodhound Gloves | Guerrilla (Factory New)": {
+    "price": 699.9,
+    "date": "2026-01-15 17:48:08"
+  },
+  "★ Bloodhound Gloves | Bronzed (Field-Tested)": {
+    "price": 370.71,
+    "date": "2026-01-15 17:49:04"
+  },
+  "★ Bloodhound Gloves | Bronzed (Minimal Wear)": {
+    "price": 444.49,
+    "date": "2026-01-15 17:49:04"
+  },
+  "★ Bloodhound Gloves | Bronzed (Battle-Scarred)": {
+    "price": 108.99,
+    "date": "2026-01-15 17:49:04"
+  },
+  "★ Bloodhound Gloves | Bronzed (Well-Worn)": {
+    "price": 161.32,
+    "date": "2026-01-15 17:49:04"
+  },
+  "★ Bloodhound Gloves | Bronzed (Factory New)": {
+    "price": 1742.19,
+    "date": "2026-01-15 17:49:04"
+  },
+  "★ Bloodhound Gloves | Snakebite (Field-Tested)": {
+    "price": 320.48,
+    "date": "2026-01-15 17:49:52"
+  },
+  "★ Bloodhound Gloves | Snakebite (Battle-Scarred)": {
+    "price": 134.98,
+    "date": "2026-01-15 17:49:52"
+  },
+  "★ Bloodhound Gloves | Snakebite (Minimal Wear)": {
+    "price": 450.0,
+    "date": "2026-01-15 17:49:52"
+  },
+  "★ Bloodhound Gloves | Snakebite (Well-Worn)": {
+    "price": 156.76,
+    "date": "2026-01-15 17:49:52"
+  },
+  "★ Broken Fang Gloves | Needle Point (Well-Worn)": {
+    "price": 89.99,
+    "date": "2026-01-15 17:50:36"
+  },
+  "★ Broken Fang Gloves | Needle Point (Minimal Wear)": {
+    "price": 133.68,
+    "date": "2026-01-15 17:50:36"
+  },
+  "★ Broken Fang Gloves | Needle Point (Factory New)": {
+    "price": 428.85,
+    "date": "2026-01-15 17:50:36"
+  },
+  "★ Broken Fang Gloves | Yellow-banded (Field-Tested)": {
+    "price": 92.02,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Unhinged (Field-Tested)": {
+    "price": 97.75,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Jade (Field-Tested)": {
+    "price": 146.85,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Needle Point (Field-Tested)": {
+    "price": 86.25,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Unhinged (Battle-Scarred)": {
+    "price": 85.99,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Jade (Battle-Scarred)": {
+    "price": 126.5,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Jade (Minimal Wear)": {
+    "price": 238.99,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Yellow-banded (Minimal Wear)": {
+    "price": 159.9,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Jade (Well-Worn)": {
+    "price": 137.5,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Broken Fang Gloves | Needle Point (Battle-Scarred)": {
+    "price": 90.01,
+    "date": "2026-01-15 17:53:01"
+  },
+  "★ Hydra Gloves | Emerald (Field-Tested)": {
+    "price": 64.09,
+    "date": "2026-01-15 17:53:43"
+  },
+  "★ Hydra Gloves | Emerald (Battle-Scarred)": {
+    "price": 62.98,
+    "date": "2026-01-15 17:53:43"
+  },
+  "★ Hydra Gloves | Emerald (Minimal Wear)": {
+    "price": 104.9,
+    "date": "2026-01-15 17:53:43"
+  },
+  "★ Hydra Gloves | Emerald (Well-Worn)": {
+    "price": 69.0,
+    "date": "2026-01-15 17:53:43"
+  },
+  "★ Hydra Gloves | Emerald (Factory New)": {
+    "price": 367.97,
+    "date": "2026-01-15 17:53:43"
+  },
+  "★ Hydra Gloves | Case Hardened (Field-Tested)": {
+    "price": 112.94,
+    "date": "2026-01-15 17:54:25"
+  },
+  "★ Hydra Gloves | Case Hardened (Battle-Scarred)": {
+    "price": 108.03,
+    "date": "2026-01-15 17:54:25"
+  },
+  "★ Hydra Gloves | Case Hardened (Minimal Wear)": {
+    "price": 167.47,
+    "date": "2026-01-15 17:54:25"
+  },
+  "★ Hydra Gloves | Case Hardened (Well-Worn)": {
+    "price": 108.56,
+    "date": "2026-01-15 17:54:25"
+  },
+  "★ Hydra Gloves | Case Hardened (Factory New)": {
+    "price": 646.13,
+    "date": "2026-01-15 17:54:25"
+  },
+  "★ Hydra Gloves | Mangrove (Field-Tested)": {
+    "price": 57.92,
+    "date": "2026-01-15 17:55:21"
+  },
+  "★ Hydra Gloves | Mangrove (Minimal Wear)": {
+    "price": 73.14,
+    "date": "2026-01-15 17:55:21"
+  },
+  "★ Hydra Gloves | Mangrove (Battle-Scarred)": {
+    "price": 56.67,
+    "date": "2026-01-15 17:55:21"
+  },
+  "★ Hydra Gloves | Mangrove (Well-Worn)": {
+    "price": 58.67,
+    "date": "2026-01-15 17:55:21"
+  },
+  "★ Hydra Gloves | Mangrove (Factory New)": {
+    "price": 367.8,
+    "date": "2026-01-15 17:55:21"
+  },
+  "★ Hydra Gloves | Rattler (Field-Tested)": {
+    "price": 57.47,
+    "date": "2026-01-15 17:56:03"
+  },
+  "★ Hydra Gloves | Rattler (Battle-Scarred)": {
+    "price": 54.78,
+    "date": "2026-01-15 17:56:03"
+  },
+  "★ Hydra Gloves | Rattler (Minimal Wear)": {
+    "price": 84.6,
+    "date": "2026-01-15 17:56:03"
+  },
+  "★ Hydra Gloves | Rattler (Well-Worn)": {
+    "price": 58.21,
+    "date": "2026-01-15 17:56:03"
+  },
+  "★ Hydra Gloves | Rattler (Factory New)": {
+    "price": 356.29,
+    "date": "2026-01-15 17:56:03"
+  },
+  "★ Bayonet | Marble Fade (Factory New)": {
+    "price": 538.34,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ Bayonet | Fade (Factory New)": {
+    "price": 559.48,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ M9 Bayonet | Marble Fade (Factory New)": {
+    "price": 1322.66,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ Bayonet | Marble Fade (Minimal Wear)": {
+    "price": 765.21,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ M9 Bayonet | Fade (Factory New)": {
+    "price": 1800.0,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ M9 Bayonet | Marble Fade (Minimal Wear)": {
+    "price": 1633.42,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ Bayonet | Fade (Minimal Wear)": {
+    "price": 660.0,
+    "date": "2026-01-15 17:56:57"
+  },
+  "★ Bayonet | Doppler (Factory New)": {
+    "price": 603.07,
+    "date": "2026-01-15 18:00:49"
+  },
+  "★ Bayonet | Doppler (Minimal Wear)": {
+    "price": 742.61,
+    "date": "2026-01-15 18:00:49"
+  },
+  "★ M9 Bayonet | Doppler (Factory New)": {
+    "price": 1610.87,
+    "date": "2026-01-15 18:00:49"
+  },
+  "★ Bayonet | Gamma Doppler (Factory New)": {
+    "price": 835.33,
+    "date": "2026-01-15 18:02:39"
+  },
+  "★ Bayonet | Gamma Doppler (Minimal Wear)": {
+    "price": 1122.31,
+    "date": "2026-01-15 18:02:39"
   }
 }
