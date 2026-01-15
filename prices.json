@@ -7151,18 +7151,6 @@
     "price": 747.5,
     "date": "2026-01-14 10:57:50"
   },
-  "★ Butterfly Knife | Ultraviolet (Field-Tested)": {
-    "price": 851.52,
-    "date": "2026-01-14 10:58:30"
-  },
-  "★ Butterfly Knife | Ultraviolet (Battle-Scarred)": {
-    "price": 727.42,
-    "date": "2026-01-14 10:58:30"
-  },
-  "★ Butterfly Knife | Ultraviolet (Minimal Wear)": {
-    "price": 1387.1,
-    "date": "2026-01-14 10:58:30"
-  },
   "★ StatTrak™ Butterfly Knife | Ultraviolet (Field-Tested)": {
     "price": 903.03,
     "date": "2026-01-14 10:58:30"
@@ -7175,24 +7163,8 @@
     "price": 641.55,
     "date": "2026-01-14 10:58:30"
   },
-  "★ Butterfly Knife | Scorched (Field-Tested)": {
-    "price": 667.2,
-    "date": "2026-01-14 10:59:15"
-  },
-  "★ Butterfly Knife | Scorched (Minimal Wear)": {
-    "price": 816.52,
-    "date": "2026-01-14 10:59:15"
-  },
-  "★ Butterfly Knife | Scorched (Battle-Scarred)": {
-    "price": 874.97,
-    "date": "2026-01-14 10:59:15"
-  },
   "★ StatTrak™ Butterfly Knife | Scorched (Field-Tested)": {
     "price": 727.42,
-    "date": "2026-01-14 10:59:15"
-  },
-  "★ Butterfly Knife | Scorched (Well-Worn)": {
-    "price": 711.54,
     "date": "2026-01-14 10:59:15"
   },
   "★ StatTrak™ Butterfly Knife | Scorched (Well-Worn)": {
@@ -7203,104 +7175,12 @@
     "price": 690.0,
     "date": "2026-01-14 10:59:15"
   },
-  "★ Kukri Knife | Safari Mesh (Field-Tested)": {
-    "price": 78.51,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Survival Knife | Safari Mesh (Field-Tested)": {
-    "price": 72.0,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Navaja Knife | Safari Mesh (Field-Tested)": {
-    "price": 64.03,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Paracord Knife | Safari Mesh (Field-Tested)": {
-    "price": 72.28,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Shadow Daggers | Safari Mesh (Field-Tested)": {
-    "price": 69.0,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Kukri Knife | Safari Mesh (Battle-Scarred)": {
-    "price": 81.96,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Paracord Knife | Safari Mesh (Battle-Scarred)": {
-    "price": 73.0,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Kukri Knife | Safari Mesh (Well-Worn)": {
-    "price": 79.75,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Nomad Knife | Safari Mesh (Field-Tested)": {
-    "price": 121.32,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Navaja Knife | Safari Mesh (Minimal Wear)": {
-    "price": 69.84,
-    "date": "2026-01-14 11:08:39"
-  },
-  "★ Kukri Knife | Urban Masked (Field-Tested)": {
-    "price": 87.49,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Survival Knife | Urban Masked (Field-Tested)": {
-    "price": 81.0,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Paracord Knife | Urban Masked (Field-Tested)": {
-    "price": 79.2,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Navaja Knife | Urban Masked (Field-Tested)": {
-    "price": 74.81,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Shadow Daggers | Urban Masked (Field-Tested)": {
-    "price": 71.1,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Skeleton Knife | Urban Masked (Field-Tested)": {
-    "price": 188.03,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Nomad Knife | Urban Masked (Field-Tested)": {
-    "price": 151.64,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Kukri Knife | Urban Masked (Minimal Wear)": {
-    "price": 127.44,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Ursus Knife | Urban Masked (Field-Tested)": {
-    "price": 110.32,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Gut Knife | Urban Masked (Field-Tested)": {
-    "price": 87.19,
-    "date": "2026-01-14 11:13:36"
-  },
-  "★ Survival Knife | Fade (Factory New)": {
-    "price": 230.0,
-    "date": "2026-01-14 11:14:20"
-  },
   "★ StatTrak™ Survival Knife | Marble Fade (Factory New)": {
     "price": 223.88,
     "date": "2026-01-14 11:14:20"
   },
   "★ StatTrak™ Survival Knife | Fade (Factory New)": {
     "price": 339.02,
-    "date": "2026-01-14 11:14:20"
-  },
-  "★ Survival Knife | Fade (Minimal Wear)": {
-    "price": 304.34,
-    "date": "2026-01-14 11:14:20"
-  },
-  "★ Survival Knife | Marble Fade (Minimal Wear)": {
-    "price": 239.6,
     "date": "2026-01-14 11:14:20"
   },
   "★ StatTrak™ Survival Knife | Marble Fade (Minimal Wear)": {
@@ -7311,16 +7191,8 @@
     "price": 402.42,
     "date": "2026-01-14 11:14:20"
   },
-  "★ Survival Knife | Doppler (Factory New)": {
-    "price": 291.56,
-    "date": "2026-01-14 11:15:15"
-  },
   "★ StatTrak™ Survival Knife | Doppler (Factory New)": {
     "price": 330.0,
-    "date": "2026-01-14 11:15:15"
-  },
-  "★ Survival Knife | Doppler (Minimal Wear)": {
-    "price": 375.6,
     "date": "2026-01-14 11:15:15"
   },
   "★ StatTrak™ Survival Knife | Doppler (Minimal Wear)": {
@@ -9183,42 +9055,6 @@
     "price": 657.2,
     "date": "2026-01-14 15:36:06"
   },
-  "★ Navaja Knife | Marble Fade (Factory New)": {
-    "price": 134.32,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Bowie Knife | Marble Fade (Factory New)": {
-    "price": 259.15,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Shadow Daggers | Marble Fade (Factory New)": {
-    "price": 148.18,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Falchion Knife | Marble Fade (Factory New)": {
-    "price": 281.1,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Paracord Knife | Marble Fade (Factory New)": {
-    "price": 209.95,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Survival Knife | Marble Fade (Factory New)": {
-    "price": 209.0,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Gut Knife | Marble Fade (Factory New)": {
-    "price": 175.19,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Huntsman Knife | Marble Fade (Factory New)": {
-    "price": 284.65,
-    "date": "2026-01-14 15:36:44"
-  },
-  "★ Bayonet | Marble Fade (Factory New)": {
-    "price": 545.0,
-    "date": "2026-01-14 15:36:44"
-  },
   "★ Skeleton Knife | Marble Fade (Factory New)": {
     "price": 665.74,
     "date": "2026-01-14 15:36:44"
@@ -9698,5 +9534,177 @@
   "★ Bowie Knife | Crimson Web (Field-Tested)": {
     "price": 170.0,
     "date": "2026-01-14 16:45:52"
+  },
+  "★ Butterfly Knife | Night": {
+    "price": 0.0,
+    "date": "2026-01-14 16:56:36"
+  },
+  "★ Butterfly Knife | Ultraviolet (Field-Tested)": {
+    "price": 851.52,
+    "date": "2026-01-14 16:56:40"
+  },
+  "★ Butterfly Knife | Ultraviolet (Battle-Scarred)": {
+    "price": 705.7,
+    "date": "2026-01-14 16:56:40"
+  },
+  "★ Butterfly Knife | Ultraviolet (Minimal Wear)": {
+    "price": 1387.1,
+    "date": "2026-01-14 16:56:40"
+  },
+  "★ Butterfly Knife | Ultraviolet (Well-Worn)": {
+    "price": 791.77,
+    "date": "2026-01-14 16:56:40"
+  },
+  "★ Butterfly Knife | Scorched (Field-Tested)": {
+    "price": 666.04,
+    "date": "2026-01-14 17:02:22"
+  },
+  "★ Butterfly Knife | Scorched (Minimal Wear)": {
+    "price": 816.52,
+    "date": "2026-01-14 17:02:22"
+  },
+  "★ Butterfly Knife | Scorched (Battle-Scarred)": {
+    "price": 874.97,
+    "date": "2026-01-14 17:02:22"
+  },
+  "★ Butterfly Knife | Scorched (Well-Worn)": {
+    "price": 711.54,
+    "date": "2026-01-14 17:02:22"
+  },
+  "★ Kukri Knife | Safari Mesh (Field-Tested)": {
+    "price": 70.0,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Survival Knife | Safari Mesh (Field-Tested)": {
+    "price": 70.76,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Navaja Knife | Safari Mesh (Field-Tested)": {
+    "price": 64.17,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Paracord Knife | Safari Mesh (Field-Tested)": {
+    "price": 64.67,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Kukri Knife | Safari Mesh (Battle-Scarred)": {
+    "price": 81.96,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Shadow Daggers | Safari Mesh (Field-Tested)": {
+    "price": 69.0,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Paracord Knife | Safari Mesh (Battle-Scarred)": {
+    "price": 73.0,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Kukri Knife | Safari Mesh (Well-Worn)": {
+    "price": 76.08,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Nomad Knife | Safari Mesh (Field-Tested)": {
+    "price": 121.32,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Navaja Knife | Safari Mesh (Minimal Wear)": {
+    "price": 71.23,
+    "date": "2026-01-14 17:03:02"
+  },
+  "★ Kukri Knife | Urban Masked (Field-Tested)": {
+    "price": 84.32,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Survival Knife | Urban Masked (Field-Tested)": {
+    "price": 84.57,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Paracord Knife | Urban Masked (Field-Tested)": {
+    "price": 89.83,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Navaja Knife | Urban Masked (Field-Tested)": {
+    "price": 71.77,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Shadow Daggers | Urban Masked (Field-Tested)": {
+    "price": 71.1,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Skeleton Knife | Urban Masked (Field-Tested)": {
+    "price": 188.03,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Nomad Knife | Urban Masked (Field-Tested)": {
+    "price": 151.64,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Kukri Knife | Urban Masked (Minimal Wear)": {
+    "price": 127.44,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Ursus Knife | Urban Masked (Field-Tested)": {
+    "price": 110.32,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Gut Knife | Urban Masked (Field-Tested)": {
+    "price": 87.19,
+    "date": "2026-01-14 17:03:41"
+  },
+  "★ Survival Knife | Fade (Minimal Wear)": {
+    "price": 304.34,
+    "date": "2026-01-14 17:04:24"
+  },
+  "★ Survival Knife | Marble Fade (Minimal Wear)": {
+    "price": 219.37,
+    "date": "2026-01-14 17:04:24"
+  },
+  "★ Survival Knife | Doppler (Factory New)": {
+    "price": 304.49,
+    "date": "2026-01-14 17:08:02"
+  },
+  "★ Survival Knife | Doppler (Minimal Wear)": {
+    "price": 375.6,
+    "date": "2026-01-14 17:08:02"
+  },
+  "★ Navaja Knife | Marble Fade (Factory New)": {
+    "price": 137.0,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Bowie Knife | Marble Fade (Factory New)": {
+    "price": 252.0,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Shadow Daggers | Marble Fade (Factory New)": {
+    "price": 146.66,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Falchion Knife | Marble Fade (Factory New)": {
+    "price": 281.43,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Survival Knife | Fade (Factory New)": {
+    "price": 235.93,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Survival Knife | Marble Fade (Factory New)": {
+    "price": 216.55,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Paracord Knife | Marble Fade (Factory New)": {
+    "price": 205.0,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Gut Knife | Marble Fade (Factory New)": {
+    "price": 174.85,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Huntsman Knife | Marble Fade (Factory New)": {
+    "price": 288.13,
+    "date": "2026-01-15 07:50:43"
+  },
+  "★ Bayonet | Marble Fade (Factory New)": {
+    "price": 540.0,
+    "date": "2026-01-15 07:50:43"
   }
 }
