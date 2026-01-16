@@ -67,26 +67,6 @@
     "price": 17.87,
     "date": "2026-01-12 10:34:07"
   },
-  "P250 | Digital Architect (Factory New)": {
-    "price": 88.98,
-    "date": "2026-01-12 10:37:12"
-  },
-  "P250 | Digital Architect (Minimal Wear)": {
-    "price": 63.95,
-    "date": "2026-01-12 10:37:12"
-  },
-  "P250 | Digital Architect (Battle-Scarred)": {
-    "price": 65.0,
-    "date": "2026-01-12 10:37:12"
-  },
-  "P250 | Digital Architect (Field-Tested)": {
-    "price": 81.5,
-    "date": "2026-01-12 10:37:12"
-  },
-  "P250 | Digital Architect (Well-Worn)": {
-    "price": 1683.97,
-    "date": "2026-01-12 10:37:12"
-  },
   "Tec-9 | Nuclear Threat (Field-Tested)": {
     "price": 69.95,
     "date": "2026-01-12 10:38:02"
@@ -11166,10 +11146,6 @@
   "StatTrak™ Five-SeveN | Hybrid (Factory New)": {
     "price": 9.16,
     "date": "2026-01-16 04:00:21"
-  },
-  "Glock-18 | High Beam (Factory New)": {
-    "price": 0.16,
-    "date": "2026-01-16 04:01:00"
   },
   "Glock-18 | Ocean Topo (Field-Tested)": {
     "price": 0.13,
@@ -31139,40 +31115,8 @@
     "price": 71.31,
     "date": "2026-01-16 12:33:32"
   },
-  "StatTrak™ M4A4 | Faded Zebra (Field-Tested)": {
-    "price": 6.14,
-    "date": "2026-01-16 12:34:29"
-  },
-  "M4A4 | Faded Zebra (Field-Tested)": {
-    "price": 4.88,
-    "date": "2026-01-16 12:34:29"
-  },
   "M4A1-S | Fade (Factory New)": {
     "price": 655.0,
-    "date": "2026-01-16 12:34:29"
-  },
-  "M4A4 | Faded Zebra (Minimal Wear)": {
-    "price": 7.97,
-    "date": "2026-01-16 12:34:29"
-  },
-  "StatTrak™ M4A4 | Faded Zebra (Minimal Wear)": {
-    "price": 8.28,
-    "date": "2026-01-16 12:34:29"
-  },
-  "StatTrak™ M4A4 | Faded Zebra (Battle-Scarred)": {
-    "price": 6.36,
-    "date": "2026-01-16 12:34:29"
-  },
-  "StatTrak™ M4A4 | Faded Zebra (Well-Worn)": {
-    "price": 6.14,
-    "date": "2026-01-16 12:34:29"
-  },
-  "M4A4 | Faded Zebra (Battle-Scarred)": {
-    "price": 14.5,
-    "date": "2026-01-16 12:34:29"
-  },
-  "M4A4 | Faded Zebra (Well-Worn)": {
-    "price": 5.07,
     "date": "2026-01-16 12:34:29"
   },
   "★ M9 Bayonet | Marble Fade (Factory New)": {
@@ -31698,5 +31642,777 @@
   "StatTrak™ P90 | Blind Spot (Well-Worn)": {
     "price": 13.93,
     "date": "2026-01-16 12:51:59"
+  },
+  "AK-47 | Black Laminate (Field-Tested)": {
+    "price": 55.46,
+    "date": "2026-01-16 12:53:03"
+  },
+  "AK-47 | Black Laminate (Minimal Wear)": {
+    "price": 92.85,
+    "date": "2026-01-16 12:53:03"
+  },
+  "AK-47 | Black Laminate (Battle-Scarred)": {
+    "price": 54.78,
+    "date": "2026-01-16 12:53:03"
+  },
+  "AK-47 | Black Laminate (Well-Worn)": {
+    "price": 52.99,
+    "date": "2026-01-16 12:53:03"
+  },
+  "AK-47 | Black Laminate (Factory New)": {
+    "price": 325.75,
+    "date": "2026-01-16 12:53:03"
+  },
+  "PP-Bizon | Carbon Fiber (Factory New)": {
+    "price": 15.27,
+    "date": "2026-01-16 12:53:41"
+  },
+  "PP-Bizon | Carbon Fiber (Minimal Wear)": {
+    "price": 11.97,
+    "date": "2026-01-16 12:53:41"
+  },
+  "Dual Berettas | Demolition (Field-Tested)": {
+    "price": 29.27,
+    "date": "2026-01-16 12:54:27"
+  },
+  "Dual Berettas | Demolition (Well-Worn)": {
+    "price": 21.34,
+    "date": "2026-01-16 12:54:27"
+  },
+  "Dual Berettas | Demolition (Battle-Scarred)": {
+    "price": 21.75,
+    "date": "2026-01-16 12:54:27"
+  },
+  "MAC-10 | Urban DDPAT (Field-Tested)": {
+    "price": 2.25,
+    "date": "2026-01-16 12:55:15"
+  },
+  "MAC-10 | Urban DDPAT (Minimal Wear)": {
+    "price": 5.2,
+    "date": "2026-01-16 12:55:15"
+  },
+  "MAC-10 | Urban DDPAT (Battle-Scarred)": {
+    "price": 2.92,
+    "date": "2026-01-16 12:55:15"
+  },
+  "MAC-10 | Urban DDPAT (Well-Worn)": {
+    "price": 3.02,
+    "date": "2026-01-16 12:55:15"
+  },
+  "MAC-10 | Urban DDPAT (Factory New)": {
+    "price": 92.71,
+    "date": "2026-01-16 12:55:15"
+  },
+  "P90 | Glacier Mesh (Minimal Wear)": {
+    "price": 9.68,
+    "date": "2026-01-16 12:55:57"
+  },
+  "P90 | Glacier Mesh (Well-Worn)": {
+    "price": 11.1,
+    "date": "2026-01-16 12:55:57"
+  },
+  "P90 | Glacier Mesh (Field-Tested)": {
+    "price": 7.4,
+    "date": "2026-01-16 12:55:57"
+  },
+  "P90 | Glacier Mesh (Battle-Scarred)": {
+    "price": 19.0,
+    "date": "2026-01-16 12:55:57"
+  },
+  "P90 | Glacier Mesh (Factory New)": {
+    "price": 139.0,
+    "date": "2026-01-16 12:55:57"
+  },
+  "XM1014 | Urban Perforated (Field-Tested)": {
+    "price": 1.95,
+    "date": "2026-01-16 12:56:50"
+  },
+  "XM1014 | Urban Perforated (Minimal Wear)": {
+    "price": 2.88,
+    "date": "2026-01-16 12:56:50"
+  },
+  "XM1014 | Urban Perforated (Battle-Scarred)": {
+    "price": 2.54,
+    "date": "2026-01-16 12:56:50"
+  },
+  "XM1014 | Urban Perforated (Well-Worn)": {
+    "price": 2.91,
+    "date": "2026-01-16 12:56:50"
+  },
+  "XM1014 | Urban Perforated (Factory New)": {
+    "price": 40.04,
+    "date": "2026-01-16 12:56:50"
+  },
+  "AK-47 | Green Laminate (Minimal Wear)": {
+    "price": 35.97,
+    "date": "2026-01-16 12:57:45"
+  },
+  "AK-47 | Green Laminate (Field-Tested)": {
+    "price": 31.82,
+    "date": "2026-01-16 12:57:45"
+  },
+  "AK-47 | Green Laminate (Factory New)": {
+    "price": 120.0,
+    "date": "2026-01-16 12:57:45"
+  },
+  "AK-47 | Green Laminate (Well-Worn)": {
+    "price": 69.64,
+    "date": "2026-01-16 12:57:45"
+  },
+  "PP-Bizon | Breaker Box (Factory New)": {
+    "price": 6.4,
+    "date": "2026-01-16 12:58:23"
+  },
+  "PP-Bizon | Breaker Box (Field-Tested)": {
+    "price": 6.61,
+    "date": "2026-01-16 12:58:23"
+  },
+  "PP-Bizon | Breaker Box (Minimal Wear)": {
+    "price": 6.85,
+    "date": "2026-01-16 12:58:23"
+  },
+  "PP-Bizon | Breaker Box (Well-Worn)": {
+    "price": 12.72,
+    "date": "2026-01-16 12:58:23"
+  },
+  "CZ75-Auto | Framework (Field-Tested)": {
+    "price": 1.0,
+    "date": "2026-01-16 12:59:19"
+  },
+  "CZ75-Auto | Framework (Minimal Wear)": {
+    "price": 1.27,
+    "date": "2026-01-16 12:59:19"
+  },
+  "CZ75-Auto | Framework (Battle-Scarred)": {
+    "price": 0.93,
+    "date": "2026-01-16 12:59:19"
+  },
+  "CZ75-Auto | Framework (Factory New)": {
+    "price": 2.23,
+    "date": "2026-01-16 12:59:19"
+  },
+  "CZ75-Auto | Framework (Well-Worn)": {
+    "price": 2.13,
+    "date": "2026-01-16 12:59:19"
+  },
+  "Dual Berettas | Oil Change (Field-Tested)": {
+    "price": 1.04,
+    "date": "2026-01-16 13:00:09"
+  },
+  "Dual Berettas | Oil Change (Minimal Wear)": {
+    "price": 1.19,
+    "date": "2026-01-16 13:00:09"
+  },
+  "Dual Berettas | Oil Change (Factory New)": {
+    "price": 2.35,
+    "date": "2026-01-16 13:00:09"
+  },
+  "Dual Berettas | Oil Change (Battle-Scarred)": {
+    "price": 1.21,
+    "date": "2026-01-16 13:00:09"
+  },
+  "Dual Berettas | Oil Change (Well-Worn)": {
+    "price": 0.98,
+    "date": "2026-01-16 13:00:09"
+  },
+  "FAMAS | Faulty Wiring (Factory New)": {
+    "price": 2.14,
+    "date": "2026-01-16 13:00:47"
+  },
+  "FAMAS | Faulty Wiring (Minimal Wear)": {
+    "price": 1.2,
+    "date": "2026-01-16 13:00:47"
+  },
+  "FAMAS | Faulty Wiring (Field-Tested)": {
+    "price": 0.98,
+    "date": "2026-01-16 13:00:47"
+  },
+  "FAMAS | Faulty Wiring (Well-Worn)": {
+    "price": 1.35,
+    "date": "2026-01-16 13:00:47"
+  },
+  "FAMAS | Faulty Wiring (Battle-Scarred)": {
+    "price": 2.45,
+    "date": "2026-01-16 13:00:47"
+  },
+  "Five-SeveN | Fall Hazard (Factory New)": {
+    "price": 390.37,
+    "date": "2026-01-16 13:01:25"
+  },
+  "Five-SeveN | Fall Hazard (Battle-Scarred)": {
+    "price": 802.28,
+    "date": "2026-01-16 13:01:25"
+  },
+  "Five-SeveN | Fall Hazard (Minimal Wear)": {
+    "price": 307.66,
+    "date": "2026-01-16 13:01:25"
+  },
+  "Five-SeveN | Fall Hazard (Well-Worn)": {
+    "price": 916.89,
+    "date": "2026-01-16 13:01:25"
+  },
+  "Galil AR | CAUTION! (Field-Tested)": {
+    "price": 72.31,
+    "date": "2026-01-16 13:02:02"
+  },
+  "Galil AR | CAUTION! (Factory New)": {
+    "price": 170.0,
+    "date": "2026-01-16 13:02:02"
+  },
+  "Galil AR | CAUTION! (Minimal Wear)": {
+    "price": 103.0,
+    "date": "2026-01-16 13:02:02"
+  },
+  "Galil AR | CAUTION! (Battle-Scarred)": {
+    "price": 113.73,
+    "date": "2026-01-16 13:02:02"
+  },
+  "Galil AR | CAUTION! (Well-Worn)": {
+    "price": 72.54,
+    "date": "2026-01-16 13:02:02"
+  },
+  "Glock-18 | Red Tire (Minimal Wear)": {
+    "price": 6.45,
+    "date": "2026-01-16 13:02:46"
+  },
+  "Glock-18 | Red Tire (Factory New)": {
+    "price": 26.69,
+    "date": "2026-01-16 13:02:46"
+  },
+  "Glock-18 | Red Tire (Field-Tested)": {
+    "price": 5.3,
+    "date": "2026-01-16 13:02:46"
+  },
+  "Glock-18 | Red Tire (Battle-Scarred)": {
+    "price": 6.49,
+    "date": "2026-01-16 13:02:46"
+  },
+  "Glock-18 | Red Tire (Well-Worn)": {
+    "price": 5.78,
+    "date": "2026-01-16 13:02:46"
+  },
+  "M4A1-S | Imminent Danger (Minimal Wear)": {
+    "price": 1775.5,
+    "date": "2026-01-16 13:03:25"
+  },
+  "MAC-10 | Strats (Field-Tested)": {
+    "price": 0.95,
+    "date": "2026-01-16 13:04:15"
+  },
+  "MAC-10 | Strats (Factory New)": {
+    "price": 2.5,
+    "date": "2026-01-16 13:04:15"
+  },
+  "MAC-10 | Strats (Minimal Wear)": {
+    "price": 1.26,
+    "date": "2026-01-16 13:04:15"
+  },
+  "MAC-10 | Strats (Battle-Scarred)": {
+    "price": 1.1,
+    "date": "2026-01-16 13:04:15"
+  },
+  "MAC-10 | Strats (Well-Worn)": {
+    "price": 1.31,
+    "date": "2026-01-16 13:04:15"
+  },
+  "MAG-7 | Prism Terrace (Factory New)": {
+    "price": 95.13,
+    "date": "2026-01-16 13:04:56"
+  },
+  "MAG-7 | Prism Terrace (Field-Tested)": {
+    "price": 55.35,
+    "date": "2026-01-16 13:04:56"
+  },
+  "MAG-7 | Prism Terrace (Minimal Wear)": {
+    "price": 70.0,
+    "date": "2026-01-16 13:04:56"
+  },
+  "Negev | Infrastructure (Factory New)": {
+    "price": 23.07,
+    "date": "2026-01-16 13:05:51"
+  },
+  "Negev | Infrastructure (Field-Tested)": {
+    "price": 16.51,
+    "date": "2026-01-16 13:05:51"
+  },
+  "Negev | Infrastructure (Well-Worn)": {
+    "price": 16.05,
+    "date": "2026-01-16 13:05:51"
+  },
+  "Negev | Infrastructure (Minimal Wear)": {
+    "price": 16.24,
+    "date": "2026-01-16 13:05:51"
+  },
+  "Negev | Infrastructure (Battle-Scarred)": {
+    "price": 80.0,
+    "date": "2026-01-16 13:05:51"
+  },
+  "Nova | Interlock (Factory New)": {
+    "price": 26.14,
+    "date": "2026-01-16 13:06:32"
+  },
+  "Nova | Interlock (Minimal Wear)": {
+    "price": 16.25,
+    "date": "2026-01-16 13:06:32"
+  },
+  "Nova | Interlock (Field-Tested)": {
+    "price": 16.11,
+    "date": "2026-01-16 13:06:32"
+  },
+  "Nova | Interlock (Battle-Scarred)": {
+    "price": 18.88,
+    "date": "2026-01-16 13:06:32"
+  },
+  "Nova | Interlock (Well-Worn)": {
+    "price": 19.55,
+    "date": "2026-01-16 13:06:32"
+  },
+  "P250 | Digital Architect (Factory New)": {
+    "price": 88.98,
+    "date": "2026-01-16 13:07:26"
+  },
+  "P250 | Digital Architect (Minimal Wear)": {
+    "price": 66.15,
+    "date": "2026-01-16 13:07:26"
+  },
+  "P250 | Digital Architect (Battle-Scarred)": {
+    "price": 65.0,
+    "date": "2026-01-16 13:07:26"
+  },
+  "P250 | Digital Architect (Field-Tested)": {
+    "price": 81.72,
+    "date": "2026-01-16 13:07:26"
+  },
+  "P250 | Digital Architect (Well-Worn)": {
+    "price": 1681.19,
+    "date": "2026-01-16 13:07:26"
+  },
+  "P90 | Schematic (Factory New)": {
+    "price": 25.67,
+    "date": "2026-01-16 13:08:21"
+  },
+  "P90 | Schematic (Field-Tested)": {
+    "price": 15.26,
+    "date": "2026-01-16 13:08:21"
+  },
+  "P90 | Schematic (Well-Worn)": {
+    "price": 25.0,
+    "date": "2026-01-16 13:08:21"
+  },
+  "P90 | Schematic (Battle-Scarred)": {
+    "price": 19.1,
+    "date": "2026-01-16 13:08:21"
+  },
+  "P90 | Schematic (Minimal Wear)": {
+    "price": 16.01,
+    "date": "2026-01-16 13:08:21"
+  },
+  "SG 553 | Hazard Pay (Factory New)": {
+    "price": 353.93,
+    "date": "2026-01-16 13:09:18"
+  },
+  "SG 553 | Hazard Pay (Field-Tested)": {
+    "price": 269.75,
+    "date": "2026-01-16 13:09:18"
+  },
+  "SG 553 | Hazard Pay (Minimal Wear)": {
+    "price": 313.33,
+    "date": "2026-01-16 13:09:18"
+  },
+  "SSG 08 | Carbon Fiber (Factory New)": {
+    "price": 7.07,
+    "date": "2026-01-16 13:10:10"
+  },
+  "SSG 08 | Carbon Fiber (Minimal Wear)": {
+    "price": 7.94,
+    "date": "2026-01-16 13:10:10"
+  },
+  "UMP-45 | Mechanism (Factory New)": {
+    "price": 7.75,
+    "date": "2026-01-16 13:10:48"
+  },
+  "UMP-45 | Mechanism (Field-Tested)": {
+    "price": 5.09,
+    "date": "2026-01-16 13:10:48"
+  },
+  "UMP-45 | Mechanism (Minimal Wear)": {
+    "price": 6.55,
+    "date": "2026-01-16 13:10:48"
+  },
+  "UMP-45 | Mechanism (Well-Worn)": {
+    "price": 6.37,
+    "date": "2026-01-16 13:10:48"
+  },
+  "UMP-45 | Mechanism (Battle-Scarred)": {
+    "price": 5.49,
+    "date": "2026-01-16 13:10:48"
+  },
+  "XM1014 | Blue Tire (Field-Tested)": {
+    "price": 1.01,
+    "date": "2026-01-16 13:11:26"
+  },
+  "XM1014 | Blue Tire (Factory New)": {
+    "price": 1.86,
+    "date": "2026-01-16 13:11:26"
+  },
+  "XM1014 | Blue Tire (Well-Worn)": {
+    "price": 1.33,
+    "date": "2026-01-16 13:11:26"
+  },
+  "XM1014 | Blue Tire (Minimal Wear)": {
+    "price": 1.19,
+    "date": "2026-01-16 13:11:26"
+  },
+  "XM1014 | Blue Tire (Battle-Scarred)": {
+    "price": 1.32,
+    "date": "2026-01-16 13:11:26"
+  },
+  "AK-47 | Red Laminate (Field-Tested)": {
+    "price": 79.03,
+    "date": "2026-01-16 13:12:16"
+  },
+  "AK-47 | Red Laminate (Minimal Wear)": {
+    "price": 228.62,
+    "date": "2026-01-16 13:12:16"
+  },
+  "AK-47 | Red Laminate (Battle-Scarred)": {
+    "price": 72.29,
+    "date": "2026-01-16 13:12:16"
+  },
+  "AK-47 | Red Laminate (Well-Worn)": {
+    "price": 77.85,
+    "date": "2026-01-16 13:12:16"
+  },
+  "StatTrak™ AK-47 | Red Laminate (Field-Tested)": {
+    "price": 208.89,
+    "date": "2026-01-16 13:12:16"
+  },
+  "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)": {
+    "price": 226.29,
+    "date": "2026-01-16 13:12:16"
+  },
+  "StatTrak™ AK-47 | Red Laminate (Well-Worn)": {
+    "price": 305.5,
+    "date": "2026-01-16 13:12:16"
+  },
+  "AK-47 | Red Laminate (Factory New)": {
+    "price": 668.15,
+    "date": "2026-01-16 13:12:16"
+  },
+  "StatTrak™ AK-47 | Red Laminate (Minimal Wear)": {
+    "price": 587.19,
+    "date": "2026-01-16 13:12:16"
+  },
+  "AWP | BOOM (Minimal Wear)": {
+    "price": 201.25,
+    "date": "2026-01-16 13:13:03"
+  },
+  "AWP | BOOM (Field-Tested)": {
+    "price": 156.3,
+    "date": "2026-01-16 13:13:03"
+  },
+  "StatTrak™ AWP | BOOM (Minimal Wear)": {
+    "price": 330.59,
+    "date": "2026-01-16 13:13:03"
+  },
+  "StatTrak™ AWP | BOOM (Field-Tested)": {
+    "price": 269.69,
+    "date": "2026-01-16 13:13:03"
+  },
+  "AWP | BOOM (Factory New)": {
+    "price": 1141.0,
+    "date": "2026-01-16 13:13:03"
+  },
+  "StatTrak™ AWP | BOOM (Factory New)": {
+    "price": 1276.54,
+    "date": "2026-01-16 13:13:03"
+  },
+  "FAMAS | Doomkitty (Minimal Wear)": {
+    "price": 5.86,
+    "date": "2026-01-16 13:13:46"
+  },
+  "StatTrak™ FAMAS | Doomkitty (Minimal Wear)": {
+    "price": 5.44,
+    "date": "2026-01-16 13:13:46"
+  },
+  "FAMAS | Doomkitty (Field-Tested)": {
+    "price": 4.88,
+    "date": "2026-01-16 13:13:46"
+  },
+  "StatTrak™ FAMAS | Doomkitty (Field-Tested)": {
+    "price": 4.98,
+    "date": "2026-01-16 13:13:46"
+  },
+  "Galil AR | Orange DDPAT (Field-Tested)": {
+    "price": 20.37,
+    "date": "2026-01-16 13:14:34"
+  },
+  "StatTrak™ Galil AR | Orange DDPAT (Field-Tested)": {
+    "price": 29.02,
+    "date": "2026-01-16 13:14:34"
+  },
+  "StatTrak™ Galil AR | Orange DDPAT (Minimal Wear)": {
+    "price": 52.34,
+    "date": "2026-01-16 13:14:34"
+  },
+  "Galil AR | Orange DDPAT (Battle-Scarred)": {
+    "price": 18.57,
+    "date": "2026-01-16 13:14:34"
+  },
+  "Galil AR | Orange DDPAT (Minimal Wear)": {
+    "price": 33.65,
+    "date": "2026-01-16 13:14:34"
+  },
+  "Galil AR | Orange DDPAT (Well-Worn)": {
+    "price": 21.21,
+    "date": "2026-01-16 13:14:34"
+  },
+  "StatTrak™ Galil AR | Orange DDPAT (Battle-Scarred)": {
+    "price": 29.35,
+    "date": "2026-01-16 13:14:34"
+  },
+  "StatTrak™ Galil AR | Orange DDPAT (Well-Worn)": {
+    "price": 31.25,
+    "date": "2026-01-16 13:14:34"
+  },
+  "Galil AR | Orange DDPAT (Factory New)": {
+    "price": 98.84,
+    "date": "2026-01-16 13:14:34"
+  },
+  "StatTrak™ M4A4 | Faded Zebra (Field-Tested)": {
+    "price": 6.14,
+    "date": "2026-01-16 13:15:13"
+  },
+  "M4A4 | Faded Zebra (Field-Tested)": {
+    "price": 4.88,
+    "date": "2026-01-16 13:15:13"
+  },
+  "M4A4 | Faded Zebra (Minimal Wear)": {
+    "price": 7.97,
+    "date": "2026-01-16 13:15:13"
+  },
+  "StatTrak™ M4A4 | Faded Zebra (Minimal Wear)": {
+    "price": 7.89,
+    "date": "2026-01-16 13:15:13"
+  },
+  "StatTrak™ M4A4 | Faded Zebra (Battle-Scarred)": {
+    "price": 6.36,
+    "date": "2026-01-16 13:15:13"
+  },
+  "StatTrak™ M4A4 | Faded Zebra (Well-Worn)": {
+    "price": 6.14,
+    "date": "2026-01-16 13:15:13"
+  },
+  "M4A4 | Faded Zebra (Battle-Scarred)": {
+    "price": 14.5,
+    "date": "2026-01-16 13:15:13"
+  },
+  "M4A4 | Faded Zebra (Well-Worn)": {
+    "price": 5.07,
+    "date": "2026-01-16 13:15:13"
+  },
+  "M4A4 | Faded Zebra (Factory New)": {
+    "price": 65.0,
+    "date": "2026-01-16 13:15:13"
+  },
+  "StatTrak™ M4A4 | Faded Zebra (Factory New)": {
+    "price": 114.14,
+    "date": "2026-01-16 13:15:13"
+  },
+  "MAG-7 | Memento (Minimal Wear)": {
+    "price": 4.18,
+    "date": "2026-01-16 13:16:09"
+  },
+  "StatTrak™ MAG-7 | Memento (Factory New)": {
+    "price": 13.34,
+    "date": "2026-01-16 13:16:09"
+  },
+  "StatTrak™ MAG-7 | Memento (Minimal Wear)": {
+    "price": 4.57,
+    "date": "2026-01-16 13:16:09"
+  },
+  "MAG-7 | Memento (Factory New)": {
+    "price": 6.67,
+    "date": "2026-01-16 13:16:09"
+  },
+  "StatTrak™ MAG-7 | Memento (Field-Tested)": {
+    "price": 5.48,
+    "date": "2026-01-16 13:16:09"
+  },
+  "MAG-7 | Memento (Field-Tested)": {
+    "price": 8.0,
+    "date": "2026-01-16 13:16:09"
+  },
+  "P250 | Splash (Minimal Wear)": {
+    "price": 29.68,
+    "date": "2026-01-16 13:16:56"
+  },
+  "StatTrak™ P250 | Splash (Minimal Wear)": {
+    "price": 46.15,
+    "date": "2026-01-16 13:16:56"
+  },
+  "P250 | Splash (Field-Tested)": {
+    "price": 27.52,
+    "date": "2026-01-16 13:16:56"
+  },
+  "P250 | Splash (Factory New)": {
+    "price": 79.67,
+    "date": "2026-01-16 13:16:56"
+  },
+  "StatTrak™ P250 | Splash (Factory New)": {
+    "price": 207.0,
+    "date": "2026-01-16 13:16:56"
+  },
+  "StatTrak™ P250 | Splash (Field-Tested)": {
+    "price": 55.01,
+    "date": "2026-01-16 13:16:56"
+  },
+  "P90 | Death by Kitty (Minimal Wear)": {
+    "price": 197.96,
+    "date": "2026-01-16 13:17:33"
+  },
+  "P90 | Death by Kitty (Field-Tested)": {
+    "price": 114.89,
+    "date": "2026-01-16 13:17:33"
+  },
+  "StatTrak™ P90 | Death by Kitty (Field-Tested)": {
+    "price": 374.99,
+    "date": "2026-01-16 13:17:33"
+  },
+  "StatTrak™ P90 | Death by Kitty (Minimal Wear)": {
+    "price": 393.39,
+    "date": "2026-01-16 13:17:33"
+  },
+  "Sawed-Off | Orange DDPAT (Field-Tested)": {
+    "price": 19.98,
+    "date": "2026-01-16 13:18:20"
+  },
+  "StatTrak™ Sawed-Off | Orange DDPAT (Field-Tested)": {
+    "price": 26.69,
+    "date": "2026-01-16 13:18:20"
+  },
+  "StatTrak™ Sawed-Off | Orange DDPAT (Minimal Wear)": {
+    "price": 45.26,
+    "date": "2026-01-16 13:18:20"
+  },
+  "Sawed-Off | Orange DDPAT (Battle-Scarred)": {
+    "price": 17.59,
+    "date": "2026-01-16 13:18:20"
+  },
+  "Sawed-Off | Orange DDPAT (Minimal Wear)": {
+    "price": 32.22,
+    "date": "2026-01-16 13:18:20"
+  },
+  "StatTrak™ Sawed-Off | Orange DDPAT (Battle-Scarred)": {
+    "price": 24.44,
+    "date": "2026-01-16 13:18:20"
+  },
+  "Sawed-Off | Orange DDPAT (Factory New)": {
+    "price": 142.63,
+    "date": "2026-01-16 13:18:20"
+  },
+  "StatTrak™ Sawed-Off | Orange DDPAT (Well-Worn)": {
+    "price": 23.41,
+    "date": "2026-01-16 13:18:20"
+  },
+  "Sawed-Off | Orange DDPAT (Well-Worn)": {
+    "price": 22.02,
+    "date": "2026-01-16 13:18:20"
+  },
+  "AK-47 | Safety Net (Field-Tested)": {
+    "price": 3.74,
+    "date": "2026-01-16 13:19:04"
+  },
+  "AK-47 | Safety Net (Factory New)": {
+    "price": 15.29,
+    "date": "2026-01-16 13:19:04"
+  },
+  "AK-47 | Safety Net (Minimal Wear)": {
+    "price": 5.29,
+    "date": "2026-01-16 13:19:04"
+  },
+  "AK-47 | Safety Net (Battle-Scarred)": {
+    "price": 3.87,
+    "date": "2026-01-16 13:19:04"
+  },
+  "AK-47 | Safety Net (Well-Worn)": {
+    "price": 5.1,
+    "date": "2026-01-16 13:19:04"
+  },
+  "AUG | Sweeper (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 13:20:00"
+  },
+  "AUG | Sweeper (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-16 13:20:00"
+  },
+  "AUG | Sweeper (Factory New)": {
+    "price": 0.06,
+    "date": "2026-01-16 13:20:00"
+  },
+  "AUG | Sweeper (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 13:20:00"
+  },
+  "AUG | Sweeper (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 13:20:00"
+  },
+  "PP-Bizon | Candy Apple (Minimal Wear)": {
+    "price": 0.07,
+    "date": "2026-01-16 13:20:46"
+  },
+  "PP-Bizon | Candy Apple (Field-Tested)": {
+    "price": 0.06,
+    "date": "2026-01-16 13:20:46"
+  },
+  "PP-Bizon | Candy Apple (Factory New)": {
+    "price": 0.15,
+    "date": "2026-01-16 13:20:46"
+  },
+  "Dual Berettas | Twin Turbo (Well-Worn)": {
+    "price": 2.15,
+    "date": "2026-01-16 13:21:31"
+  },
+  "Dual Berettas | Twin Turbo (Battle-Scarred)": {
+    "price": 2.1,
+    "date": "2026-01-16 13:21:31"
+  },
+  "Dual Berettas | Twin Turbo (Field-Tested)": {
+    "price": 3.26,
+    "date": "2026-01-16 13:21:31"
+  },
+  "Dual Berettas | Twin Turbo (Minimal Wear)": {
+    "price": 6.56,
+    "date": "2026-01-16 13:21:31"
+  },
+  "Dual Berettas | Twin Turbo (Factory New)": {
+    "price": 22.54,
+    "date": "2026-01-16 13:21:31"
+  },
+  "Glock-18 | High Beam (Factory New)": {
+    "price": 0.15,
+    "date": "2026-01-16 13:22:22"
+  },
+  "Glock-18 | High Beam (Minimal Wear)": {
+    "price": 0.16,
+    "date": "2026-01-16 13:22:22"
+  },
+  "M4A4 | Converter (Field-Tested)": {
+    "price": 0.37,
+    "date": "2026-01-16 13:23:21"
+  },
+  "M4A4 | Converter (Minimal Wear)": {
+    "price": 0.65,
+    "date": "2026-01-16 13:23:21"
+  },
+  "M4A4 | Converter (Factory New)": {
+    "price": 1.63,
+    "date": "2026-01-16 13:23:21"
+  },
+  "M4A4 | Converter (Well-Worn)": {
+    "price": 0.58,
+    "date": "2026-01-16 13:23:21"
   }
 }
