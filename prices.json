@@ -1,16 +1,4 @@
 {
-  "MP9 | Pandora's Box (Minimal Wear)": {
-    "price": 242.61,
-    "date": "2026-01-12 10:31:36"
-  },
-  "MP9 | Pandora's Box (Factory New)": {
-    "price": 567.88,
-    "date": "2026-01-12 10:31:36"
-  },
-  "MP9 | Pandora's Box (Field-Tested)": {
-    "price": 204.39,
-    "date": "2026-01-12 10:31:36"
-  },
   "★ StatTrak™ Huntsman Knife | Lore (Field-Tested)": {
     "price": 166.88,
     "date": "2026-01-12 10:33:27"
@@ -119,26 +107,6 @@
     "price": 294.82,
     "date": "2026-01-12 10:48:22"
   },
-  "AUG | Daedalus (Factory New)": {
-    "price": 7.71,
-    "date": "2026-01-12 10:48:58"
-  },
-  "AUG | Daedalus (Field-Tested)": {
-    "price": 5.7,
-    "date": "2026-01-12 10:48:58"
-  },
-  "AUG | Daedalus (Minimal Wear)": {
-    "price": 6.99,
-    "date": "2026-01-12 10:48:58"
-  },
-  "AUG | Daedalus (Well-Worn)": {
-    "price": 6.99,
-    "date": "2026-01-12 10:48:58"
-  },
-  "AUG | Daedalus (Battle-Scarred)": {
-    "price": 6.32,
-    "date": "2026-01-12 10:48:58"
-  },
   "SSG 08 | Abyss (Field-Tested)": {
     "price": 0.59,
     "date": "2026-01-12 11:01:36"
@@ -227,26 +195,6 @@
     "price": 1367.77,
     "date": "2026-01-12 11:07:03"
   },
-  "FAMAS | Teardown (Field-Tested)": {
-    "price": 0.18,
-    "date": "2026-01-12 11:09:27"
-  },
-  "FAMAS | Teardown (Minimal Wear)": {
-    "price": 0.28,
-    "date": "2026-01-12 11:09:27"
-  },
-  "FAMAS | Teardown (Factory New)": {
-    "price": 0.84,
-    "date": "2026-01-12 11:09:27"
-  },
-  "FAMAS | Teardown (Well-Worn)": {
-    "price": 0.14,
-    "date": "2026-01-12 11:09:27"
-  },
-  "FAMAS | Teardown (Battle-Scarred)": {
-    "price": 0.14,
-    "date": "2026-01-12 11:09:27"
-  },
   "M4A4 | Tornado (Field-Tested)": {
     "price": 13.5,
     "date": "2026-01-12 11:11:02"
@@ -266,26 +214,6 @@
   "M4A4 | Tornado (Factory New)": {
     "price": 343.12,
     "date": "2026-01-12 11:11:02"
-  },
-  "G3SG1 | Jungle Dashed (Field-Tested)": {
-    "price": 0.03,
-    "date": "2026-01-12 11:11:55"
-  },
-  "G3SG1 | Jungle Dashed (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-12 11:11:55"
-  },
-  "G3SG1 | Jungle Dashed (Minimal Wear)": {
-    "price": 0.03,
-    "date": "2026-01-12 11:11:55"
-  },
-  "G3SG1 | Jungle Dashed (Well-Worn)": {
-    "price": 0.04,
-    "date": "2026-01-12 11:11:55"
-  },
-  "G3SG1 | Jungle Dashed (Factory New)": {
-    "price": 0.46,
-    "date": "2026-01-12 11:11:55"
   },
   "M4A4 | Modern Hunter (Field-Tested)": {
     "price": 61.68,
@@ -14347,22 +14275,6 @@
     "price": 68.85,
     "date": "2026-01-16 05:21:08"
   },
-  "Desert Eagle | Mudder (Field-Tested)": {
-    "price": 0.1,
-    "date": "2026-01-16 05:22:04"
-  },
-  "Desert Eagle | Mudder (Battle-Scarred)": {
-    "price": 0.11,
-    "date": "2026-01-16 05:22:04"
-  },
-  "Desert Eagle | Mudder (Well-Worn)": {
-    "price": 0.12,
-    "date": "2026-01-16 05:22:04"
-  },
-  "Desert Eagle | Mudder (Minimal Wear)": {
-    "price": 0.23,
-    "date": "2026-01-16 05:22:04"
-  },
   "G3SG1 | Scavenger (Field-Tested)": {
     "price": 0.8,
     "date": "2026-01-16 05:22:54"
@@ -19779,32 +19691,12 @@
     "price": 276.7,
     "date": "2026-01-16 07:15:28"
   },
-  "Dual Berettas | Contractor (Field-Tested)": {
-    "price": 0.03,
-    "date": "2026-01-16 07:16:24"
-  },
-  "Dual Berettas | Contractor (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 07:16:24"
-  },
-  "Dual Berettas | Contractor (Minimal Wear)": {
-    "price": 0.03,
-    "date": "2026-01-16 07:16:24"
-  },
-  "Dual Berettas | Contractor (Well-Worn)": {
-    "price": 0.03,
-    "date": "2026-01-16 07:16:24"
-  },
   "Dual Berettas | Colony (Field-Tested)": {
     "price": 0.03,
     "date": "2026-01-16 07:16:24"
   },
   "Dual Berettas | Hideout (Field-Tested)": {
     "price": 0.15,
-    "date": "2026-01-16 07:16:24"
-  },
-  "Dual Berettas | Cobalt Quartz (Field-Tested)": {
-    "price": 0.49,
     "date": "2026-01-16 07:16:24"
   },
   "FAMAS | Survivor Z (Field-Tested)": {
@@ -22879,46 +22771,6 @@
     "price": 384.59,
     "date": "2026-01-16 08:45:15"
   },
-  "SG 553 | Waves Perforated (Field-Tested)": {
-    "price": 0.03,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Waves Perforated (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Waves Perforated (Well-Worn)": {
-    "price": 0.03,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Waves Perforated (Minimal Wear)": {
-    "price": 0.05,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Waves Perforated (Factory New)": {
-    "price": 0.53,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Wave Spray (Field-Tested)": {
-    "price": 5.6,
-    "date": "2026-01-16 08:45:54"
-  },
-  "StatTrak™ SG 553 | Wave Spray (Field-Tested)": {
-    "price": 6.4,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Wave Spray (Battle-Scarred)": {
-    "price": 6.96,
-    "date": "2026-01-16 08:45:54"
-  },
-  "SG 553 | Wave Spray (Minimal Wear)": {
-    "price": 5.81,
-    "date": "2026-01-16 08:45:54"
-  },
-  "StatTrak™ SG 553 | Wave Spray (Battle-Scarred)": {
-    "price": 6.68,
-    "date": "2026-01-16 08:45:54"
-  },
   "UMP-45 | Bone Pile (Minimal Wear)": {
     "price": 6.27,
     "date": "2026-01-16 08:46:45"
@@ -23385,10 +23237,6 @@
   },
   "G3SG1 | Contractor (Well-Worn)": {
     "price": 3.34,
-    "date": "2026-01-16 09:03:23"
-  },
-  "G3SG1 | Contractor (Battle-Scarred)": {
-    "price": 4.3,
     "date": "2026-01-16 09:03:23"
   },
   "G3SG1 | Contractor (Factory New)": {
@@ -28379,10 +28227,6 @@
     "price": 0.26,
     "date": "2026-01-16 11:36:24"
   },
-  "M4A1-S | Nitro (Field-Tested)": {
-    "price": 0.64,
-    "date": "2026-01-16 11:36:24"
-  },
   "M4A1-S | Solitude (Battle-Scarred)": {
     "price": 1.78,
     "date": "2026-01-16 11:36:24"
@@ -28981,10 +28825,6 @@
   },
   "M4A1-S | Mud-Spec (Field-Tested)": {
     "price": 0.53,
-    "date": "2026-01-16 11:54:21"
-  },
-  "USP-S | Night Ops (Field-Tested)": {
-    "price": 0.34,
     "date": "2026-01-16 11:54:21"
   },
   "M4A4 | Poly Mag (Battle-Scarred)": {
@@ -33427,18 +33267,6 @@
     "price": 0.06,
     "date": "2026-01-16 14:25:29"
   },
-  "SG 553 | Night Camo (Field-Tested)": {
-    "price": 0.03,
-    "date": "2026-01-16 14:26:32"
-  },
-  "SG 553 | Night Camo (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 14:26:32"
-  },
-  "SG 553 | Night Camo (Minimal Wear)": {
-    "price": 0.04,
-    "date": "2026-01-16 14:26:32"
-  },
   "SG 553 | Night Camo (Well-Worn)": {
     "price": 0.03,
     "date": "2026-01-16 14:26:32"
@@ -34191,10 +34019,6 @@
     "price": 0.03,
     "date": "2026-01-16 15:00:05"
   },
-  "G3SG1 | Polar Camo (Field-Tested)": {
-    "price": 0.03,
-    "date": "2026-01-16 15:00:05"
-  },
   "USP-S | Alpine Camo (Field-Tested)": {
     "price": 0.93,
     "date": "2026-01-16 15:00:05"
@@ -34203,28 +34027,8 @@
     "price": 0.03,
     "date": "2026-01-16 15:00:05"
   },
-  "G3SG1 | VariCamo (Field-Tested)": {
-    "price": 0.05,
-    "date": "2026-01-16 15:00:05"
-  },
   "M249 | Sage Camo (Battle-Scarred)": {
     "price": 0.03,
-    "date": "2026-01-16 15:00:05"
-  },
-  "M4A1-S | VariCamo (Field-Tested)": {
-    "price": 0.26,
-    "date": "2026-01-16 15:00:05"
-  },
-  "G3SG1 | Polar Camo (Minimal Wear)": {
-    "price": 0.05,
-    "date": "2026-01-16 15:00:05"
-  },
-  "G3SG1 | Polar Camo (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 15:00:05"
-  },
-  "M4A1-S | VariCamo (Minimal Wear)": {
-    "price": 0.57,
     "date": "2026-01-16 15:00:05"
   },
   "MAC-10 | Palm (Field-Tested)": {
@@ -36715,10 +36519,6 @@
     "price": 0.03,
     "date": "2026-01-16 20:27:18"
   },
-  "AUG | Contractor (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 20:27:18"
-  },
   "AUG | Contractor (Minimal Wear)": {
     "price": 0.05,
     "date": "2026-01-16 20:27:18"
@@ -37039,10 +36839,6 @@
     "price": 5.49,
     "date": "2026-01-16 20:40:08"
   },
-  "Five-SeveN | Contractor (Battle-Scarred)": {
-    "price": 4.65,
-    "date": "2026-01-16 20:40:08"
-  },
   "Five-SeveN | Contractor (Factory New)": {
     "price": 20.72,
     "date": "2026-01-16 20:40:08"
@@ -37234,5 +37030,765 @@
   "UMP-45 | Blaze (Minimal Wear)": {
     "price": 66.15,
     "date": "2026-01-16 20:53:54"
+  },
+  "AUG | Storm (Field-Tested)": {
+    "price": 0.04,
+    "date": "2026-01-16 20:55:02"
+  },
+  "AUG | Storm (Minimal Wear)": {
+    "price": 0.08,
+    "date": "2026-01-16 20:55:02"
+  },
+  "AUG | Storm (Battle-Scarred)": {
+    "price": 0.04,
+    "date": "2026-01-16 20:55:02"
+  },
+  "AUG | Storm (Well-Worn)": {
+    "price": 0.04,
+    "date": "2026-01-16 20:55:02"
+  },
+  "AUG | Storm (Factory New)": {
+    "price": 1.03,
+    "date": "2026-01-16 20:55:02"
+  },
+  "AWP | Safari Mesh (Field-Tested)": {
+    "price": 0.15,
+    "date": "2026-01-16 20:55:51"
+  },
+  "AWP | Safari Mesh (Battle-Scarred)": {
+    "price": 0.19,
+    "date": "2026-01-16 20:55:51"
+  },
+  "AWP | Safari Mesh (Minimal Wear)": {
+    "price": 0.36,
+    "date": "2026-01-16 20:55:51"
+  },
+  "AWP | Safari Mesh (Well-Worn)": {
+    "price": 0.17,
+    "date": "2026-01-16 20:55:51"
+  },
+  "AWP | Safari Mesh (Factory New)": {
+    "price": 9.16,
+    "date": "2026-01-16 20:55:51"
+  },
+  "PP-Bizon | Night Ops (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-16 20:56:47"
+  },
+  "PP-Bizon | Night Ops (Minimal Wear)": {
+    "price": 0.08,
+    "date": "2026-01-16 20:56:47"
+  },
+  "PP-Bizon | Night Ops (Factory New)": {
+    "price": 0.28,
+    "date": "2026-01-16 20:56:47"
+  },
+  "PP-Bizon | Night Ops (Battle-Scarred)": {
+    "price": 0.05,
+    "date": "2026-01-16 20:56:47"
+  },
+  "PP-Bizon | Night Ops (Well-Worn)": {
+    "price": 0.07,
+    "date": "2026-01-16 20:56:47"
+  },
+  "Desert Eagle | Mudder (Field-Tested)": {
+    "price": 0.12,
+    "date": "2026-01-16 20:57:32"
+  },
+  "Desert Eagle | Mudder (Battle-Scarred)": {
+    "price": 0.13,
+    "date": "2026-01-16 20:57:32"
+  },
+  "Desert Eagle | Mudder (Well-Worn)": {
+    "price": 0.11,
+    "date": "2026-01-16 20:57:32"
+  },
+  "Desert Eagle | Mudder (Minimal Wear)": {
+    "price": 0.21,
+    "date": "2026-01-16 20:57:32"
+  },
+  "Desert Eagle | Mudder (Factory New)": {
+    "price": 4.84,
+    "date": "2026-01-16 20:57:32"
+  },
+  "Dual Berettas | Cobalt Quartz (Field-Tested)": {
+    "price": 0.47,
+    "date": "2026-01-16 20:58:24"
+  },
+  "Dual Berettas | Cobalt Quartz (Minimal Wear)": {
+    "price": 0.51,
+    "date": "2026-01-16 20:58:24"
+  },
+  "Dual Berettas | Cobalt Quartz (Factory New)": {
+    "price": 1.01,
+    "date": "2026-01-16 20:58:24"
+  },
+  "Dual Berettas | Cobalt Quartz (Well-Worn)": {
+    "price": 0.69,
+    "date": "2026-01-16 20:58:24"
+  },
+  "FAMAS | Cyanospatter (Field-Tested)": {
+    "price": 0.08,
+    "date": "2026-01-16 20:59:10"
+  },
+  "FAMAS | Cyanospatter (Minimal Wear)": {
+    "price": 0.21,
+    "date": "2026-01-16 20:59:10"
+  },
+  "FAMAS | Cyanospatter (Battle-Scarred)": {
+    "price": 0.06,
+    "date": "2026-01-16 20:59:10"
+  },
+  "FAMAS | Cyanospatter (Well-Worn)": {
+    "price": 0.08,
+    "date": "2026-01-16 20:59:10"
+  },
+  "FAMAS | Cyanospatter (Factory New)": {
+    "price": 2.49,
+    "date": "2026-01-16 20:59:10"
+  },
+  "G3SG1 | Jungle Dashed (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 20:59:53"
+  },
+  "G3SG1 | Jungle Dashed (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 20:59:53"
+  },
+  "G3SG1 | Jungle Dashed (Minimal Wear)": {
+    "price": 0.04,
+    "date": "2026-01-16 20:59:53"
+  },
+  "G3SG1 | Jungle Dashed (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 20:59:53"
+  },
+  "G3SG1 | Jungle Dashed (Factory New)": {
+    "price": 0.48,
+    "date": "2026-01-16 20:59:53"
+  },
+  "Galil AR | Sage Spray (Field-Tested)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:00:50"
+  },
+  "Galil AR | Sage Spray (Battle-Scarred)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:00:50"
+  },
+  "Galil AR | Sage Spray (Minimal Wear)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:00:50"
+  },
+  "Galil AR | Sage Spray (Well-Worn)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:00:50"
+  },
+  "Galil AR | Sage Spray (Factory New)": {
+    "price": 0.77,
+    "date": "2026-01-16 21:00:50"
+  },
+  "P250 | Boreal Forest (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:01:39"
+  },
+  "P250 | Boreal Forest (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:01:39"
+  },
+  "P250 | Boreal Forest (Minimal Wear)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:01:39"
+  },
+  "P250 | Boreal Forest (Well-Worn)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:01:39"
+  },
+  "P250 | Boreal Forest (Factory New)": {
+    "price": 0.57,
+    "date": "2026-01-16 21:01:39"
+  },
+  "P90 | Teardown (Field-Tested)": {
+    "price": 0.19,
+    "date": "2026-01-16 21:02:17"
+  },
+  "P90 | Teardown (Minimal Wear)": {
+    "price": 0.38,
+    "date": "2026-01-16 21:02:17"
+  },
+  "P90 | Teardown (Factory New)": {
+    "price": 0.86,
+    "date": "2026-01-16 21:02:17"
+  },
+  "P90 | Teardown (Battle-Scarred)": {
+    "price": 0.18,
+    "date": "2026-01-16 21:02:17"
+  },
+  "P90 | Teardown (Well-Worn)": {
+    "price": 0.23,
+    "date": "2026-01-16 21:02:17"
+  },
+  "SG 553 | Anodized Navy (Factory New)": {
+    "price": 0.74,
+    "date": "2026-01-16 21:03:13"
+  },
+  "SG 553 | Anodized Navy (Minimal Wear)": {
+    "price": 1.15,
+    "date": "2026-01-16 21:03:13"
+  },
+  "SG 553 | Waves Perforated (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Waves Perforated (Battle-Scarred)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Waves Perforated (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Waves Perforated (Minimal Wear)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Waves Perforated (Factory New)": {
+    "price": 0.53,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Wave Spray (Field-Tested)": {
+    "price": 5.6,
+    "date": "2026-01-16 21:03:53"
+  },
+  "StatTrak™ SG 553 | Wave Spray (Field-Tested)": {
+    "price": 6.01,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Wave Spray (Battle-Scarred)": {
+    "price": 6.96,
+    "date": "2026-01-16 21:03:53"
+  },
+  "SG 553 | Wave Spray (Minimal Wear)": {
+    "price": 5.81,
+    "date": "2026-01-16 21:03:53"
+  },
+  "StatTrak™ SG 553 | Wave Spray (Battle-Scarred)": {
+    "price": 6.67,
+    "date": "2026-01-16 21:03:53"
+  },
+  "USP-S | Night Ops (Field-Tested)": {
+    "price": 0.35,
+    "date": "2026-01-16 21:04:40"
+  },
+  "USP-S | Night Ops (Minimal Wear)": {
+    "price": 0.64,
+    "date": "2026-01-16 21:04:40"
+  },
+  "USP-S | Night Ops (Factory New)": {
+    "price": 1.7,
+    "date": "2026-01-16 21:04:40"
+  },
+  "USP-S | Night Ops (Battle-Scarred)": {
+    "price": 0.38,
+    "date": "2026-01-16 21:04:40"
+  },
+  "USP-S | Night Ops (Well-Worn)": {
+    "price": 0.53,
+    "date": "2026-01-16 21:04:40"
+  },
+  "XM1014 | Blue Steel (Field-Tested)": {
+    "price": 0.07,
+    "date": "2026-01-16 21:05:27"
+  },
+  "XM1014 | Blue Steel (Well-Worn)": {
+    "price": 0.07,
+    "date": "2026-01-16 21:05:27"
+  },
+  "XM1014 | Blue Steel (Battle-Scarred)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:05:27"
+  },
+  "XM1014 | Blue Steel (Minimal Wear)": {
+    "price": 0.14,
+    "date": "2026-01-16 21:05:27"
+  },
+  "XM1014 | Blue Steel (Factory New)": {
+    "price": 1.1,
+    "date": "2026-01-16 21:05:27"
+  },
+  "XM1014 | Blue Spruce (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:06:16"
+  },
+  "XM1014 | Blue Spruce (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:06:16"
+  },
+  "XM1014 | Blue Spruce (Minimal Wear)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:06:16"
+  },
+  "XM1014 | Blue Spruce (Well-Worn)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:06:16"
+  },
+  "XM1014 | Blue Spruce (Factory New)": {
+    "price": 0.73,
+    "date": "2026-01-16 21:06:16"
+  },
+  "AUG | Daedalus (Factory New)": {
+    "price": 8.12,
+    "date": "2026-01-16 21:07:09"
+  },
+  "AUG | Daedalus (Field-Tested)": {
+    "price": 6.25,
+    "date": "2026-01-16 21:07:09"
+  },
+  "AUG | Daedalus (Minimal Wear)": {
+    "price": 6.83,
+    "date": "2026-01-16 21:07:09"
+  },
+  "AUG | Daedalus (Well-Worn)": {
+    "price": 6.99,
+    "date": "2026-01-16 21:07:09"
+  },
+  "AUG | Daedalus (Battle-Scarred)": {
+    "price": 6.36,
+    "date": "2026-01-16 21:07:09"
+  },
+  "AWP | Medusa": {
+    "price": 0.0,
+    "date": "2026-01-16 21:07:46"
+  },
+  "AWP | Sun in Leo (Factory New)": {
+    "price": 105.5,
+    "date": "2026-01-16 21:07:51"
+  },
+  "AWP | Sun in Leo (Field-Tested)": {
+    "price": 30.63,
+    "date": "2026-01-16 21:07:51"
+  },
+  "AWP | Sun in Leo (Minimal Wear)": {
+    "price": 39.47,
+    "date": "2026-01-16 21:07:51"
+  },
+  "AWP | Sun in Leo (Well-Worn)": {
+    "price": 30.01,
+    "date": "2026-01-16 21:07:51"
+  },
+  "AWP | Sun in Leo (Battle-Scarred)": {
+    "price": 31.23,
+    "date": "2026-01-16 21:07:51"
+  },
+  "Dual Berettas | Moon in Libra (Factory New)": {
+    "price": 9.0,
+    "date": "2026-01-16 21:08:40"
+  },
+  "Dual Berettas | Moon in Libra (Field-Tested)": {
+    "price": 6.03,
+    "date": "2026-01-16 21:08:40"
+  },
+  "Dual Berettas | Moon in Libra (Minimal Wear)": {
+    "price": 7.89,
+    "date": "2026-01-16 21:08:40"
+  },
+  "Dual Berettas | Moon in Libra (Well-Worn)": {
+    "price": 6.28,
+    "date": "2026-01-16 21:08:40"
+  },
+  "Dual Berettas | Moon in Libra (Battle-Scarred)": {
+    "price": 5.81,
+    "date": "2026-01-16 21:08:40"
+  },
+  "G3SG1 | Chronos (Field-Tested)": {
+    "price": 537.85,
+    "date": "2026-01-16 21:09:31"
+  },
+  "G3SG1 | Chronos (Factory New)": {
+    "price": 629.71,
+    "date": "2026-01-16 21:09:31"
+  },
+  "G3SG1 | Chronos (Minimal Wear)": {
+    "price": 530.0,
+    "date": "2026-01-16 21:09:31"
+  },
+  "P2000 | Pathfinder (Factory New)": {
+    "price": 34.5,
+    "date": "2026-01-16 21:10:17"
+  },
+  "P2000 | Pathfinder (Minimal Wear)": {
+    "price": 29.81,
+    "date": "2026-01-16 21:10:17"
+  },
+  "P2000 | Pathfinder (Field-Tested)": {
+    "price": 27.8,
+    "date": "2026-01-16 21:10:17"
+  },
+  "M249 | Shipping Forecast (Field-Tested)": {
+    "price": 26.69,
+    "date": "2026-01-16 21:11:01"
+  },
+  "M249 | Shipping Forecast (Minimal Wear)": {
+    "price": 28.66,
+    "date": "2026-01-16 21:11:01"
+  },
+  "M249 | Shipping Forecast (Factory New)": {
+    "price": 34.44,
+    "date": "2026-01-16 21:11:01"
+  },
+  "M249 | Shipping Forecast (Battle-Scarred)": {
+    "price": 27.87,
+    "date": "2026-01-16 21:11:01"
+  },
+  "M249 | Shipping Forecast (Well-Worn)": {
+    "price": 25.94,
+    "date": "2026-01-16 21:11:01"
+  },
+  "M4A4 | Poseidon": {
+    "price": 0.0,
+    "date": "2026-01-16 21:11:45"
+  },
+  "M4A1-S | Icarus Fell (Factory New)": {
+    "price": 1380.0,
+    "date": "2026-01-16 21:11:50"
+  },
+  "M4A1-S | Icarus Fell (Minimal Wear)": {
+    "price": 1334.52,
+    "date": "2026-01-16 21:11:50"
+  },
+  "MP7 | Asterion (Factory New)": {
+    "price": 8.53,
+    "date": "2026-01-16 21:12:35"
+  },
+  "MP7 | Asterion (Field-Tested)": {
+    "price": 6.17,
+    "date": "2026-01-16 21:12:35"
+  },
+  "MP7 | Asterion (Minimal Wear)": {
+    "price": 6.58,
+    "date": "2026-01-16 21:12:35"
+  },
+  "MP7 | Asterion (Battle-Scarred)": {
+    "price": 6.24,
+    "date": "2026-01-16 21:12:35"
+  },
+  "MP7 | Asterion (Well-Worn)": {
+    "price": 6.25,
+    "date": "2026-01-16 21:12:35"
+  },
+  "MP9 | Pandora's Box (Factory New)": {
+    "price": 504.8,
+    "date": "2026-01-16 21:13:23"
+  },
+  "MP9 | Pandora's Box (Minimal Wear)": {
+    "price": 238.87,
+    "date": "2026-01-16 21:13:23"
+  },
+  "MP9 | Pandora's Box (Field-Tested)": {
+    "price": 203.83,
+    "date": "2026-01-16 21:13:23"
+  },
+  "Nova | Moon in Libra (Factory New)": {
+    "price": 8.2,
+    "date": "2026-01-16 21:14:06"
+  },
+  "Nova | Moon in Libra (Field-Tested)": {
+    "price": 6.36,
+    "date": "2026-01-16 21:14:06"
+  },
+  "Nova | Moon in Libra (Minimal Wear)": {
+    "price": 6.99,
+    "date": "2026-01-16 21:14:06"
+  },
+  "Nova | Moon in Libra (Well-Worn)": {
+    "price": 6.12,
+    "date": "2026-01-16 21:14:06"
+  },
+  "Nova | Moon in Libra (Battle-Scarred)": {
+    "price": 6.61,
+    "date": "2026-01-16 21:14:06"
+  },
+  "Tec-9 | Hades (Field-Tested)": {
+    "price": 28.49,
+    "date": "2026-01-16 21:14:57"
+  },
+  "Tec-9 | Hades (Battle-Scarred)": {
+    "price": 24.39,
+    "date": "2026-01-16 21:14:57"
+  },
+  "Tec-9 | Hades (Well-Worn)": {
+    "price": 26.69,
+    "date": "2026-01-16 21:14:57"
+  },
+  "Tec-9 | Hades (Minimal Wear)": {
+    "price": 33.98,
+    "date": "2026-01-16 21:14:57"
+  },
+  "Tec-9 | Hades (Factory New)": {
+    "price": 45.86,
+    "date": "2026-01-16 21:14:57"
+  },
+  "UMP-45 | Minotaur's Labyrinth (Field-Tested)": {
+    "price": 159.02,
+    "date": "2026-01-16 21:15:46"
+  },
+  "UMP-45 | Minotaur's Labyrinth (Factory New)": {
+    "price": 230.0,
+    "date": "2026-01-16 21:15:46"
+  },
+  "UMP-45 | Minotaur's Labyrinth (Minimal Wear)": {
+    "price": 235.75,
+    "date": "2026-01-16 21:15:46"
+  },
+  "AUG | Condemned (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:16:40"
+  },
+  "AUG | Condemned (Battle-Scarred)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:16:40"
+  },
+  "AUG | Condemned (Well-Worn)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:16:40"
+  },
+  "AUG | Condemned (Minimal Wear)": {
+    "price": 0.13,
+    "date": "2026-01-16 21:16:40"
+  },
+  "AUG | Condemned (Factory New)": {
+    "price": 1.35,
+    "date": "2026-01-16 21:16:40"
+  },
+  "Dual Berettas | Contractor (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:17:26"
+  },
+  "Dual Berettas | Contractor (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:17:26"
+  },
+  "Dual Berettas | Contractor (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:17:26"
+  },
+  "Dual Berettas | Contractor (Factory New)": {
+    "price": 0.28,
+    "date": "2026-01-16 21:17:26"
+  },
+  "FAMAS | Teardown (Field-Tested)": {
+    "price": 0.18,
+    "date": "2026-01-16 21:18:08"
+  },
+  "FAMAS | Teardown (Minimal Wear)": {
+    "price": 0.3,
+    "date": "2026-01-16 21:18:08"
+  },
+  "FAMAS | Teardown (Factory New)": {
+    "price": 0.93,
+    "date": "2026-01-16 21:18:08"
+  },
+  "FAMAS | Teardown (Well-Worn)": {
+    "price": 0.18,
+    "date": "2026-01-16 21:18:08"
+  },
+  "FAMAS | Teardown (Battle-Scarred)": {
+    "price": 0.15,
+    "date": "2026-01-16 21:18:08"
+  },
+  "Five-SeveN | Silver Quartz (Field-Tested)": {
+    "price": 0.14,
+    "date": "2026-01-16 21:18:53"
+  },
+  "Five-SeveN | Silver Quartz (Minimal Wear)": {
+    "price": 0.27,
+    "date": "2026-01-16 21:18:53"
+  },
+  "Five-SeveN | Silver Quartz (Factory New)": {
+    "price": 0.73,
+    "date": "2026-01-16 21:18:53"
+  },
+  "Five-SeveN | Silver Quartz (Well-Worn)": {
+    "price": 0.16,
+    "date": "2026-01-16 21:18:53"
+  },
+  "SG 553 | Night Camo (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:19:46"
+  },
+  "SG 553 | Night Camo (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:19:46"
+  },
+  "G3SG1 | Polar Camo (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:19:46"
+  },
+  "SG 553 | Night Camo (Minimal Wear)": {
+    "price": 0.04,
+    "date": "2026-01-16 21:19:46"
+  },
+  "G3SG1 | VariCamo (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:19:46"
+  },
+  "M4A1-S | VariCamo (Field-Tested)": {
+    "price": 0.24,
+    "date": "2026-01-16 21:19:46"
+  },
+  "M4A1-S | VariCamo (Minimal Wear)": {
+    "price": 0.57,
+    "date": "2026-01-16 21:19:46"
+  },
+  "G3SG1 | Polar Camo (Minimal Wear)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:19:46"
+  },
+  "G3SG1 | Polar Camo (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:19:46"
+  },
+  "G3SG1 | Polar Camo (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:19:46"
+  },
+  "Galil AR | VariCamo (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:20:30"
+  },
+  "Galil AR | VariCamo (Minimal Wear)": {
+    "price": 0.07,
+    "date": "2026-01-16 21:20:30"
+  },
+  "Galil AR | VariCamo (Battle-Scarred)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:20:30"
+  },
+  "Galil AR | VariCamo (Factory New)": {
+    "price": 0.16,
+    "date": "2026-01-16 21:20:30"
+  },
+  "Galil AR | VariCamo (Well-Worn)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:20:30"
+  },
+  "M249 | Gator Mesh (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:21:24"
+  },
+  "M249 | Gator Mesh (Minimal Wear)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:21:24"
+  },
+  "M249 | Gator Mesh (Factory New)": {
+    "price": 0.17,
+    "date": "2026-01-16 21:21:24"
+  },
+  "M249 | Gator Mesh (Battle-Scarred)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:21:24"
+  },
+  "M249 | Gator Mesh (Well-Worn)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:21:24"
+  },
+  "M4A1-S | Nitro (Field-Tested)": {
+    "price": 0.59,
+    "date": "2026-01-16 21:22:12"
+  },
+  "M4A1-S | Nitro (Battle-Scarred)": {
+    "price": 0.57,
+    "date": "2026-01-16 21:22:12"
+  },
+  "M4A1-S | Nitro (Well-Worn)": {
+    "price": 0.54,
+    "date": "2026-01-16 21:22:12"
+  },
+  "M4A1-S | Nitro (Minimal Wear)": {
+    "price": 1.45,
+    "date": "2026-01-16 21:22:12"
+  },
+  "M4A1-S | Nitro (Factory New)": {
+    "price": 12.58,
+    "date": "2026-01-16 21:22:12"
+  },
+  "MP7 | Army Recon (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:22:56"
+  },
+  "MP7 | Army Recon (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:22:56"
+  },
+  "MP7 | Army Recon (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:22:56"
+  },
+  "MP7 | Army Recon (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:22:56"
+  },
+  "MP7 | Army Recon (Factory New)": {
+    "price": 0.23,
+    "date": "2026-01-16 21:22:56"
+  },
+  "MP9 | Orange Peel (Field-Tested)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:23:48"
+  },
+  "MP9 | Orange Peel (Battle-Scarred)": {
+    "price": 0.05,
+    "date": "2026-01-16 21:23:48"
+  },
+  "MP9 | Orange Peel (Well-Worn)": {
+    "price": 0.06,
+    "date": "2026-01-16 21:23:48"
+  },
+  "MP9 | Orange Peel (Minimal Wear)": {
+    "price": 0.13,
+    "date": "2026-01-16 21:23:48"
+  },
+  "MP9 | Orange Peel (Factory New)": {
+    "price": 2.64,
+    "date": "2026-01-16 21:23:48"
+  },
+  "MP7 | Orange Peel (Field-Tested)": {
+    "price": 33.21,
+    "date": "2026-01-16 21:23:48"
+  },
+  "SCAR-20 | Contractor (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:24:41"
+  },
+  "SCAR-20 | Contractor (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:24:41"
+  },
+  "Dual Berettas | Contractor (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:24:41"
+  },
+  "SCAR-20 | Contractor (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:24:41"
+  },
+  "SCAR-20 | Contractor (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:24:41"
+  },
+  "AUG | Contractor (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-16 21:24:41"
+  },
+  "SCAR-20 | Contractor (Factory New)": {
+    "price": 0.24,
+    "date": "2026-01-16 21:24:41"
+  },
+  "Five-SeveN | Contractor (Battle-Scarred)": {
+    "price": 4.65,
+    "date": "2026-01-16 21:24:41"
+  },
+  "G3SG1 | Contractor (Battle-Scarred)": {
+    "price": 4.3,
+    "date": "2026-01-16 21:24:41"
   }
 }
