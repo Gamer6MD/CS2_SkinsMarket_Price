@@ -36594,5 +36594,77 @@
   "M4A1-S | Moss Quartz (Battle-Scarred)": {
     "price": 53.43,
     "date": "2026-01-16 16:29:49"
+  },
+  "MAC-10 | Copper Borre (Minimal Wear)": {
+    "price": 146.05,
+    "date": "2026-01-16 16:31:02"
+  },
+  "MAC-10 | Copper Borre (Factory New)": {
+    "price": 225.12,
+    "date": "2026-01-16 16:31:02"
+  },
+  "MAC-10 | Copper Borre (Field-Tested)": {
+    "price": 148.53,
+    "date": "2026-01-16 16:31:02"
+  },
+  "MAC-10 | Copper Borre (Well-Worn)": {
+    "price": 247.74,
+    "date": "2026-01-16 16:31:02"
+  },
+  "MAC-10 | Copper Borre (Battle-Scarred)": {
+    "price": 328.99,
+    "date": "2026-01-16 16:31:02"
+  },
+  "MAG-7 | Chainmail (Factory New)": {
+    "price": 34.81,
+    "date": "2026-01-16 16:31:45"
+  },
+  "MAG-7 | Chainmail (Minimal Wear)": {
+    "price": 29.17,
+    "date": "2026-01-16 16:31:45"
+  },
+  "MAG-7 | Chainmail (Field-Tested)": {
+    "price": 27.8,
+    "date": "2026-01-16 16:31:45"
+  },
+  "SG 553 | Aloha (Field-Tested)": {
+    "price": 0.39,
+    "date": "2026-01-16 20:23:27"
+  },
+  "StatTrak™ SG 553 | Aloha (Field-Tested)": {
+    "price": 0.24,
+    "date": "2026-01-16 20:23:27"
+  },
+  "SG 553 | Aloha (Factory New)": {
+    "price": 0.66,
+    "date": "2026-01-16 20:23:27"
+  },
+  "StatTrak™ SG 553 | Aloha (Minimal Wear)": {
+    "price": 0.43,
+    "date": "2026-01-16 20:23:27"
+  },
+  "SG 553 | Aloha (Minimal Wear)": {
+    "price": 0.31,
+    "date": "2026-01-16 20:23:27"
+  },
+  "StatTrak™ SG 553 | Aloha (Factory New)": {
+    "price": 0.94,
+    "date": "2026-01-16 20:23:27"
+  },
+  "StatTrak™ SG 553 | Aloha (Battle-Scarred)": {
+    "price": 0.18,
+    "date": "2026-01-16 20:23:27"
+  },
+  "SG 553 | Aloha (Well-Worn)": {
+    "price": 0.16,
+    "date": "2026-01-16 20:23:27"
+  },
+  "SG 553 | Aloha (Battle-Scarred)": {
+    "price": 0.18,
+    "date": "2026-01-16 20:23:27"
+  },
+  "StatTrak™ SG 553 | Aloha (Well-Worn)": {
+    "price": 0.25,
+    "date": "2026-01-16 20:23:27"
   }
 }
