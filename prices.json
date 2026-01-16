@@ -503,46 +503,6 @@
     "price": 4.67,
     "date": "2026-01-12 10:59:35"
   },
-  "AUG | Trigger Discipline (Well-Worn)": {
-    "price": 0.15,
-    "date": "2026-01-12 11:00:18"
-  },
-  "AUG | Trigger Discipline (Field-Tested)": {
-    "price": 0.23,
-    "date": "2026-01-12 11:00:18"
-  },
-  "AUG | Trigger Discipline (Battle-Scarred)": {
-    "price": 0.13,
-    "date": "2026-01-12 11:00:18"
-  },
-  "AUG | Trigger Discipline (Minimal Wear)": {
-    "price": 0.47,
-    "date": "2026-01-12 11:00:18"
-  },
-  "AUG | Trigger Discipline (Factory New)": {
-    "price": 1.64,
-    "date": "2026-01-12 11:00:18"
-  },
-  "StatTrak™ AUG | Trigger Discipline (Field-Tested)": {
-    "price": 0.48,
-    "date": "2026-01-12 11:00:18"
-  },
-  "StatTrak™ AUG | Trigger Discipline (Minimal Wear)": {
-    "price": 0.93,
-    "date": "2026-01-12 11:00:18"
-  },
-  "StatTrak™ AUG | Trigger Discipline (Battle-Scarred)": {
-    "price": 0.31,
-    "date": "2026-01-12 11:00:18"
-  },
-  "StatTrak™ AUG | Trigger Discipline (Well-Worn)": {
-    "price": 0.4,
-    "date": "2026-01-12 11:00:18"
-  },
-  "StatTrak™ AUG | Trigger Discipline (Factory New)": {
-    "price": 2.68,
-    "date": "2026-01-12 11:00:18"
-  },
   "Tec-9 | Decimator (Field-Tested)": {
     "price": 24.67,
     "date": "2026-01-12 11:00:55"
@@ -915,46 +875,6 @@
     "price": 13.51,
     "date": "2026-01-12 11:16:03"
   },
-  "SSG 08 | Memorial (Battle-Scarred)": {
-    "price": 0.14,
-    "date": "2026-01-12 11:16:53"
-  },
-  "SSG 08 | Memorial (Field-Tested)": {
-    "price": 0.14,
-    "date": "2026-01-12 11:16:53"
-  },
-  "SSG 08 | Memorial (Well-Worn)": {
-    "price": 0.13,
-    "date": "2026-01-12 11:16:53"
-  },
-  "SSG 08 | Memorial (Minimal Wear)": {
-    "price": 0.34,
-    "date": "2026-01-12 11:16:53"
-  },
-  "StatTrak™ SSG 08 | Memorial (Field-Tested)": {
-    "price": 0.36,
-    "date": "2026-01-12 11:16:53"
-  },
-  "StatTrak™ SSG 08 | Memorial (Well-Worn)": {
-    "price": 0.23,
-    "date": "2026-01-12 11:16:53"
-  },
-  "StatTrak™ SSG 08 | Memorial (Minimal Wear)": {
-    "price": 0.99,
-    "date": "2026-01-12 11:16:53"
-  },
-  "StatTrak™ SSG 08 | Memorial (Battle-Scarred)": {
-    "price": 0.2,
-    "date": "2026-01-12 11:16:53"
-  },
-  "SSG 08 | Memorial (Factory New)": {
-    "price": 1.72,
-    "date": "2026-01-12 11:16:53"
-  },
-  "StatTrak™ SSG 08 | Memorial (Factory New)": {
-    "price": 4.99,
-    "date": "2026-01-12 11:16:53"
-  },
   "M4A4 | Modern Hunter (Field-Tested)": {
     "price": 61.68,
     "date": "2026-01-12 11:17:48"
@@ -1010,14 +930,6 @@
   "M249 | Contrast Spray (Factory New)": {
     "price": 51.71,
     "date": "2026-01-12 11:20:58"
-  },
-  "Dual Berettas | Sweet Little Angels (Field-Tested)": {
-    "price": 6.48,
-    "date": "2026-01-12 11:21:47"
-  },
-  "Dual Berettas | Sweet Little Angels (Minimal Wear)": {
-    "price": 13.91,
-    "date": "2026-01-12 11:21:47"
   },
   "Dual Berettas | Sweet Little Angels (Battle-Scarred)": {
     "price": 4.65,
@@ -6271,10 +6183,6 @@
     "price": 791.77,
     "date": "2026-01-14 16:56:40"
   },
-  "★ Paracord Knife | Ultraviolet (Field-Tested)": {
-    "price": 110.0,
-    "date": "2026-01-15 09:00:09"
-  },
   "★ Paracord Knife | Ultraviolet (Battle-Scarred)": {
     "price": 93.24,
     "date": "2026-01-15 09:00:09"
@@ -6306,10 +6214,6 @@
   "★ Gut Knife | Slaughter (Field-Tested)": {
     "price": 138.0,
     "date": "2026-01-15 11:59:01"
-  },
-  "★ Talon Knife | Tiger Tooth (Factory New)": {
-    "price": 727.32,
-    "date": "2026-01-15 13:20:01"
   },
   "★ Karambit | Doppler": {
     "price": 0.0,
@@ -7599,10 +7503,6 @@
     "price": 0.0,
     "date": "2026-01-15 18:23:08"
   },
-  "★ Butterfly Knife | Freehand (Field-Tested)": {
-    "price": 933.19,
-    "date": "2026-01-15 18:27:55"
-  },
   "★ Butterfly Knife | Freehand (Minimal Wear)": {
     "price": 1008.71,
     "date": "2026-01-15 18:27:55"
@@ -7639,10 +7539,6 @@
     "price": 899.54,
     "date": "2026-01-15 18:31:47"
   },
-  "★ Butterfly Knife | Lore (Field-Tested)": {
-    "price": 1012.17,
-    "date": "2026-01-15 18:34:14"
-  },
   "★ Butterfly Knife | Lore (Well-Worn)": {
     "price": 990.55,
     "date": "2026-01-15 18:34:14"
@@ -7671,10 +7567,6 @@
     "price": 2008.68,
     "date": "2026-01-15 18:34:55"
   },
-  "★ Butterfly Knife | Night (Field-Tested)": {
-    "price": 872.86,
-    "date": "2026-01-15 18:39:48"
-  },
   "★ Butterfly Knife | Night (Battle-Scarred)": {
     "price": 768.35,
     "date": "2026-01-15 18:39:48"
@@ -7699,10 +7591,6 @@
     "price": 1345.84,
     "date": "2026-01-15 18:40:36"
   },
-  "★ Butterfly Knife | Scorched (Field-Tested)": {
-    "price": 640.67,
-    "date": "2026-01-15 18:41:13"
-  },
   "★ Butterfly Knife | Scorched (Minimal Wear)": {
     "price": 798.06,
     "date": "2026-01-15 18:41:13"
@@ -7722,14 +7610,6 @@
   "★ Survival Knife | Marble Fade (Minimal Wear)": {
     "price": 238.89,
     "date": "2026-01-15 18:43:47"
-  },
-  "★ Survival Knife | Fade (Factory New)": {
-    "price": 230.84,
-    "date": "2026-01-15 18:48:35"
-  },
-  "★ Survival Knife | Doppler (Factory New)": {
-    "price": 305.0,
-    "date": "2026-01-15 18:50:11"
   },
   "★ Survival Knife | Doppler (Minimal Wear)": {
     "price": 375.24,
@@ -7795,10 +7675,6 @@
     "price": 266.22,
     "date": "2026-01-15 18:59:04"
   },
-  "★ Survival Knife | Scorched (Field-Tested)": {
-    "price": 78.24,
-    "date": "2026-01-15 18:59:52"
-  },
   "★ Survival Knife | Scorched (Battle-Scarred)": {
     "price": 73.75,
     "date": "2026-01-15 18:59:52"
@@ -7822,14 +7698,6 @@
   "★ Paracord Knife | Marble Fade (Minimal Wear)": {
     "price": 276.31,
     "date": "2026-01-15 19:02:52"
-  },
-  "★ Paracord Knife | Fade (Factory New)": {
-    "price": 261.92,
-    "date": "2026-01-15 19:07:58"
-  },
-  "★ Paracord Knife | Doppler (Factory New)": {
-    "price": 334.46,
-    "date": "2026-01-15 19:09:29"
   },
   "★ Paracord Knife | Doppler (Minimal Wear)": {
     "price": 433.0,
@@ -7882,10 +7750,6 @@
   "★ Paracord Knife | Ultraviolet": {
     "price": 0.0,
     "date": "2026-01-15 19:19:50"
-  },
-  "★ Paracord Knife | Scorched (Field-Tested)": {
-    "price": 67.87,
-    "date": "2026-01-15 19:19:54"
   },
   "★ Paracord Knife | Scorched (Minimal Wear)": {
     "price": 90.58,
@@ -8275,10 +8139,6 @@
     "price": 271.91,
     "date": "2026-01-15 20:21:45"
   },
-  "★ Bowie Knife | Gamma Doppler (Factory New)": {
-    "price": 300.0,
-    "date": "2026-01-15 20:29:44"
-  },
   "★ Gut Knife | Freehand (Minimal Wear)": {
     "price": 105.99,
     "date": "2026-01-15 20:31:07"
@@ -8387,14 +8247,6 @@
     "price": 174.0,
     "date": "2026-01-15 20:42:52"
   },
-  "★ Bowie Knife | Bright Water (Field-Tested)": {
-    "price": 90.69,
-    "date": "2026-01-15 20:45:17"
-  },
-  "★ Bowie Knife | Bright Water (Minimal Wear)": {
-    "price": 102.55,
-    "date": "2026-01-15 20:45:17"
-  },
   "★ Bowie Knife | Bright Water (Factory New)": {
     "price": 120.0,
     "date": "2026-01-15 20:45:17"
@@ -8463,10 +8315,6 @@
     "price": 161.97,
     "date": "2026-01-15 20:55:18"
   },
-  "★ Navaja Knife | Doppler (Factory New)": {
-    "price": 183.39,
-    "date": "2026-01-15 20:57:06"
-  },
   "★ Navaja Knife | Doppler (Minimal Wear)": {
     "price": 229.97,
     "date": "2026-01-15 20:57:06"
@@ -8506,10 +8354,6 @@
   "★ Navaja Knife | Stained (Factory New)": {
     "price": 124.7,
     "date": "2026-01-15 21:00:25"
-  },
-  "★ Navaja Knife | Ultraviolet (Field-Tested)": {
-    "price": 77.39,
-    "date": "2026-01-15 21:05:09"
   },
   "★ Navaja Knife | Ultraviolet (Battle-Scarred)": {
     "price": 76.84,
@@ -8843,10 +8687,6 @@
     "price": 779.74,
     "date": "2026-01-15 21:25:41"
   },
-  "★ Kukri Knife | Fade (Factory New)": {
-    "price": 322.93,
-    "date": "2026-01-15 21:26:19"
-  },
   "★ Kukri Knife | Fade (Minimal Wear)": {
     "price": 379.08,
     "date": "2026-01-15 21:26:19"
@@ -8882,10 +8722,6 @@
   "★ Kukri Knife | Stained (Factory New)": {
     "price": 198.0,
     "date": "2026-01-15 21:29:00"
-  },
-  "★ Kukri Knife | Scorched (Field-Tested)": {
-    "price": 80.5,
-    "date": "2026-01-15 21:32:45"
   },
   "★ Kukri Knife | Scorched (Minimal Wear)": {
     "price": 110.0,
@@ -9307,10 +9143,6 @@
     "price": 541.55,
     "date": "2026-01-15 22:01:46"
   },
-  "★ Nomad Knife | Marble Fade (Factory New)": {
-    "price": 380.69,
-    "date": "2026-01-15 22:02:37"
-  },
   "★ Nomad Knife | Fade (Factory New)": {
     "price": 515.23,
     "date": "2026-01-15 22:02:37"
@@ -9318,10 +9150,6 @@
   "★ Nomad Knife | Marble Fade (Minimal Wear)": {
     "price": 1150.0,
     "date": "2026-01-15 22:02:37"
-  },
-  "★ Nomad Knife | Doppler (Factory New)": {
-    "price": 571.02,
-    "date": "2026-01-15 22:08:48"
   },
   "★ Nomad Knife | Doppler (Minimal Wear)": {
     "price": 739.71,
@@ -9358,10 +9186,6 @@
   "★ Nomad Knife | Stained (Factory New)": {
     "price": 306.88,
     "date": "2026-01-15 22:12:49"
-  },
-  "★ Nomad Knife | Ultraviolet (Field-Tested)": {
-    "price": 173.7,
-    "date": "2026-01-15 22:17:27"
   },
   "★ Nomad Knife | Ultraviolet (Battle-Scarred)": {
     "price": 152.53,
@@ -9426,14 +9250,6 @@
   "★ Shadow Daggers | Freehand (Battle-Scarred)": {
     "price": 81.57,
     "date": "2026-01-15 22:30:10"
-  },
-  "★ Shadow Daggers | Gamma Doppler (Factory New)": {
-    "price": 151.5,
-    "date": "2026-01-15 22:31:46"
-  },
-  "★ Shadow Daggers | Doppler (Factory New)": {
-    "price": 191.3,
-    "date": "2026-01-15 22:31:46"
   },
   "★ Shadow Daggers | Gamma Doppler (Minimal Wear)": {
     "price": 196.96,
@@ -9527,10 +9343,6 @@
     "price": 78.8,
     "date": "2026-01-15 22:37:05"
   },
-  "★ Shadow Daggers | Lore (Field-Tested)": {
-    "price": 93.47,
-    "date": "2026-01-15 22:37:50"
-  },
   "★ Shadow Daggers | Lore (Minimal Wear)": {
     "price": 107.0,
     "date": "2026-01-15 22:37:50"
@@ -9547,10 +9359,6 @@
     "price": 190.39,
     "date": "2026-01-15 22:37:50"
   },
-  "★ Shadow Daggers | Autotronic (Field-Tested)": {
-    "price": 80.74,
-    "date": "2026-01-15 22:38:33"
-  },
   "★ Shadow Daggers | Autotronic (Battle-Scarred)": {
     "price": 86.25,
     "date": "2026-01-15 22:38:33"
@@ -9566,10 +9374,6 @@
   "★ Shadow Daggers | Autotronic (Factory New)": {
     "price": 140.46,
     "date": "2026-01-15 22:38:33"
-  },
-  "★ Shadow Daggers | Black Laminate (Field-Tested)": {
-    "price": 70.35,
-    "date": "2026-01-15 22:39:36"
   },
   "★ Shadow Daggers | Black Laminate (Minimal Wear)": {
     "price": 73.75,
@@ -9610,14 +9414,6 @@
   "★ Shadow Daggers | Boreal Forest (Well-Worn)": {
     "price": 76.49,
     "date": "2026-01-15 22:41:19"
-  },
-  "★ Shadow Daggers | Bright Water (Field-Tested)": {
-    "price": 69.0,
-    "date": "2026-01-15 22:42:16"
-  },
-  "★ Shadow Daggers | Bright Water (Factory New)": {
-    "price": 75.0,
-    "date": "2026-01-15 22:42:16"
   },
   "★ Shadow Daggers | Bright Water (Minimal Wear)": {
     "price": 72.05,
@@ -9739,10 +9535,6 @@
     "price": 1165.36,
     "date": "2026-01-15 22:47:23"
   },
-  "★ Skeleton Knife | Doppler (Factory New)": {
-    "price": 999.86,
-    "date": "2026-01-15 22:53:57"
-  },
   "★ Skeleton Knife | Doppler (Minimal Wear)": {
     "price": 1246.66,
     "date": "2026-01-15 22:53:57"
@@ -9779,10 +9571,6 @@
     "price": 437.01,
     "date": "2026-01-15 22:57:58"
   },
-  "★ Skeleton Knife | Forest DDPAT (Field-Tested)": {
-    "price": 164.48,
-    "date": "2026-01-15 23:01:17"
-  },
   "★ Skeleton Knife | Ultraviolet (Field-Tested)": {
     "price": 287.3,
     "date": "2026-01-15 23:02:51"
@@ -9803,10 +9591,6 @@
     "price": 829.5,
     "date": "2026-01-15 23:02:51"
   },
-  "★ Skeleton Knife | Scorched (Field-Tested)": {
-    "price": 189.26,
-    "date": "2026-01-15 23:03:40"
-  },
   "★ Skeleton Knife | Scorched (Minimal Wear)": {
     "price": 285.02,
     "date": "2026-01-15 23:03:40"
@@ -9819,17 +9603,9 @@
     "price": 218.32,
     "date": "2026-01-15 23:03:40"
   },
-  "★ Stiletto Knife | Doppler (Factory New)": {
-    "price": 680.47,
-    "date": "2026-01-15 23:09:37"
-  },
   "★ Stiletto Knife | Doppler (Minimal Wear)": {
     "price": 733.32,
     "date": "2026-01-15 23:09:37"
-  },
-  "★ Ursus Knife | Ultraviolet (Field-Tested)": {
-    "price": 138.0,
-    "date": "2026-01-16 02:43:10"
   },
   "★ Ursus Knife | Ultraviolet (Well-Worn)": {
     "price": 139.64,
@@ -9867,10 +9643,6 @@
     "price": 255.03,
     "date": "2026-01-16 02:43:47"
   },
-  "★ Talon Knife | Marble Fade (Factory New)": {
-    "price": 884.28,
-    "date": "2026-01-16 02:47:07"
-  },
   "★ Talon Knife | Fade (Factory New)": {
     "price": 1306.56,
     "date": "2026-01-16 02:47:07"
@@ -9883,37 +9655,9 @@
     "price": 1250.0,
     "date": "2026-01-16 02:47:07"
   },
-  "★ Navaja Knife | Marble Fade (Factory New)": {
-    "price": 139.27,
-    "date": "2026-01-16 02:51:39"
-  },
-  "★ Bowie Knife | Marble Fade (Factory New)": {
-    "price": 257.3,
-    "date": "2026-01-16 02:51:39"
-  },
-  "★ Shadow Daggers | Marble Fade (Factory New)": {
-    "price": 140.45,
-    "date": "2026-01-16 02:51:39"
-  },
-  "★ Survival Knife | Marble Fade (Factory New)": {
-    "price": 216.27,
-    "date": "2026-01-16 02:51:39"
-  },
-  "★ Paracord Knife | Marble Fade (Factory New)": {
-    "price": 219.94,
-    "date": "2026-01-16 02:51:39"
-  },
   "★ Huntsman Knife | Marble Fade (Factory New)": {
     "price": 265.84,
     "date": "2026-01-16 02:51:39"
-  },
-  "★ Skeleton Knife | Marble Fade (Factory New)": {
-    "price": 662.31,
-    "date": "2026-01-16 02:51:39"
-  },
-  "★ Talon Knife | Doppler (Factory New)": {
-    "price": 1251.7,
-    "date": "2026-01-16 02:53:12"
   },
   "★ Talon Knife | Slaughter (Minimal Wear)": {
     "price": 815.0,
@@ -9926,34 +9670,6 @@
   "★ Talon Knife | Slaughter (Field-Tested)": {
     "price": 707.88,
     "date": "2026-01-16 02:54:02"
-  },
-  "★ Navaja Knife | Tiger Tooth (Factory New)": {
-    "price": 109.25,
-    "date": "2026-01-16 02:54:54"
-  },
-  "★ Bowie Knife | Tiger Tooth (Factory New)": {
-    "price": 215.55,
-    "date": "2026-01-16 02:54:54"
-  },
-  "★ Shadow Daggers | Tiger Tooth (Factory New)": {
-    "price": 125.25,
-    "date": "2026-01-16 02:54:54"
-  },
-  "★ Survival Knife | Tiger Tooth (Factory New)": {
-    "price": 168.26,
-    "date": "2026-01-16 02:54:54"
-  },
-  "★ Paracord Knife | Tiger Tooth (Factory New)": {
-    "price": 175.07,
-    "date": "2026-01-16 02:54:54"
-  },
-  "★ Ursus Knife | Tiger Tooth (Factory New)": {
-    "price": 226.86,
-    "date": "2026-01-16 02:54:54"
-  },
-  "★ Nomad Knife | Tiger Tooth (Factory New)": {
-    "price": 330.0,
-    "date": "2026-01-16 02:54:54"
   },
   "★ Kukri Knife | Blue Steel (Field-Tested)": {
     "price": 137.12,
@@ -9995,10 +9711,6 @@
     "price": 190.0,
     "date": "2026-01-16 02:55:37"
   },
-  "★ Navaja Knife | Damascus Steel (Field-Tested)": {
-    "price": 73.19,
-    "date": "2026-01-16 02:56:18"
-  },
   "★ Navaja Knife | Damascus Steel (Minimal Wear)": {
     "price": 72.75,
     "date": "2026-01-16 02:56:18"
@@ -10013,10 +9725,6 @@
   },
   "★ Navaja Knife | Damascus Steel (Factory New)": {
     "price": 92.85,
-    "date": "2026-01-16 02:56:18"
-  },
-  "★ Nomad Knife | Damascus Steel (Field-Tested)": {
-    "price": 184.0,
     "date": "2026-01-16 02:56:18"
   },
   "★ Falchion Knife | Damascus Steel (Minimal Wear)": {
@@ -10047,10 +9755,6 @@
     "price": 395.23,
     "date": "2026-01-16 02:56:56"
   },
-  "★ Kukri Knife | Case Hardened (Field-Tested)": {
-    "price": 169.46,
-    "date": "2026-01-16 02:57:36"
-  },
   "★ Kukri Knife | Case Hardened (Well-Worn)": {
     "price": 162.75,
     "date": "2026-01-16 02:57:36"
@@ -10079,61 +9783,9 @@
     "price": 149.81,
     "date": "2026-01-16 02:57:36"
   },
-  "★ Nomad Knife | Case Hardened (Field-Tested)": {
-    "price": 241.5,
-    "date": "2026-01-16 02:57:36"
-  },
   "★ Paracord Knife | Case Hardened (Minimal Wear)": {
     "price": 188.63,
     "date": "2026-01-16 02:57:36"
-  },
-  "★ Navaja Knife | Rust Coat (Battle-Scarred)": {
-    "price": 64.91,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Survival Knife | Rust Coat (Battle-Scarred)": {
-    "price": 74.34,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Shadow Daggers | Rust Coat (Battle-Scarred)": {
-    "price": 65.93,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Bowie Knife | Rust Coat (Battle-Scarred)": {
-    "price": 77.17,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Paracord Knife | Rust Coat (Battle-Scarred)": {
-    "price": 73.0,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Ursus Knife | Rust Coat (Battle-Scarred)": {
-    "price": 92.85,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Nomad Knife | Rust Coat (Battle-Scarred)": {
-    "price": 142.31,
-    "date": "2026-01-16 02:58:27"
-  },
-  "★ Kukri Knife | Forest DDPAT (Field-Tested)": {
-    "price": 82.0,
-    "date": "2026-01-16 02:59:05"
-  },
-  "★ Survival Knife | Forest DDPAT (Field-Tested)": {
-    "price": 75.0,
-    "date": "2026-01-16 02:59:05"
-  },
-  "★ Navaja Knife | Forest DDPAT (Field-Tested)": {
-    "price": 65.87,
-    "date": "2026-01-16 02:59:05"
-  },
-  "★ Paracord Knife | Forest DDPAT (Field-Tested)": {
-    "price": 73.54,
-    "date": "2026-01-16 02:59:05"
-  },
-  "★ Nomad Knife | Forest DDPAT (Field-Tested)": {
-    "price": 132.25,
-    "date": "2026-01-16 02:59:05"
   },
   "★ Falchion Knife | Forest DDPAT (Field-Tested)": {
     "price": 96.3,
@@ -10155,28 +9807,12 @@
     "price": 77.2,
     "date": "2026-01-16 02:59:05"
   },
-  "★ Kukri Knife | Boreal Forest (Field-Tested)": {
-    "price": 79.83,
-    "date": "2026-01-16 02:59:48"
-  },
-  "★ Survival Knife | Boreal Forest (Field-Tested)": {
-    "price": 76.29,
-    "date": "2026-01-16 02:59:48"
-  },
-  "★ Navaja Knife | Boreal Forest (Field-Tested)": {
-    "price": 67.0,
-    "date": "2026-01-16 02:59:48"
-  },
   "★ Paracord Knife | Boreal Forest (Field-Tested)": {
     "price": 80.07,
     "date": "2026-01-16 02:59:48"
   },
   "★ Kukri Knife | Boreal Forest (Battle-Scarred)": {
     "price": 77.18,
-    "date": "2026-01-16 02:59:48"
-  },
-  "★ Nomad Knife | Boreal Forest (Field-Tested)": {
-    "price": 127.66,
     "date": "2026-01-16 02:59:48"
   },
   "★ Shadow Daggers | Boreal Forest (Field-Tested)": {
@@ -10194,10 +9830,6 @@
   "★ Kukri Knife | Boreal Forest (Minimal Wear)": {
     "price": 93.19,
     "date": "2026-01-16 02:59:48"
-  },
-  "★ Kukri Knife | Crimson Web (Field-Tested)": {
-    "price": 159.96,
-    "date": "2026-01-16 03:00:25"
   },
   "★ Navaja Knife | Crimson Web (Field-Tested)": {
     "price": 96.08,
@@ -10235,10 +9867,6 @@
     "price": 157.27,
     "date": "2026-01-16 03:00:25"
   },
-  "★ Talon Knife | Ultraviolet (Field-Tested)": {
-    "price": 406.18,
-    "date": "2026-01-16 03:01:05"
-  },
   "★ Talon Knife | Ultraviolet (Well-Worn)": {
     "price": 440.38,
     "date": "2026-01-16 03:01:05"
@@ -10251,10 +9879,6 @@
     "price": 402.57,
     "date": "2026-01-16 03:01:05"
   },
-  "★ Talon Knife | Scorched (Field-Tested)": {
-    "price": 316.49,
-    "date": "2026-01-16 03:01:51"
-  },
   "★ Talon Knife | Scorched (Minimal Wear)": {
     "price": 394.0,
     "date": "2026-01-16 03:01:51"
@@ -10266,10 +9890,6 @@
   "★ Talon Knife | Scorched (Battle-Scarred)": {
     "price": 293.25,
     "date": "2026-01-16 03:01:51"
-  },
-  "★ Kukri Knife | Safari Mesh (Field-Tested)": {
-    "price": 76.59,
-    "date": "2026-01-16 03:02:47"
   },
   "★ Survival Knife | Safari Mesh (Field-Tested)": {
     "price": 71.03,
@@ -10307,14 +9927,6 @@
     "price": 68.77,
     "date": "2026-01-16 03:02:47"
   },
-  "★ Kukri Knife | Night Stripe (Field-Tested)": {
-    "price": 84.23,
-    "date": "2026-01-16 03:03:24"
-  },
-  "★ Navaja Knife | Night Stripe (Field-Tested)": {
-    "price": 68.38,
-    "date": "2026-01-16 03:03:24"
-  },
   "★ Paracord Knife | Night Stripe (Field-Tested)": {
     "price": 74.71,
     "date": "2026-01-16 03:03:24"
@@ -10343,18 +9955,6 @@
     "price": 89.09,
     "date": "2026-01-16 03:03:24"
   },
-  "★ Kukri Knife | Urban Masked (Field-Tested)": {
-    "price": 81.79,
-    "date": "2026-01-16 03:04:17"
-  },
-  "★ Survival Knife | Urban Masked (Field-Tested)": {
-    "price": 84.21,
-    "date": "2026-01-16 03:04:17"
-  },
-  "★ Paracord Knife | Urban Masked (Field-Tested)": {
-    "price": 84.9,
-    "date": "2026-01-16 03:04:17"
-  },
   "★ Navaja Knife | Urban Masked (Field-Tested)": {
     "price": 72.56,
     "date": "2026-01-16 03:04:17"
@@ -10363,20 +9963,12 @@
     "price": 70.73,
     "date": "2026-01-16 03:04:17"
   },
-  "★ Skeleton Knife | Urban Masked (Field-Tested)": {
-    "price": 200.99,
-    "date": "2026-01-16 03:04:17"
-  },
   "★ Nomad Knife | Urban Masked (Field-Tested)": {
     "price": 148.53,
     "date": "2026-01-16 03:04:17"
   },
   "★ Kukri Knife | Urban Masked (Minimal Wear)": {
     "price": 127.14,
-    "date": "2026-01-16 03:04:17"
-  },
-  "★ Ursus Knife | Urban Masked (Field-Tested)": {
-    "price": 118.04,
     "date": "2026-01-16 03:04:17"
   },
   "★ Gut Knife | Urban Masked (Field-Tested)": {
@@ -10658,5 +10250,1605 @@
   "★ Falchion Knife | Black Laminate (Field-Tested)": {
     "price": 101.0,
     "date": "2026-01-16 03:09:26"
+  },
+  "★ Bowie Knife | Gamma Doppler (Factory New)": {
+    "price": 300.15,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Doppler (Factory New)": {
+    "price": 409.76,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Marble Fade (Factory New)": {
+    "price": 257.3,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Autotronic (Field-Tested)": {
+    "price": 135.78,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Rust Coat (Battle-Scarred)": {
+    "price": 77.17,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Tiger Tooth (Factory New)": {
+    "price": 215.54,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Lore (Field-Tested)": {
+    "price": 138.99,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Freehand (Field-Tested)": {
+    "price": 111.4,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Bright Water (Minimal Wear)": {
+    "price": 101.83,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Bowie Knife | Bright Water (Field-Tested)": {
+    "price": 90.29,
+    "date": "2026-01-16 03:10:15"
+  },
+  "★ Butterfly Knife | Forest DDPAT (Field-Tested)": {
+    "price": 688.29,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Lore (Field-Tested)": {
+    "price": 1010.41,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Boreal Forest (Field-Tested)": {
+    "price": 687.66,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Freehand (Field-Tested)": {
+    "price": 929.02,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Crimson Web (Field-Tested)": {
+    "price": 1122.58,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Safari Mesh (Field-Tested)": {
+    "price": 625.0,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Night (Field-Tested)": {
+    "price": 876.26,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Rust Coat (Battle-Scarred)": {
+    "price": 805.0,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Scorched (Field-Tested)": {
+    "price": 695.92,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Butterfly Knife | Bright Water (Minimal Wear)": {
+    "price": 899.99,
+    "date": "2026-01-16 03:10:55"
+  },
+  "★ Shadow Daggers | Gamma Doppler (Factory New)": {
+    "price": 154.81,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Doppler (Factory New)": {
+    "price": 190.94,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Autotronic (Field-Tested)": {
+    "price": 83.0,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Black Laminate (Field-Tested)": {
+    "price": 70.2,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Marble Fade (Factory New)": {
+    "price": 140.45,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Bright Water (Field-Tested)": {
+    "price": 68.82,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Rust Coat (Battle-Scarred)": {
+    "price": 65.93,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Lore (Field-Tested)": {
+    "price": 93.7,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Tiger Tooth (Factory New)": {
+    "price": 125.25,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Shadow Daggers | Bright Water (Factory New)": {
+    "price": 72.95,
+    "date": "2026-01-16 03:11:44"
+  },
+  "★ Paracord Knife": {
+    "price": 98.64,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Doppler (Factory New)": {
+    "price": 324.92,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Rust Coat (Battle-Scarred)": {
+    "price": 73.0,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Scorched (Field-Tested)": {
+    "price": 78.45,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Fade (Factory New)": {
+    "price": 260.97,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Marble Fade (Factory New)": {
+    "price": 219.94,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Tiger Tooth (Factory New)": {
+    "price": 175.22,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Ultraviolet (Field-Tested)": {
+    "price": 111.21,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Urban Masked (Field-Tested)": {
+    "price": 84.9,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Paracord Knife | Forest DDPAT (Field-Tested)": {
+    "price": 73.54,
+    "date": "2026-01-16 03:12:36"
+  },
+  "★ Survival Knife | Doppler (Factory New)": {
+    "price": 295.0,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Rust Coat (Battle-Scarred)": {
+    "price": 74.34,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife": {
+    "price": 95.05,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Fade (Factory New)": {
+    "price": 227.83,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Scorched (Field-Tested)": {
+    "price": 79.3,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Boreal Forest (Field-Tested)": {
+    "price": 76.29,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Marble Fade (Factory New)": {
+    "price": 216.27,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Tiger Tooth (Factory New)": {
+    "price": 168.26,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Urban Masked (Field-Tested)": {
+    "price": 84.21,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Survival Knife | Forest DDPAT (Field-Tested)": {
+    "price": 75.0,
+    "date": "2026-01-16 03:13:25"
+  },
+  "★ Ursus Knife | Doppler (Factory New)": {
+    "price": 353.93,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Rust Coat (Battle-Scarred)": {
+    "price": 92.85,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife": {
+    "price": 145.98,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Tiger Tooth (Factory New)": {
+    "price": 226.86,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Marble Fade (Factory New)": {
+    "price": 262.16,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Case Hardened (Field-Tested)": {
+    "price": 172.5,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Urban Masked (Field-Tested)": {
+    "price": 118.04,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Ultraviolet (Field-Tested)": {
+    "price": 138.0,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Damascus Steel (Field-Tested)": {
+    "price": 125.44,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Ursus Knife | Fade (Factory New)": {
+    "price": 347.01,
+    "date": "2026-01-16 03:14:16"
+  },
+  "★ Navaja Knife | Doppler (Factory New)": {
+    "price": 179.88,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Rust Coat (Battle-Scarred)": {
+    "price": 64.06,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Marble Fade (Factory New)": {
+    "price": 141.58,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Ultraviolet (Field-Tested)": {
+    "price": 77.58,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Tiger Tooth (Factory New)": {
+    "price": 109.25,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife": {
+    "price": 93.85,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Damascus Steel (Field-Tested)": {
+    "price": 73.19,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Night Stripe (Field-Tested)": {
+    "price": 68.38,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Forest DDPAT (Field-Tested)": {
+    "price": 65.87,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Navaja Knife | Boreal Forest (Field-Tested)": {
+    "price": 67.0,
+    "date": "2026-01-16 03:14:54"
+  },
+  "★ Nomad Knife | Doppler (Factory New)": {
+    "price": 570.0,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife": {
+    "price": 218.0,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Rust Coat (Battle-Scarred)": {
+    "price": 142.31,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Ultraviolet (Field-Tested)": {
+    "price": 174.06,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Tiger Tooth (Factory New)": {
+    "price": 330.0,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Case Hardened (Field-Tested)": {
+    "price": 241.5,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Forest DDPAT (Field-Tested)": {
+    "price": 132.25,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Damascus Steel (Field-Tested)": {
+    "price": 184.0,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Marble Fade (Factory New)": {
+    "price": 361.99,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Nomad Knife | Boreal Forest (Field-Tested)": {
+    "price": 127.66,
+    "date": "2026-01-16 03:15:35"
+  },
+  "★ Stiletto Knife": {
+    "price": 300.0,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Doppler (Factory New)": {
+    "price": 677.43,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Rust Coat (Battle-Scarred)": {
+    "price": 183.36,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Tiger Tooth (Factory New)": {
+    "price": 406.18,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Ultraviolet (Field-Tested)": {
+    "price": 245.0,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Marble Fade (Factory New)": {
+    "price": 456.38,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Scorched (Field-Tested)": {
+    "price": 186.83,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Urban Masked (Field-Tested)": {
+    "price": 207.73,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Fade (Factory New)": {
+    "price": 691.74,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Stiletto Knife | Damascus Steel (Field-Tested)": {
+    "price": 254.15,
+    "date": "2026-01-16 03:16:14"
+  },
+  "★ Talon Knife | Rust Coat (Battle-Scarred)": {
+    "price": 367.47,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Tiger Tooth (Factory New)": {
+    "price": 720.64,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Marble Fade (Factory New)": {
+    "price": 884.28,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife": {
+    "price": 483.0,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Doppler (Factory New)": {
+    "price": 1251.7,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Ultraviolet (Field-Tested)": {
+    "price": 406.18,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Damascus Steel (Field-Tested)": {
+    "price": 435.18,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Scorched (Field-Tested)": {
+    "price": 316.49,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Crimson Web (Field-Tested)": {
+    "price": 500.25,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Talon Knife | Night Stripe (Field-Tested)": {
+    "price": 340.4,
+    "date": "2026-01-16 03:17:03"
+  },
+  "★ Skeleton Knife | Doppler (Factory New)": {
+    "price": 999.86,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife": {
+    "price": 396.75,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Marble Fade (Factory New)": {
+    "price": 662.31,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Rust Coat (Battle-Scarred)": {
+    "price": 199.38,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Urban Masked (Field-Tested)": {
+    "price": 200.99,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Case Hardened (Field-Tested)": {
+    "price": 371.61,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Tiger Tooth (Factory New)": {
+    "price": 535.9,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Forest DDPAT (Field-Tested)": {
+    "price": 163.99,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Case Hardened (Well-Worn)": {
+    "price": 359.86,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Skeleton Knife | Scorched (Field-Tested)": {
+    "price": 194.69,
+    "date": "2026-01-16 03:17:57"
+  },
+  "★ Kukri Knife | Boreal Forest (Field-Tested)": {
+    "price": 79.83,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Fade (Factory New)": {
+    "price": 314.37,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Case Hardened (Field-Tested)": {
+    "price": 169.46,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Safari Mesh (Field-Tested)": {
+    "price": 76.59,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife": {
+    "price": 161.0,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Scorched (Field-Tested)": {
+    "price": 82.49,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Night Stripe (Field-Tested)": {
+    "price": 84.23,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Urban Masked (Field-Tested)": {
+    "price": 81.79,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Forest DDPAT (Field-Tested)": {
+    "price": 82.0,
+    "date": "2026-01-16 03:18:37"
+  },
+  "★ Kukri Knife | Crimson Web (Field-Tested)": {
+    "price": 159.96,
+    "date": "2026-01-16 03:18:37"
+  },
+  "AK-47 | Searing Rage (Field-Tested)": {
+    "price": 7.89,
+    "date": "2026-01-16 03:19:21"
+  },
+  "AK-47 | Searing Rage (Well-Worn)": {
+    "price": 6.62,
+    "date": "2026-01-16 03:19:21"
+  },
+  "AK-47 | Searing Rage (Minimal Wear)": {
+    "price": 14.0,
+    "date": "2026-01-16 03:19:21"
+  },
+  "AK-47 | Searing Rage (Battle-Scarred)": {
+    "price": 6.74,
+    "date": "2026-01-16 03:19:21"
+  },
+  "StatTrak™ AK-47 | Searing Rage (Field-Tested)": {
+    "price": 16.07,
+    "date": "2026-01-16 03:19:21"
+  },
+  "AK-47 | Searing Rage (Factory New)": {
+    "price": 64.3,
+    "date": "2026-01-16 03:19:21"
+  },
+  "StatTrak™ AK-47 | Searing Rage (Battle-Scarred)": {
+    "price": 15.66,
+    "date": "2026-01-16 03:19:21"
+  },
+  "StatTrak™ AK-47 | Searing Rage (Minimal Wear)": {
+    "price": 29.0,
+    "date": "2026-01-16 03:19:21"
+  },
+  "StatTrak™ AK-47 | Searing Rage (Well-Worn)": {
+    "price": 15.94,
+    "date": "2026-01-16 03:19:21"
+  },
+  "StatTrak™ AK-47 | Searing Rage (Factory New)": {
+    "price": 74.13,
+    "date": "2026-01-16 03:19:21"
+  },
+  "AWP | Printstream (Field-Tested)": {
+    "price": 75.0,
+    "date": "2026-01-16 03:20:06"
+  },
+  "AWP | Printstream (Battle-Scarred)": {
+    "price": 67.98,
+    "date": "2026-01-16 03:20:06"
+  },
+  "AWP | Printstream (Minimal Wear)": {
+    "price": 150.0,
+    "date": "2026-01-16 03:20:06"
+  },
+  "AWP | Printstream (Well-Worn)": {
+    "price": 69.53,
+    "date": "2026-01-16 03:20:06"
+  },
+  "AWP | Printstream (Factory New)": {
+    "price": 511.66,
+    "date": "2026-01-16 03:20:06"
+  },
+  "StatTrak™ AWP | Printstream (Field-Tested)": {
+    "price": 141.93,
+    "date": "2026-01-16 03:20:06"
+  },
+  "StatTrak™ AWP | Printstream (Well-Worn)": {
+    "price": 104.95,
+    "date": "2026-01-16 03:20:06"
+  },
+  "StatTrak™ AWP | Printstream (Battle-Scarred)": {
+    "price": 84.01,
+    "date": "2026-01-16 03:20:06"
+  },
+  "StatTrak™ AWP | Printstream (Minimal Wear)": {
+    "price": 236.73,
+    "date": "2026-01-16 03:20:06"
+  },
+  "StatTrak™ AWP | Printstream (Factory New)": {
+    "price": 1041.17,
+    "date": "2026-01-16 03:20:06"
+  },
+  "Desert Eagle | Serpent Strike (Field-Tested)": {
+    "price": 1.08,
+    "date": "2026-01-16 03:20:42"
+  },
+  "Desert Eagle | Serpent Strike (Minimal Wear)": {
+    "price": 1.81,
+    "date": "2026-01-16 03:20:42"
+  },
+  "Desert Eagle | Serpent Strike (Factory New)": {
+    "price": 5.3,
+    "date": "2026-01-16 03:20:42"
+  },
+  "StatTrak™ Desert Eagle | Serpent Strike (Field-Tested)": {
+    "price": 1.9,
+    "date": "2026-01-16 03:20:42"
+  },
+  "Desert Eagle | Serpent Strike (Battle-Scarred)": {
+    "price": 0.97,
+    "date": "2026-01-16 03:20:42"
+  },
+  "StatTrak™ Desert Eagle | Serpent Strike (Factory New)": {
+    "price": 8.12,
+    "date": "2026-01-16 03:20:42"
+  },
+  "Desert Eagle | Serpent Strike (Well-Worn)": {
+    "price": 1.03,
+    "date": "2026-01-16 03:20:42"
+  },
+  "StatTrak™ Desert Eagle | Serpent Strike (Minimal Wear)": {
+    "price": 4.65,
+    "date": "2026-01-16 03:20:42"
+  },
+  "StatTrak™ Desert Eagle | Serpent Strike (Battle-Scarred)": {
+    "price": 1.9,
+    "date": "2026-01-16 03:20:42"
+  },
+  "StatTrak™ Desert Eagle | Serpent Strike (Well-Worn)": {
+    "price": 2.68,
+    "date": "2026-01-16 03:20:42"
+  },
+  "FAMAS | Bad Trip (Field-Tested)": {
+    "price": 69.0,
+    "date": "2026-01-16 03:21:37"
+  },
+  "FAMAS | Bad Trip (Battle-Scarred)": {
+    "price": 67.0,
+    "date": "2026-01-16 03:21:37"
+  },
+  "FAMAS | Bad Trip (Minimal Wear)": {
+    "price": 79.0,
+    "date": "2026-01-16 03:21:37"
+  },
+  "FAMAS | Bad Trip (Well-Worn)": {
+    "price": 65.98,
+    "date": "2026-01-16 03:21:37"
+  },
+  "FAMAS | Bad Trip (Factory New)": {
+    "price": 139.1,
+    "date": "2026-01-16 03:21:37"
+  },
+  "StatTrak™ FAMAS | Bad Trip (Field-Tested)": {
+    "price": 73.42,
+    "date": "2026-01-16 03:21:37"
+  },
+  "StatTrak™ FAMAS | Bad Trip (Minimal Wear)": {
+    "price": 77.05,
+    "date": "2026-01-16 03:21:37"
+  },
+  "StatTrak™ FAMAS | Bad Trip (Well-Worn)": {
+    "price": 69.0,
+    "date": "2026-01-16 03:21:37"
+  },
+  "StatTrak™ FAMAS | Bad Trip (Factory New)": {
+    "price": 116.99,
+    "date": "2026-01-16 03:21:37"
+  },
+  "StatTrak™ FAMAS | Bad Trip (Battle-Scarred)": {
+    "price": 70.0,
+    "date": "2026-01-16 03:21:37"
+  },
+  "Galil AR | Control (Field-Tested)": {
+    "price": 0.83,
+    "date": "2026-01-16 03:22:27"
+  },
+  "Galil AR | Control (Battle-Scarred)": {
+    "price": 0.74,
+    "date": "2026-01-16 03:22:27"
+  },
+  "Galil AR | Control (Minimal Wear)": {
+    "price": 1.84,
+    "date": "2026-01-16 03:22:27"
+  },
+  "StatTrak™ Galil AR | Control (Field-Tested)": {
+    "price": 1.31,
+    "date": "2026-01-16 03:22:27"
+  },
+  "Galil AR | Control (Factory New)": {
+    "price": 6.87,
+    "date": "2026-01-16 03:22:27"
+  },
+  "Galil AR | Control (Well-Worn)": {
+    "price": 0.8,
+    "date": "2026-01-16 03:22:27"
+  },
+  "StatTrak™ Galil AR | Control (Minimal Wear)": {
+    "price": 3.26,
+    "date": "2026-01-16 03:22:27"
+  },
+  "StatTrak™ Galil AR | Control (Battle-Scarred)": {
+    "price": 1.1,
+    "date": "2026-01-16 03:22:27"
+  },
+  "StatTrak™ Galil AR | Control (Factory New)": {
+    "price": 10.01,
+    "date": "2026-01-16 03:22:27"
+  },
+  "StatTrak™ Galil AR | Control (Well-Worn)": {
+    "price": 1.78,
+    "date": "2026-01-16 03:22:27"
+  },
+  "Glock-18 | Shinobu (Field-Tested)": {
+    "price": 8.29,
+    "date": "2026-01-16 03:23:14"
+  },
+  "Glock-18 | Shinobu (Battle-Scarred)": {
+    "price": 6.91,
+    "date": "2026-01-16 03:23:14"
+  },
+  "Glock-18 | Shinobu (Minimal Wear)": {
+    "price": 14.84,
+    "date": "2026-01-16 03:23:14"
+  },
+  "Glock-18 | Shinobu (Well-Worn)": {
+    "price": 6.95,
+    "date": "2026-01-16 03:23:14"
+  },
+  "StatTrak™ Glock-18 | Shinobu (Battle-Scarred)": {
+    "price": 13.65,
+    "date": "2026-01-16 03:23:14"
+  },
+  "Glock-18 | Shinobu (Factory New)": {
+    "price": 55.1,
+    "date": "2026-01-16 03:23:14"
+  },
+  "StatTrak™ Glock-18 | Shinobu (Well-Worn)": {
+    "price": 13.53,
+    "date": "2026-01-16 03:23:14"
+  },
+  "StatTrak™ Glock-18 | Shinobu (Field-Tested)": {
+    "price": 15.0,
+    "date": "2026-01-16 03:23:14"
+  },
+  "StatTrak™ Glock-18 | Shinobu (Minimal Wear)": {
+    "price": 29.9,
+    "date": "2026-01-16 03:23:14"
+  },
+  "StatTrak™ Glock-18 | Shinobu (Factory New)": {
+    "price": 90.36,
+    "date": "2026-01-16 03:23:14"
+  },
+  "P2000 | Sure Grip (Field-Tested)": {
+    "price": 0.14,
+    "date": "2026-01-16 03:23:54"
+  },
+  "P2000 | Sure Grip (Minimal Wear)": {
+    "price": 0.29,
+    "date": "2026-01-16 03:23:54"
+  },
+  "P2000 | Sure Grip (Battle-Scarred)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:23:54"
+  },
+  "StatTrak™ P2000 | Sure Grip (Field-Tested)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:23:54"
+  },
+  "P2000 | Sure Grip (Well-Worn)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:23:54"
+  },
+  "StatTrak™ P2000 | Sure Grip (Battle-Scarred)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:23:54"
+  },
+  "StatTrak™ P2000 | Sure Grip (Well-Worn)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:23:54"
+  },
+  "P2000 | Sure Grip (Factory New)": {
+    "price": 1.76,
+    "date": "2026-01-16 03:23:54"
+  },
+  "StatTrak™ P2000 | Sure Grip (Minimal Wear)": {
+    "price": 0.35,
+    "date": "2026-01-16 03:23:54"
+  },
+  "StatTrak™ P2000 | Sure Grip (Factory New)": {
+    "price": 1.41,
+    "date": "2026-01-16 03:23:54"
+  },
+  "M4A4 | Choppa (Field-Tested)": {
+    "price": 0.21,
+    "date": "2026-01-16 03:24:48"
+  },
+  "M4A4 | Choppa (Well-Worn)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:24:48"
+  },
+  "M4A4 | Choppa (Minimal Wear)": {
+    "price": 0.34,
+    "date": "2026-01-16 03:24:48"
+  },
+  "M4A4 | Choppa (Battle-Scarred)": {
+    "price": 0.11,
+    "date": "2026-01-16 03:24:48"
+  },
+  "StatTrak™ M4A4 | Choppa (Field-Tested)": {
+    "price": 0.51,
+    "date": "2026-01-16 03:24:48"
+  },
+  "StatTrak™ M4A4 | Choppa (Minimal Wear)": {
+    "price": 1.39,
+    "date": "2026-01-16 03:24:48"
+  },
+  "StatTrak™ M4A4 | Choppa (Well-Worn)": {
+    "price": 0.24,
+    "date": "2026-01-16 03:24:48"
+  },
+  "StatTrak™ M4A4 | Choppa (Battle-Scarred)": {
+    "price": 0.18,
+    "date": "2026-01-16 03:24:48"
+  },
+  "M4A4 | Choppa (Factory New)": {
+    "price": 3.07,
+    "date": "2026-01-16 03:24:48"
+  },
+  "StatTrak™ M4A4 | Choppa (Factory New)": {
+    "price": 6.34,
+    "date": "2026-01-16 03:24:48"
+  },
+  "MAG-7 | Resupply (Well-Worn)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:25:36"
+  },
+  "MAG-7 | Resupply (Battle-Scarred)": {
+    "price": 0.12,
+    "date": "2026-01-16 03:25:36"
+  },
+  "MAG-7 | Resupply (Field-Tested)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:25:36"
+  },
+  "MAG-7 | Resupply (Minimal Wear)": {
+    "price": 0.3,
+    "date": "2026-01-16 03:25:36"
+  },
+  "StatTrak™ MAG-7 | Resupply (Field-Tested)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:25:36"
+  },
+  "StatTrak™ MAG-7 | Resupply (Well-Worn)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:25:36"
+  },
+  "StatTrak™ MAG-7 | Resupply (Battle-Scarred)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:25:36"
+  },
+  "StatTrak™ MAG-7 | Resupply (Minimal Wear)": {
+    "price": 0.46,
+    "date": "2026-01-16 03:25:36"
+  },
+  "MAG-7 | Resupply (Factory New)": {
+    "price": 1.5,
+    "date": "2026-01-16 03:25:36"
+  },
+  "StatTrak™ MAG-7 | Resupply (Factory New)": {
+    "price": 1.32,
+    "date": "2026-01-16 03:25:36"
+  },
+  "MP9 | Nexus (Battle-Scarred)": {
+    "price": 0.12,
+    "date": "2026-01-16 03:26:12"
+  },
+  "MP9 | Nexus (Well-Worn)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:26:12"
+  },
+  "MP9 | Nexus (Field-Tested)": {
+    "price": 0.14,
+    "date": "2026-01-16 03:26:12"
+  },
+  "MP9 | Nexus (Minimal Wear)": {
+    "price": 0.34,
+    "date": "2026-01-16 03:26:12"
+  },
+  "StatTrak™ MP9 | Nexus (Field-Tested)": {
+    "price": 0.23,
+    "date": "2026-01-16 03:26:12"
+  },
+  "StatTrak™ MP9 | Nexus (Well-Worn)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:26:12"
+  },
+  "StatTrak™ MP9 | Nexus (Battle-Scarred)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:26:12"
+  },
+  "StatTrak™ MP9 | Nexus (Minimal Wear)": {
+    "price": 0.65,
+    "date": "2026-01-16 03:26:12"
+  },
+  "MP9 | Nexus (Factory New)": {
+    "price": 1.62,
+    "date": "2026-01-16 03:26:12"
+  },
+  "StatTrak™ MP9 | Nexus (Factory New)": {
+    "price": 3.84,
+    "date": "2026-01-16 03:26:12"
+  },
+  "Nova | Rising Sun (Field-Tested)": {
+    "price": 0.88,
+    "date": "2026-01-16 03:27:04"
+  },
+  "Nova | Rising Sun (Well-Worn)": {
+    "price": 0.8,
+    "date": "2026-01-16 03:27:04"
+  },
+  "Nova | Rising Sun (Battle-Scarred)": {
+    "price": 0.74,
+    "date": "2026-01-16 03:27:04"
+  },
+  "Nova | Rising Sun (Minimal Wear)": {
+    "price": 1.98,
+    "date": "2026-01-16 03:27:04"
+  },
+  "StatTrak™ Nova | Rising Sun (Well-Worn)": {
+    "price": 1.18,
+    "date": "2026-01-16 03:27:04"
+  },
+  "StatTrak™ Nova | Rising Sun (Field-Tested)": {
+    "price": 1.31,
+    "date": "2026-01-16 03:27:04"
+  },
+  "Nova | Rising Sun (Factory New)": {
+    "price": 9.13,
+    "date": "2026-01-16 03:27:04"
+  },
+  "StatTrak™ Nova | Rising Sun (Minimal Wear)": {
+    "price": 3.07,
+    "date": "2026-01-16 03:27:04"
+  },
+  "StatTrak™ Nova | Rising Sun (Battle-Scarred)": {
+    "price": 1.17,
+    "date": "2026-01-16 03:27:04"
+  },
+  "StatTrak™ Nova | Rising Sun (Factory New)": {
+    "price": 13.03,
+    "date": "2026-01-16 03:27:04"
+  },
+  "P90 | Wave Breaker (Field-Tested)": {
+    "price": 0.81,
+    "date": "2026-01-16 03:27:43"
+  },
+  "P90 | Wave Breaker (Well-Worn)": {
+    "price": 0.8,
+    "date": "2026-01-16 03:27:43"
+  },
+  "P90 | Wave Breaker (Battle-Scarred)": {
+    "price": 0.77,
+    "date": "2026-01-16 03:27:43"
+  },
+  "P90 | Wave Breaker (Minimal Wear)": {
+    "price": 1.96,
+    "date": "2026-01-16 03:27:43"
+  },
+  "StatTrak™ P90 | Wave Breaker (Field-Tested)": {
+    "price": 1.45,
+    "date": "2026-01-16 03:27:43"
+  },
+  "P90 | Wave Breaker (Factory New)": {
+    "price": 9.26,
+    "date": "2026-01-16 03:27:43"
+  },
+  "StatTrak™ P90 | Wave Breaker (Minimal Wear)": {
+    "price": 2.67,
+    "date": "2026-01-16 03:27:43"
+  },
+  "StatTrak™ P90 | Wave Breaker (Well-Worn)": {
+    "price": 1.05,
+    "date": "2026-01-16 03:27:43"
+  },
+  "StatTrak™ P90 | Wave Breaker (Battle-Scarred)": {
+    "price": 1.06,
+    "date": "2026-01-16 03:27:43"
+  },
+  "StatTrak™ P90 | Wave Breaker (Factory New)": {
+    "price": 10.92,
+    "date": "2026-01-16 03:27:43"
+  },
+  "SSG 08 | Memorial (Battle-Scarred)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:28:20"
+  },
+  "SSG 08 | Memorial (Field-Tested)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:28:20"
+  },
+  "SSG 08 | Memorial (Well-Worn)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:28:20"
+  },
+  "SSG 08 | Memorial (Minimal Wear)": {
+    "price": 0.36,
+    "date": "2026-01-16 03:28:20"
+  },
+  "StatTrak™ SSG 08 | Memorial (Field-Tested)": {
+    "price": 0.35,
+    "date": "2026-01-16 03:28:20"
+  },
+  "StatTrak™ SSG 08 | Memorial (Minimal Wear)": {
+    "price": 0.96,
+    "date": "2026-01-16 03:28:20"
+  },
+  "StatTrak™ SSG 08 | Memorial (Well-Worn)": {
+    "price": 0.24,
+    "date": "2026-01-16 03:28:20"
+  },
+  "StatTrak™ SSG 08 | Memorial (Battle-Scarred)": {
+    "price": 0.24,
+    "date": "2026-01-16 03:28:20"
+  },
+  "SSG 08 | Memorial (Factory New)": {
+    "price": 1.72,
+    "date": "2026-01-16 03:28:20"
+  },
+  "StatTrak™ SSG 08 | Memorial (Factory New)": {
+    "price": 5.11,
+    "date": "2026-01-16 03:28:20"
+  },
+  "Zeus x27 | Tosai (Field-Tested)": {
+    "price": 0.76,
+    "date": "2026-01-16 03:28:59"
+  },
+  "Zeus x27 | Tosai (Minimal Wear)": {
+    "price": 1.4,
+    "date": "2026-01-16 03:28:59"
+  },
+  "StatTrak™ Zeus x27 | Tosai (Field-Tested)": {
+    "price": 1.28,
+    "date": "2026-01-16 03:28:59"
+  },
+  "Zeus x27 | Tosai (Battle-Scarred)": {
+    "price": 0.76,
+    "date": "2026-01-16 03:28:59"
+  },
+  "Zeus x27 | Tosai (Factory New)": {
+    "price": 4.44,
+    "date": "2026-01-16 03:28:59"
+  },
+  "StatTrak™ Zeus x27 | Tosai (Minimal Wear)": {
+    "price": 2.96,
+    "date": "2026-01-16 03:28:59"
+  },
+  "Zeus x27 | Tosai (Well-Worn)": {
+    "price": 0.71,
+    "date": "2026-01-16 03:28:59"
+  },
+  "StatTrak™ Zeus x27 | Tosai (Factory New)": {
+    "price": 6.68,
+    "date": "2026-01-16 03:28:59"
+  },
+  "StatTrak™ Zeus x27 | Tosai (Battle-Scarred)": {
+    "price": 1.3,
+    "date": "2026-01-16 03:28:59"
+  },
+  "StatTrak™ Zeus x27 | Tosai (Well-Worn)": {
+    "price": 1.65,
+    "date": "2026-01-16 03:28:59"
+  },
+  "UMP-45 | K.O. Factory (Field-Tested)": {
+    "price": 7.79,
+    "date": "2026-01-16 03:29:45"
+  },
+  "UMP-45 | K.O. Factory (Minimal Wear)": {
+    "price": 12.59,
+    "date": "2026-01-16 03:29:45"
+  },
+  "UMP-45 | K.O. Factory (Battle-Scarred)": {
+    "price": 6.71,
+    "date": "2026-01-16 03:29:45"
+  },
+  "UMP-45 | K.O. Factory (Well-Worn)": {
+    "price": 6.96,
+    "date": "2026-01-16 03:29:45"
+  },
+  "UMP-45 | K.O. Factory (Factory New)": {
+    "price": 40.32,
+    "date": "2026-01-16 03:29:45"
+  },
+  "StatTrak™ UMP-45 | K.O. Factory (Field-Tested)": {
+    "price": 9.32,
+    "date": "2026-01-16 03:29:45"
+  },
+  "StatTrak™ UMP-45 | K.O. Factory (Minimal Wear)": {
+    "price": 16.01,
+    "date": "2026-01-16 03:29:45"
+  },
+  "StatTrak™ UMP-45 | K.O. Factory (Well-Worn)": {
+    "price": 7.33,
+    "date": "2026-01-16 03:29:45"
+  },
+  "StatTrak™ UMP-45 | K.O. Factory (Battle-Scarred)": {
+    "price": 7.33,
+    "date": "2026-01-16 03:29:45"
+  },
+  "StatTrak™ UMP-45 | K.O. Factory (Factory New)": {
+    "price": 47.58,
+    "date": "2026-01-16 03:29:45"
+  },
+  "USP-S | PC-GRN (Field-Tested)": {
+    "price": 0.34,
+    "date": "2026-01-16 03:30:37"
+  },
+  "USP-S | PC-GRN (Battle-Scarred)": {
+    "price": 0.28,
+    "date": "2026-01-16 03:30:37"
+  },
+  "USP-S | PC-GRN (Minimal Wear)": {
+    "price": 0.51,
+    "date": "2026-01-16 03:30:37"
+  },
+  "USP-S | PC-GRN (Well-Worn)": {
+    "price": 0.38,
+    "date": "2026-01-16 03:30:37"
+  },
+  "StatTrak™ USP-S | PC-GRN (Field-Tested)": {
+    "price": 0.95,
+    "date": "2026-01-16 03:30:37"
+  },
+  "StatTrak™ USP-S | PC-GRN (Minimal Wear)": {
+    "price": 1.7,
+    "date": "2026-01-16 03:30:37"
+  },
+  "StatTrak™ USP-S | PC-GRN (Battle-Scarred)": {
+    "price": 0.8,
+    "date": "2026-01-16 03:30:37"
+  },
+  "USP-S | PC-GRN (Factory New)": {
+    "price": 2.25,
+    "date": "2026-01-16 03:30:37"
+  },
+  "StatTrak™ USP-S | PC-GRN (Well-Worn)": {
+    "price": 0.84,
+    "date": "2026-01-16 03:30:37"
+  },
+  "StatTrak™ USP-S | PC-GRN (Factory New)": {
+    "price": 7.56,
+    "date": "2026-01-16 03:30:37"
+  },
+  "XM1014 | Mockingbird (Well-Worn)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:31:29"
+  },
+  "XM1014 | Mockingbird (Battle-Scarred)": {
+    "price": 0.12,
+    "date": "2026-01-16 03:31:29"
+  },
+  "XM1014 | Mockingbird (Field-Tested)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:31:29"
+  },
+  "XM1014 | Mockingbird (Minimal Wear)": {
+    "price": 0.31,
+    "date": "2026-01-16 03:31:29"
+  },
+  "StatTrak™ XM1014 | Mockingbird (Field-Tested)": {
+    "price": 0.19,
+    "date": "2026-01-16 03:31:29"
+  },
+  "StatTrak™ XM1014 | Mockingbird (Well-Worn)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:31:29"
+  },
+  "StatTrak™ XM1014 | Mockingbird (Minimal Wear)": {
+    "price": 0.39,
+    "date": "2026-01-16 03:31:29"
+  },
+  "StatTrak™ XM1014 | Mockingbird (Battle-Scarred)": {
+    "price": 0.15,
+    "date": "2026-01-16 03:31:29"
+  },
+  "XM1014 | Mockingbird (Factory New)": {
+    "price": 1.4,
+    "date": "2026-01-16 03:31:29"
+  },
+  "StatTrak™ XM1014 | Mockingbird (Factory New)": {
+    "price": 2.71,
+    "date": "2026-01-16 03:31:29"
+  },
+  "AK-47 | The Oligarch (Field-Tested)": {
+    "price": 122.03,
+    "date": "2026-01-16 03:32:18"
+  },
+  "AK-47 | The Oligarch (Minimal Wear)": {
+    "price": 237.85,
+    "date": "2026-01-16 03:32:18"
+  },
+  "AK-47 | The Oligarch (Well-Worn)": {
+    "price": 83.52,
+    "date": "2026-01-16 03:32:18"
+  },
+  "AK-47 | The Oligarch (Battle-Scarred)": {
+    "price": 66.73,
+    "date": "2026-01-16 03:32:18"
+  },
+  "StatTrak™ AK-47 | The Oligarch (Minimal Wear)": {
+    "price": 442.98,
+    "date": "2026-01-16 03:32:18"
+  },
+  "StatTrak™ AK-47 | The Oligarch (Field-Tested)": {
+    "price": 229.13,
+    "date": "2026-01-16 03:32:18"
+  },
+  "StatTrak™ AK-47 | The Oligarch (Battle-Scarred)": {
+    "price": 126.5,
+    "date": "2026-01-16 03:32:18"
+  },
+  "AK-47 | The Oligarch (Factory New)": {
+    "price": 790.0,
+    "date": "2026-01-16 03:32:18"
+  },
+  "StatTrak™ AK-47 | The Oligarch (Well-Worn)": {
+    "price": 145.89,
+    "date": "2026-01-16 03:32:18"
+  },
+  "StatTrak™ AK-47 | The Oligarch (Factory New)": {
+    "price": 1400.59,
+    "date": "2026-01-16 03:32:18"
+  },
+  "AUG | Trigger Discipline (Well-Worn)": {
+    "price": 0.18,
+    "date": "2026-01-16 03:33:03"
+  },
+  "AUG | Trigger Discipline (Field-Tested)": {
+    "price": 0.25,
+    "date": "2026-01-16 03:33:03"
+  },
+  "AUG | Trigger Discipline (Battle-Scarred)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:33:03"
+  },
+  "AUG | Trigger Discipline (Minimal Wear)": {
+    "price": 0.46,
+    "date": "2026-01-16 03:33:03"
+  },
+  "AUG | Trigger Discipline (Factory New)": {
+    "price": 1.69,
+    "date": "2026-01-16 03:33:03"
+  },
+  "StatTrak™ AUG | Trigger Discipline (Field-Tested)": {
+    "price": 0.51,
+    "date": "2026-01-16 03:33:03"
+  },
+  "StatTrak™ AUG | Trigger Discipline (Minimal Wear)": {
+    "price": 0.95,
+    "date": "2026-01-16 03:33:03"
+  },
+  "StatTrak™ AUG | Trigger Discipline (Battle-Scarred)": {
+    "price": 0.3,
+    "date": "2026-01-16 03:33:03"
+  },
+  "StatTrak™ AUG | Trigger Discipline (Well-Worn)": {
+    "price": 0.37,
+    "date": "2026-01-16 03:33:03"
+  },
+  "StatTrak™ AUG | Trigger Discipline (Factory New)": {
+    "price": 2.78,
+    "date": "2026-01-16 03:33:03"
+  },
+  "AWP | Ice Coaled (Battle-Scarred)": {
+    "price": 10.55,
+    "date": "2026-01-16 03:33:40"
+  },
+  "AWP | Ice Coaled (Minimal Wear)": {
+    "price": 30.5,
+    "date": "2026-01-16 03:33:40"
+  },
+  "AWP | Ice Coaled (Field-Tested)": {
+    "price": 16.67,
+    "date": "2026-01-16 03:33:40"
+  },
+  "AWP | Ice Coaled (Well-Worn)": {
+    "price": 12.44,
+    "date": "2026-01-16 03:33:40"
+  },
+  "AWP | Ice Coaled (Factory New)": {
+    "price": 100.69,
+    "date": "2026-01-16 03:33:40"
+  },
+  "StatTrak™ AWP | Ice Coaled (Field-Tested)": {
+    "price": 31.56,
+    "date": "2026-01-16 03:33:40"
+  },
+  "StatTrak™ AWP | Ice Coaled (Battle-Scarred)": {
+    "price": 23.7,
+    "date": "2026-01-16 03:33:40"
+  },
+  "StatTrak™ AWP | Ice Coaled (Well-Worn)": {
+    "price": 25.02,
+    "date": "2026-01-16 03:33:40"
+  },
+  "StatTrak™ AWP | Ice Coaled (Minimal Wear)": {
+    "price": 56.17,
+    "date": "2026-01-16 03:33:40"
+  },
+  "StatTrak™ AWP | Ice Coaled (Factory New)": {
+    "price": 153.24,
+    "date": "2026-01-16 03:33:40"
+  },
+  "Dual Berettas | Angel Eyes (Field-Tested)": {
+    "price": 1.23,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Dual Berettas | Angel Eyes (Minimal Wear)": {
+    "price": 2.61,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Dual Berettas | Angel Eyes (Battle-Scarred)": {
+    "price": 0.89,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Dual Berettas | Angel Eyes (Well-Worn)": {
+    "price": 1.04,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Dual Berettas | Sweet Little Angels (Field-Tested)": {
+    "price": 6.45,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Dual Berettas | Angel Eyes (Factory New)": {
+    "price": 9.13,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Dual Berettas | Sweet Little Angels (Minimal Wear)": {
+    "price": 13.92,
+    "date": "2026-01-16 03:34:28"
+  },
+  "StatTrak™ Dual Berettas | Angel Eyes (Battle-Scarred)": {
+    "price": 1.87,
+    "date": "2026-01-16 03:34:28"
+  },
+  "StatTrak™ Dual Berettas | Angel Eyes (Minimal Wear)": {
+    "price": 4.55,
+    "date": "2026-01-16 03:34:28"
+  },
+  "StatTrak™ Dual Berettas | Angel Eyes (Field-Tested)": {
+    "price": 2.32,
+    "date": "2026-01-16 03:34:28"
+  },
+  "Glock-18 | Mirror Mosaic (Minimal Wear)": {
+    "price": 21.85,
+    "date": "2026-01-16 03:35:23"
+  },
+  "Glock-18 | Mirror Mosaic (Well-Worn)": {
+    "price": 9.93,
+    "date": "2026-01-16 03:35:23"
+  },
+  "Glock-18 | Mirror Mosaic (Field-Tested)": {
+    "price": 11.08,
+    "date": "2026-01-16 03:35:23"
+  },
+  "Glock-18 | Mirror Mosaic (Battle-Scarred)": {
+    "price": 7.76,
+    "date": "2026-01-16 03:35:23"
+  },
+  "Glock-18 | Mirror Mosaic (Factory New)": {
+    "price": 70.89,
+    "date": "2026-01-16 03:35:23"
+  },
+  "StatTrak™ Glock-18 | Mirror Mosaic (Minimal Wear)": {
+    "price": 45.14,
+    "date": "2026-01-16 03:35:23"
+  },
+  "StatTrak™ Glock-18 | Mirror Mosaic (Field-Tested)": {
+    "price": 23.11,
+    "date": "2026-01-16 03:35:23"
+  },
+  "StatTrak™ Glock-18 | Mirror Mosaic (Battle-Scarred)": {
+    "price": 15.14,
+    "date": "2026-01-16 03:35:23"
+  },
+  "StatTrak™ Glock-18 | Mirror Mosaic (Well-Worn)": {
+    "price": 15.33,
+    "date": "2026-01-16 03:35:23"
+  },
+  "StatTrak™ Glock-18 | Mirror Mosaic (Factory New)": {
+    "price": 109.08,
+    "date": "2026-01-16 03:35:23"
+  },
+  "P2000 | Red Wing (Well-Worn)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:36:14"
+  },
+  "P2000 | Red Wing (Field-Tested)": {
+    "price": 0.23,
+    "date": "2026-01-16 03:36:14"
+  },
+  "P2000 | Red Wing (Battle-Scarred)": {
+    "price": 0.12,
+    "date": "2026-01-16 03:36:14"
+  },
+  "P2000 | Red Wing (Minimal Wear)": {
+    "price": 0.46,
+    "date": "2026-01-16 03:36:14"
+  },
+  "P2000 | Red Wing (Factory New)": {
+    "price": 1.72,
+    "date": "2026-01-16 03:36:14"
+  },
+  "StatTrak™ P2000 | Red Wing (Field-Tested)": {
+    "price": 0.47,
+    "date": "2026-01-16 03:36:14"
+  },
+  "StatTrak™ P2000 | Red Wing (Minimal Wear)": {
+    "price": 0.93,
+    "date": "2026-01-16 03:36:14"
+  },
+  "StatTrak™ P2000 | Red Wing (Battle-Scarred)": {
+    "price": 0.29,
+    "date": "2026-01-16 03:36:14"
+  },
+  "StatTrak™ P2000 | Red Wing (Well-Worn)": {
+    "price": 0.36,
+    "date": "2026-01-16 03:36:14"
+  },
+  "StatTrak™ P2000 | Red Wing (Factory New)": {
+    "price": 2.69,
+    "date": "2026-01-16 03:36:14"
+  },
+  "M4A4 | Full Throttle (Field-Tested)": {
+    "price": 83.84,
+    "date": "2026-01-16 03:36:53"
+  },
+  "M4A4 | Full Throttle (Battle-Scarred)": {
+    "price": 49.76,
+    "date": "2026-01-16 03:36:53"
+  },
+  "M4A4 | Full Throttle (Well-Worn)": {
+    "price": 58.03,
+    "date": "2026-01-16 03:36:53"
+  },
+  "M4A4 | Full Throttle (Minimal Wear)": {
+    "price": 161.74,
+    "date": "2026-01-16 03:36:53"
+  },
+  "M4A4 | Full Throttle (Factory New)": {
+    "price": 509.25,
+    "date": "2026-01-16 03:36:53"
+  },
+  "StatTrak™ M4A4 | Full Throttle (Field-Tested)": {
+    "price": 138.46,
+    "date": "2026-01-16 03:36:53"
+  },
+  "StatTrak™ M4A4 | Full Throttle (Battle-Scarred)": {
+    "price": 84.14,
+    "date": "2026-01-16 03:36:53"
+  },
+  "StatTrak™ M4A4 | Full Throttle (Minimal Wear)": {
+    "price": 258.99,
+    "date": "2026-01-16 03:36:53"
+  },
+  "StatTrak™ M4A4 | Full Throttle (Well-Worn)": {
+    "price": 91.68,
+    "date": "2026-01-16 03:36:53"
+  },
+  "StatTrak™ M4A4 | Full Throttle (Factory New)": {
+    "price": 784.44,
+    "date": "2026-01-16 03:36:53"
+  },
+  "M4A1-S | Liquidation (Minimal Wear)": {
+    "price": 11.29,
+    "date": "2026-01-16 03:37:32"
+  },
+  "M4A1-S | Liquidation (Field-Tested)": {
+    "price": 5.67,
+    "date": "2026-01-16 03:37:32"
+  },
+  "M4A1-S | Liquidation (Battle-Scarred)": {
+    "price": 3.36,
+    "date": "2026-01-16 03:37:32"
+  },
+  "M4A1-S | Liquidation (Well-Worn)": {
+    "price": 3.84,
+    "date": "2026-01-16 03:37:32"
+  },
+  "M4A1-S | Liquidation (Factory New)": {
+    "price": 36.0,
+    "date": "2026-01-16 03:37:32"
+  },
+  "StatTrak™ M4A1-S | Liquidation (Field-Tested)": {
+    "price": 15.18,
+    "date": "2026-01-16 03:37:32"
+  },
+  "StatTrak™ M4A1-S | Liquidation (Battle-Scarred)": {
+    "price": 9.05,
+    "date": "2026-01-16 03:37:32"
+  },
+  "StatTrak™ M4A1-S | Liquidation (Minimal Wear)": {
+    "price": 28.0,
+    "date": "2026-01-16 03:37:32"
+  },
+  "StatTrak™ M4A1-S | Liquidation (Well-Worn)": {
+    "price": 10.3,
+    "date": "2026-01-16 03:37:32"
+  },
+  "StatTrak™ M4A1-S | Liquidation (Factory New)": {
+    "price": 69.29,
+    "date": "2026-01-16 03:37:32"
+  },
+  "MAC-10 | Cat Fight (Field-Tested)": {
+    "price": 1.35,
+    "date": "2026-01-16 03:38:11"
+  },
+  "MAC-10 | Cat Fight (Minimal Wear)": {
+    "price": 2.65,
+    "date": "2026-01-16 03:38:11"
+  },
+  "MAC-10 | Cat Fight (Well-Worn)": {
+    "price": 1.04,
+    "date": "2026-01-16 03:38:11"
+  },
+  "MAC-10 | Cat Fight (Battle-Scarred)": {
+    "price": 0.93,
+    "date": "2026-01-16 03:38:11"
+  },
+  "MAC-10 | Cat Fight (Factory New)": {
+    "price": 9.08,
+    "date": "2026-01-16 03:38:11"
+  },
+  "StatTrak™ MAC-10 | Cat Fight (Battle-Scarred)": {
+    "price": 2.13,
+    "date": "2026-01-16 03:38:11"
+  },
+  "StatTrak™ MAC-10 | Cat Fight (Minimal Wear)": {
+    "price": 5.0,
+    "date": "2026-01-16 03:38:11"
+  },
+  "StatTrak™ MAC-10 | Cat Fight (Field-Tested)": {
+    "price": 2.76,
+    "date": "2026-01-16 03:38:11"
+  },
+  "StatTrak™ MAC-10 | Cat Fight (Well-Worn)": {
+    "price": 2.22,
+    "date": "2026-01-16 03:38:11"
+  },
+  "StatTrak™ MAC-10 | Cat Fight (Factory New)": {
+    "price": 12.7,
+    "date": "2026-01-16 03:38:11"
+  },
+  "MAG-7 | MAGnitude (Well-Worn)": {
+    "price": 0.16,
+    "date": "2026-01-16 03:38:50"
+  },
+  "MAG-7 | MAGnitude (Minimal Wear)": {
+    "price": 0.46,
+    "date": "2026-01-16 03:38:50"
+  },
+  "MAG-7 | MAGnitude (Field-Tested)": {
+    "price": 0.23,
+    "date": "2026-01-16 03:38:50"
+  },
+  "MAG-7 | MAGnitude (Battle-Scarred)": {
+    "price": 0.13,
+    "date": "2026-01-16 03:38:50"
+  },
+  "MAG-7 | MAGnitude (Factory New)": {
+    "price": 1.66,
+    "date": "2026-01-16 03:38:50"
+  },
+  "StatTrak™ MAG-7 | MAGnitude (Minimal Wear)": {
+    "price": 0.93,
+    "date": "2026-01-16 03:38:50"
+  },
+  "StatTrak™ MAG-7 | MAGnitude (Battle-Scarred)": {
+    "price": 0.29,
+    "date": "2026-01-16 03:38:50"
+  },
+  "StatTrak™ MAG-7 | MAGnitude (Field-Tested)": {
+    "price": 0.49,
+    "date": "2026-01-16 03:38:50"
+  },
+  "StatTrak™ MAG-7 | MAGnitude (Factory New)": {
+    "price": 2.55,
+    "date": "2026-01-16 03:38:50"
+  },
+  "StatTrak™ MAG-7 | MAGnitude (Well-Worn)": {
+    "price": 0.38,
+    "date": "2026-01-16 03:38:50"
+  },
+  "MP5-SD | Focus (Well-Worn)": {
+    "price": 0.17,
+    "date": "2026-01-16 03:39:29"
+  },
+  "MP5-SD | Focus (Minimal Wear)": {
+    "price": 0.46,
+    "date": "2026-01-16 03:39:29"
+  },
+  "MP5-SD | Focus (Field-Tested)": {
+    "price": 0.23,
+    "date": "2026-01-16 03:39:29"
+  },
+  "MP5-SD | Focus (Battle-Scarred)": {
+    "price": 0.12,
+    "date": "2026-01-16 03:39:29"
+  },
+  "MP5-SD | Focus (Factory New)": {
+    "price": 1.65,
+    "date": "2026-01-16 03:39:29"
+  },
+  "StatTrak™ MP5-SD | Focus (Field-Tested)": {
+    "price": 0.49,
+    "date": "2026-01-16 03:39:29"
+  },
+  "StatTrak™ MP5-SD | Focus (Minimal Wear)": {
+    "price": 0.94,
+    "date": "2026-01-16 03:39:29"
+  },
+  "StatTrak™ MP5-SD | Focus (Battle-Scarred)": {
+    "price": 0.29,
+    "date": "2026-01-16 03:39:29"
+  },
+  "StatTrak™ MP5-SD | Focus (Well-Worn)": {
+    "price": 0.36,
+    "date": "2026-01-16 03:39:29"
+  },
+  "StatTrak™ MP5-SD | Focus (Factory New)": {
+    "price": 2.57,
+    "date": "2026-01-16 03:39:29"
   }
 }
