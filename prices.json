@@ -10119,46 +10119,6 @@
     "price": 437.01,
     "date": "2026-01-15 22:57:58"
   },
-  "★ Kukri Knife | Case Hardened (Field-Tested)": {
-    "price": 169.94,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Kukri Knife | Case Hardened (Well-Worn)": {
-    "price": 155.25,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Kukri Knife | Case Hardened (Battle-Scarred)": {
-    "price": 156.49,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Kukri Knife | Case Hardened (Minimal Wear)": {
-    "price": 197.7,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Survival Knife | Case Hardened (Field-Tested)": {
-    "price": 139.81,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Survival Knife | Case Hardened (Minimal Wear)": {
-    "price": 161.97,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Paracord Knife | Case Hardened (Field-Tested)": {
-    "price": 151.06,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Paracord Knife | Case Hardened (Well-Worn)": {
-    "price": 150.66,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Nomad Knife | Case Hardened (Field-Tested)": {
-    "price": 241.5,
-    "date": "2026-01-15 22:58:40"
-  },
-  "★ Paracord Knife | Case Hardened (Minimal Wear)": {
-    "price": 188.46,
-    "date": "2026-01-15 22:58:40"
-  },
   "★ Navaja Knife | Rust Coat (Battle-Scarred)": {
     "price": 65.26,
     "date": "2026-01-15 22:59:29"
@@ -10473,10 +10433,50 @@
   },
   "★ Stiletto Knife | Doppler (Factory New)": {
     "price": 680.47,
-    "date": "2026-01-15 23:08:52"
+    "date": "2026-01-15 23:09:37"
   },
   "★ Stiletto Knife | Doppler (Minimal Wear)": {
     "price": 733.32,
-    "date": "2026-01-15 23:08:52"
+    "date": "2026-01-15 23:09:37"
+  },
+  "★ Kukri Knife | Case Hardened (Field-Tested)": {
+    "price": 169.46,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Kukri Knife | Case Hardened (Well-Worn)": {
+    "price": 162.75,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Kukri Knife | Case Hardened (Battle-Scarred)": {
+    "price": 153.57,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Kukri Knife | Case Hardened (Minimal Wear)": {
+    "price": 196.81,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Survival Knife | Case Hardened (Field-Tested)": {
+    "price": 140.19,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Survival Knife | Case Hardened (Minimal Wear)": {
+    "price": 160.65,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Paracord Knife | Case Hardened (Field-Tested)": {
+    "price": 149.73,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Paracord Knife | Case Hardened (Well-Worn)": {
+    "price": 149.81,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Nomad Knife | Case Hardened (Field-Tested)": {
+    "price": 241.5,
+    "date": "2026-01-16 02:39:01"
+  },
+  "★ Paracord Knife | Case Hardened (Minimal Wear)": {
+    "price": 188.63,
+    "date": "2026-01-16 02:39:01"
   }
 }
