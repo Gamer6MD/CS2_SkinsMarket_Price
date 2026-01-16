@@ -28038,5 +28038,273 @@
   "G3SG1 | New Roots (Battle-Scarred)": {
     "price": 24.04,
     "date": "2026-01-16 10:45:50"
+  },
+  "Galil AR | Amber Fade (Factory New)": {
+    "price": 42.97,
+    "date": "2026-01-16 10:46:47"
+  },
+  "Galil AR | Amber Fade (Field-Tested)": {
+    "price": 28.26,
+    "date": "2026-01-16 10:46:47"
+  },
+  "Galil AR | Amber Fade (Minimal Wear)": {
+    "price": 28.53,
+    "date": "2026-01-16 10:46:47"
+  },
+  "Galil AR | Amber Fade (Well-Worn)": {
+    "price": 28.64,
+    "date": "2026-01-16 10:46:47"
+  },
+  "M249 | Midnight Palm (Field-Tested)": {
+    "price": 3.41,
+    "date": "2026-01-16 10:47:35"
+  },
+  "M249 | Midnight Palm (Factory New)": {
+    "price": 5.3,
+    "date": "2026-01-16 10:47:35"
+  },
+  "M249 | Midnight Palm (Minimal Wear)": {
+    "price": 3.96,
+    "date": "2026-01-16 10:47:35"
+  },
+  "M249 | Midnight Palm (Well-Worn)": {
+    "price": 4.0,
+    "date": "2026-01-16 10:47:35"
+  },
+  "M249 | Midnight Palm (Battle-Scarred)": {
+    "price": 3.65,
+    "date": "2026-01-16 10:47:35"
+  },
+  "M4A4 | Red DDPAT (Field-Tested)": {
+    "price": 111.68,
+    "date": "2026-01-16 10:48:23"
+  },
+  "M4A4 | Red DDPAT (Factory New)": {
+    "price": 447.82,
+    "date": "2026-01-16 10:48:23"
+  },
+  "M4A4 | Red DDPAT (Minimal Wear)": {
+    "price": 120.0,
+    "date": "2026-01-16 10:48:23"
+  },
+  "M4A4 | Red DDPAT (Well-Worn)": {
+    "price": 280.03,
+    "date": "2026-01-16 10:48:23"
+  },
+  "M4A4 | Red DDPAT (Battle-Scarred)": {
+    "price": 203.67,
+    "date": "2026-01-16 10:48:23"
+  },
+  "MAC-10 | Case Hardened (Minimal Wear)": {
+    "price": 121.83,
+    "date": "2026-01-16 10:55:07"
+  },
+  "MAC-10 | Case Hardened (Factory New)": {
+    "price": 213.94,
+    "date": "2026-01-16 10:55:07"
+  },
+  "MAC-10 | Case Hardened (Well-Worn)": {
+    "price": 102.36,
+    "date": "2026-01-16 10:55:07"
+  },
+  "MAC-10 | Case Hardened (Field-Tested)": {
+    "price": 113.57,
+    "date": "2026-01-16 10:55:07"
+  },
+  "MAC-10 | Case Hardened (Battle-Scarred)": {
+    "price": 114.56,
+    "date": "2026-01-16 10:55:07"
+  },
+  "MP7 | Prey (Field-Tested)": {
+    "price": 0.58,
+    "date": "2026-01-16 10:59:33"
+  },
+  "MP7 | Prey (Minimal Wear)": {
+    "price": 0.61,
+    "date": "2026-01-16 10:59:33"
+  },
+  "MP7 | Prey (Factory New)": {
+    "price": 0.87,
+    "date": "2026-01-16 10:59:33"
+  },
+  "MP7 | Prey (Well-Worn)": {
+    "price": 2.92,
+    "date": "2026-01-16 10:59:33"
+  },
+  "MP7 | Prey (Battle-Scarred)": {
+    "price": 3.59,
+    "date": "2026-01-16 10:59:33"
+  },
+  "MP9 | Old Roots (Minimal Wear)": {
+    "price": 4.29,
+    "date": "2026-01-16 11:05:10"
+  },
+  "MP9 | Old Roots (Factory New)": {
+    "price": 5.72,
+    "date": "2026-01-16 11:05:10"
+  },
+  "MP9 | Old Roots (Field-Tested)": {
+    "price": 4.42,
+    "date": "2026-01-16 11:05:10"
+  },
+  "MP9 | Old Roots (Well-Worn)": {
+    "price": 3.68,
+    "date": "2026-01-16 11:05:10"
+  },
+  "MP9 | Old Roots (Battle-Scarred)": {
+    "price": 4.62,
+    "date": "2026-01-16 11:05:10"
+  },
+  "Nova | Quick Sand (Minimal Wear)": {
+    "price": 23.46,
+    "date": "2026-01-16 11:11:03"
+  },
+  "Nova | Quick Sand (Field-Tested)": {
+    "price": 19.73,
+    "date": "2026-01-16 11:11:03"
+  },
+  "Nova | Quick Sand (Factory New)": {
+    "price": 29.13,
+    "date": "2026-01-16 11:11:03"
+  },
+  "Nova | Quick Sand (Well-Worn)": {
+    "price": 22.82,
+    "date": "2026-01-16 11:11:03"
+  },
+  "Nova | Quick Sand (Battle-Scarred)": {
+    "price": 42.28,
+    "date": "2026-01-16 11:11:03"
+  },
+  "P250 | Black & Tan (Minimal Wear)": {
+    "price": 27.6,
+    "date": "2026-01-16 11:12:49"
+  },
+  "P250 | Black & Tan (Field-Tested)": {
+    "price": 20.5,
+    "date": "2026-01-16 11:12:49"
+  },
+  "P250 | Black & Tan (Factory New)": {
+    "price": 28.49,
+    "date": "2026-01-16 11:12:49"
+  },
+  "P250 | Black & Tan (Well-Worn)": {
+    "price": 55.0,
+    "date": "2026-01-16 11:12:49"
+  },
+  "P250 | Black & Tan (Battle-Scarred)": {
+    "price": 25.39,
+    "date": "2026-01-16 11:12:49"
+  },
+  "P90 | Desert DDPAT (Field-Tested)": {
+    "price": 0.59,
+    "date": "2026-01-16 11:13:37"
+  },
+  "P90 | Desert DDPAT (Factory New)": {
+    "price": 0.85,
+    "date": "2026-01-16 11:13:37"
+  },
+  "P90 | Desert DDPAT (Minimal Wear)": {
+    "price": 0.6,
+    "date": "2026-01-16 11:13:37"
+  },
+  "P90 | Desert DDPAT (Battle-Scarred)": {
+    "price": 0.57,
+    "date": "2026-01-16 11:13:37"
+  },
+  "P90 | Desert DDPAT (Well-Worn)": {
+    "price": 0.62,
+    "date": "2026-01-16 11:13:37"
+  },
+  "R8 Revolver | Desert Brush (Field-Tested)": {
+    "price": 0.58,
+    "date": "2026-01-16 11:14:30"
+  },
+  "R8 Revolver | Desert Brush (Minimal Wear)": {
+    "price": 0.7,
+    "date": "2026-01-16 11:14:30"
+  },
+  "R8 Revolver | Desert Brush (Factory New)": {
+    "price": 0.93,
+    "date": "2026-01-16 11:14:30"
+  },
+  "R8 Revolver | Desert Brush (Battle-Scarred)": {
+    "price": 0.59,
+    "date": "2026-01-16 11:14:30"
+  },
+  "R8 Revolver | Desert Brush (Well-Worn)": {
+    "price": 1.85,
+    "date": "2026-01-16 11:14:30"
+  },
+  "Sawed-Off | Parched (Field-Tested)": {
+    "price": 0.59,
+    "date": "2026-01-16 11:15:19"
+  },
+  "Sawed-Off | Parched (Factory New)": {
+    "price": 0.88,
+    "date": "2026-01-16 11:15:19"
+  },
+  "Sawed-Off | Parched (Minimal Wear)": {
+    "price": 0.72,
+    "date": "2026-01-16 11:15:19"
+  },
+  "Sawed-Off | Parched (Battle-Scarred)": {
+    "price": 0.61,
+    "date": "2026-01-16 11:15:19"
+  },
+  "Sawed-Off | Parched (Well-Worn)": {
+    "price": 0.66,
+    "date": "2026-01-16 11:15:19"
+  },
+  "SG 553 | Bleached (Field-Tested)": {
+    "price": 0.6,
+    "date": "2026-01-16 11:16:04"
+  },
+  "SG 553 | Bleached (Factory New)": {
+    "price": 0.81,
+    "date": "2026-01-16 11:16:04"
+  },
+  "SG 553 | Bleached (Minimal Wear)": {
+    "price": 0.64,
+    "date": "2026-01-16 11:16:04"
+  },
+  "SG 553 | Bleached (Battle-Scarred)": {
+    "price": 0.58,
+    "date": "2026-01-16 11:16:04"
+  },
+  "SG 553 | Bleached (Well-Worn)": {
+    "price": 0.7,
+    "date": "2026-01-16 11:16:04"
+  },
+  "SSG 08 | Death's Head (Factory New)": {
+    "price": 55.83,
+    "date": "2026-01-16 11:16:50"
+  },
+  "SSG 08 | Death's Head (Field-Tested)": {
+    "price": 38.41,
+    "date": "2026-01-16 11:16:50"
+  },
+  "SSG 08 | Death's Head (Minimal Wear)": {
+    "price": 46.29,
+    "date": "2026-01-16 11:16:50"
+  },
+  "StatTrak™ SSG 08 | Death's Head (Factory New)": {
+    "price": 42.79,
+    "date": "2026-01-16 11:16:50"
+  },
+  "SSG 08 | Death's Head (Battle-Scarred)": {
+    "price": 40.04,
+    "date": "2026-01-16 11:16:50"
+  },
+  "StatTrak™ SSG 08 | Death's Head (Field-Tested)": {
+    "price": 25.12,
+    "date": "2026-01-16 11:16:50"
+  },
+  "StatTrak™ SSG 08 | Death's Head (Minimal Wear)": {
+    "price": 32.0,
+    "date": "2026-01-16 11:16:50"
+  },
+  "StatTrak™ SSG 08 | Death's Head (Well-Worn)": {
+    "price": 24.19,
+    "date": "2026-01-16 11:16:50"
   }
 }
