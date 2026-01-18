@@ -9883,826 +9883,6 @@
     "price": 12.58,
     "date": "2026-01-16 21:22:12"
   },
-  "MP9 | Orange Peel (Field-Tested)": {
-    "price": 0.06,
-    "date": "2026-01-16 21:23:48"
-  },
-  "MP9 | Orange Peel (Battle-Scarred)": {
-    "price": 0.05,
-    "date": "2026-01-16 21:23:48"
-  },
-  "MP9 | Orange Peel (Well-Worn)": {
-    "price": 0.06,
-    "date": "2026-01-16 21:23:48"
-  },
-  "MP9 | Orange Peel (Minimal Wear)": {
-    "price": 0.13,
-    "date": "2026-01-16 21:23:48"
-  },
-  "MP9 | Orange Peel (Factory New)": {
-    "price": 2.64,
-    "date": "2026-01-16 21:23:48"
-  },
-  "MP7 | Orange Peel (Field-Tested)": {
-    "price": 33.21,
-    "date": "2026-01-16 21:23:48"
-  },
-  "SCAR-20 | Contractor (Field-Tested)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:24:41"
-  },
-  "SCAR-20 | Contractor (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:24:41"
-  },
-  "Dual Berettas | Contractor (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:24:41"
-  },
-  "SCAR-20 | Contractor (Minimal Wear)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:24:41"
-  },
-  "SCAR-20 | Contractor (Well-Worn)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:24:41"
-  },
-  "AUG | Contractor (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:24:41"
-  },
-  "SCAR-20 | Contractor (Factory New)": {
-    "price": 0.24,
-    "date": "2026-01-16 21:24:41"
-  },
-  "Five-SeveN | Contractor (Battle-Scarred)": {
-    "price": 4.65,
-    "date": "2026-01-16 21:24:41"
-  },
-  "SSG 08 | Acid Fade (Factory New)": {
-    "price": 0.85,
-    "date": "2026-01-16 21:25:43"
-  },
-  "SSG 08 | Blue Spruce (Field-Tested)": {
-    "price": 0.04,
-    "date": "2026-01-16 21:26:30"
-  },
-  "SSG 08 | Blue Spruce (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:26:30"
-  },
-  "SSG 08 | Blue Spruce (Minimal Wear)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:26:30"
-  },
-  "SSG 08 | Blue Spruce (Well-Worn)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:26:30"
-  },
-  "SSG 08 | Blue Spruce (Factory New)": {
-    "price": 0.29,
-    "date": "2026-01-16 21:26:30"
-  },
-  "Tec-9 | Army Mesh (Battle-Scarred)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:27:15"
-  },
-  "Tec-9 | Army Mesh (Factory New)": {
-    "price": 0.05,
-    "date": "2026-01-16 21:27:15"
-  },
-  "Tec-9 | Army Mesh (Well-Worn)": {
-    "price": 0.03,
-    "date": "2026-01-16 21:27:15"
-  },
-  "USP-S | Forest Leaves (Field-Tested)": {
-    "price": 0.07,
-    "date": "2026-01-16 21:28:09"
-  },
-  "USP-S | Forest Leaves (Battle-Scarred)": {
-    "price": 0.08,
-    "date": "2026-01-16 21:28:09"
-  },
-  "USP-S | Forest Leaves (Well-Worn)": {
-    "price": 0.07,
-    "date": "2026-01-16 21:28:09"
-  },
-  "USP-S | Forest Leaves (Minimal Wear)": {
-    "price": 0.18,
-    "date": "2026-01-16 21:28:09"
-  },
-  "USP-S | Forest Leaves (Factory New)": {
-    "price": 3.85,
-    "date": "2026-01-16 21:28:09"
-  },
-  "AUG | Radiation Hazard (Field-Tested)": {
-    "price": 8.48,
-    "date": "2026-01-16 21:29:01"
-  },
-  "AUG | Radiation Hazard (Factory New)": {
-    "price": 16.49,
-    "date": "2026-01-16 21:29:01"
-  },
-  "AUG | Radiation Hazard (Minimal Wear)": {
-    "price": 12.7,
-    "date": "2026-01-16 21:29:01"
-  },
-  "AUG | Radiation Hazard (Well-Worn)": {
-    "price": 4.52,
-    "date": "2026-01-16 21:29:01"
-  },
-  "AUG | Radiation Hazard (Battle-Scarred)": {
-    "price": 8.69,
-    "date": "2026-01-16 21:29:01"
-  },
-  "PP-Bizon | Chemical Green (Field-Tested)": {
-    "price": 7.91,
-    "date": "2026-01-16 21:29:48"
-  },
-  "PP-Bizon | Chemical Green (Minimal Wear)": {
-    "price": 12.85,
-    "date": "2026-01-16 21:29:48"
-  },
-  "PP-Bizon | Chemical Green (Battle-Scarred)": {
-    "price": 4.79,
-    "date": "2026-01-16 21:29:48"
-  },
-  "PP-Bizon | Chemical Green (Factory New)": {
-    "price": 26.73,
-    "date": "2026-01-16 21:29:48"
-  },
-  "PP-Bizon | Chemical Green (Well-Worn)": {
-    "price": 9.2,
-    "date": "2026-01-16 21:29:48"
-  },
-  "FAMAS | Styx (Field-Tested)": {
-    "price": 23.57,
-    "date": "2026-01-16 21:30:33"
-  },
-  "FAMAS | Styx (Factory New)": {
-    "price": 126.78,
-    "date": "2026-01-16 21:30:33"
-  },
-  "FAMAS | Styx (Minimal Wear)": {
-    "price": 47.93,
-    "date": "2026-01-16 21:30:33"
-  },
-  "FAMAS | Styx (Battle-Scarred)": {
-    "price": 24.16,
-    "date": "2026-01-16 21:30:33"
-  },
-  "FAMAS | Styx (Well-Worn)": {
-    "price": 21.96,
-    "date": "2026-01-16 21:30:33"
-  },
-  "Five-SeveN | Hot Shot (Minimal Wear)": {
-    "price": 16.53,
-    "date": "2026-01-16 21:31:17"
-  },
-  "Five-SeveN | Hot Shot (Battle-Scarred)": {
-    "price": 6.39,
-    "date": "2026-01-16 21:31:17"
-  },
-  "Five-SeveN | Hot Shot (Well-Worn)": {
-    "price": 9.0,
-    "date": "2026-01-16 21:31:17"
-  },
-  "Five-SeveN | Hot Shot (Field-Tested)": {
-    "price": 10.89,
-    "date": "2026-01-16 21:31:17"
-  },
-  "Five-SeveN | Hot Shot (Factory New)": {
-    "price": 53.7,
-    "date": "2026-01-16 21:31:17"
-  },
-  "Galil AR | Cerberus (Field-Tested)": {
-    "price": 70.76,
-    "date": "2026-01-16 21:32:11"
-  },
-  "Galil AR | Cerberus (Minimal Wear)": {
-    "price": 172.73,
-    "date": "2026-01-16 21:32:11"
-  },
-  "Galil AR | Cerberus (Factory New)": {
-    "price": 515.13,
-    "date": "2026-01-16 21:32:11"
-  },
-  "Galil AR | Cerberus (Well-Worn)": {
-    "price": 50.57,
-    "date": "2026-01-16 21:32:11"
-  },
-  "Galil AR | Cerberus (Battle-Scarred)": {
-    "price": 42.93,
-    "date": "2026-01-16 21:32:11"
-  },
-  "Glock-18 | Reactor (Field-Tested)": {
-    "price": 23.95,
-    "date": "2026-01-16 21:33:00"
-  },
-  "Glock-18 | Reactor (Well-Worn)": {
-    "price": 21.96,
-    "date": "2026-01-16 21:33:00"
-  },
-  "Glock-18 | Reactor (Minimal Wear)": {
-    "price": 36.6,
-    "date": "2026-01-16 21:33:00"
-  },
-  "Glock-18 | Reactor (Factory New)": {
-    "price": 150.0,
-    "date": "2026-01-16 21:33:00"
-  },
-  "Glock-18 | Reactor (Battle-Scarred)": {
-    "price": 18.89,
-    "date": "2026-01-16 21:33:00"
-  },
-  "MAC-10 | Nuclear Garden (Minimal Wear)": {
-    "price": 29.9,
-    "date": "2026-01-16 21:33:58"
-  },
-  "MAC-10 | Nuclear Garden (Field-Tested)": {
-    "price": 22.65,
-    "date": "2026-01-16 21:33:58"
-  },
-  "MAC-10 | Nuclear Garden (Factory New)": {
-    "price": 52.23,
-    "date": "2026-01-16 21:33:58"
-  },
-  "MAC-10 | Nuclear Garden (Well-Worn)": {
-    "price": 20.5,
-    "date": "2026-01-16 21:33:58"
-  },
-  "MAC-10 | Nuclear Garden (Battle-Scarred)": {
-    "price": 19.97,
-    "date": "2026-01-16 21:33:58"
-  },
-  "MP9 | Setting Sun (Factory New)": {
-    "price": 557.01,
-    "date": "2026-01-16 21:34:51"
-  },
-  "MP9 | Setting Sun (Field-Tested)": {
-    "price": 61.1,
-    "date": "2026-01-16 21:34:51"
-  },
-  "MP9 | Setting Sun (Well-Worn)": {
-    "price": 20.89,
-    "date": "2026-01-16 21:34:51"
-  },
-  "MP9 | Setting Sun (Minimal Wear)": {
-    "price": 97.48,
-    "date": "2026-01-16 21:34:51"
-  },
-  "MP9 | Setting Sun (Battle-Scarred)": {
-    "price": 19.1,
-    "date": "2026-01-16 21:34:51"
-  },
-  "Negev | Nuclear Waste (Field-Tested)": {
-    "price": 6.99,
-    "date": "2026-01-16 21:35:43"
-  },
-  "Negev | Nuclear Waste (Minimal Wear)": {
-    "price": 11.59,
-    "date": "2026-01-16 21:35:43"
-  },
-  "Negev | Nuclear Waste (Factory New)": {
-    "price": 17.41,
-    "date": "2026-01-16 21:35:43"
-  },
-  "Negev | Nuclear Waste (Well-Worn)": {
-    "price": 8.14,
-    "date": "2026-01-16 21:35:43"
-  },
-  "SG 553 | Fallout Warning (Field-Tested)": {
-    "price": 8.0,
-    "date": "2026-01-16 21:37:15"
-  },
-  "SG 553 | Fallout Warning (Minimal Wear)": {
-    "price": 11.9,
-    "date": "2026-01-16 21:37:15"
-  },
-  "SG 553 | Fallout Warning (Battle-Scarred)": {
-    "price": 5.7,
-    "date": "2026-01-16 21:37:15"
-  },
-  "SG 553 | Fallout Warning (Factory New)": {
-    "price": 16.26,
-    "date": "2026-01-16 21:37:15"
-  },
-  "SG 553 | Fallout Warning (Well-Worn)": {
-    "price": 9.85,
-    "date": "2026-01-16 21:37:15"
-  },
-  "Tec-9 | Toxic (Field-Tested)": {
-    "price": 20.02,
-    "date": "2026-01-16 21:37:56"
-  },
-  "Tec-9 | Toxic (Minimal Wear)": {
-    "price": 28.46,
-    "date": "2026-01-16 21:37:56"
-  },
-  "Tec-9 | Toxic (Factory New)": {
-    "price": 44.0,
-    "date": "2026-01-16 21:37:56"
-  },
-  "Tec-9 | Toxic (Battle-Scarred)": {
-    "price": 14.89,
-    "date": "2026-01-16 21:37:56"
-  },
-  "Tec-9 | Toxic (Well-Worn)": {
-    "price": 17.34,
-    "date": "2026-01-16 21:37:56"
-  },
-  "XM1014 | Bone Machine (Factory New)": {
-    "price": 30.17,
-    "date": "2026-01-16 21:38:38"
-  },
-  "XM1014 | Bone Machine (Minimal Wear)": {
-    "price": 27.26,
-    "date": "2026-01-16 21:38:38"
-  },
-  "XM1014 | Bone Machine (Field-Tested)": {
-    "price": 20.67,
-    "date": "2026-01-16 21:38:38"
-  },
-  "XM1014 | Bone Machine (Battle-Scarred)": {
-    "price": 19.98,
-    "date": "2026-01-16 21:38:38"
-  },
-  "XM1014 | Bone Machine (Well-Worn)": {
-    "price": 17.78,
-    "date": "2026-01-16 21:38:38"
-  },
-  "AWP | Redline (Field-Tested)": {
-    "price": 53.31,
-    "date": "2026-01-16 21:39:33"
-  },
-  "AWP | Redline (Minimal Wear)": {
-    "price": 117.5,
-    "date": "2026-01-16 21:39:33"
-  },
-  "StatTrak™ AWP | Redline (Field-Tested)": {
-    "price": 124.74,
-    "date": "2026-01-16 21:39:33"
-  },
-  "StatTrak™ AWP | Redline (Minimal Wear)": {
-    "price": 207.73,
-    "date": "2026-01-16 21:39:33"
-  },
-  "AWP | Redline (Well-Worn)": {
-    "price": 65.41,
-    "date": "2026-01-16 21:39:33"
-  },
-  "StatTrak™ AWP | Redline (Well-Worn)": {
-    "price": 159.52,
-    "date": "2026-01-16 21:39:33"
-  },
-  "StatTrak™ PP-Bizon | Cobalt Halftone (Field-Tested)": {
-    "price": 2.15,
-    "date": "2026-01-16 21:40:15"
-  },
-  "StatTrak™ PP-Bizon | Cobalt Halftone (Minimal Wear)": {
-    "price": 2.68,
-    "date": "2026-01-16 21:40:15"
-  },
-  "PP-Bizon | Cobalt Halftone (Minimal Wear)": {
-    "price": 1.5,
-    "date": "2026-01-16 21:40:15"
-  },
-  "StatTrak™ PP-Bizon | Cobalt Halftone (Well-Worn)": {
-    "price": 1.74,
-    "date": "2026-01-16 21:40:15"
-  },
-  "PP-Bizon | Cobalt Halftone (Field-Tested)": {
-    "price": 1.06,
-    "date": "2026-01-16 21:40:15"
-  },
-  "PP-Bizon | Cobalt Halftone (Factory New)": {
-    "price": 4.95,
-    "date": "2026-01-16 21:40:15"
-  },
-  "PP-Bizon | Cobalt Halftone (Well-Worn)": {
-    "price": 1.15,
-    "date": "2026-01-16 21:40:15"
-  },
-  "StatTrak™ PP-Bizon | Cobalt Halftone (Factory New)": {
-    "price": 4.68,
-    "date": "2026-01-16 21:40:15"
-  },
-  "Dual Berettas | Marina (Minimal Wear)": {
-    "price": 10.01,
-    "date": "2026-01-16 21:41:03"
-  },
-  "Dual Berettas | Marina (Field-Tested)": {
-    "price": 6.03,
-    "date": "2026-01-16 21:41:03"
-  },
-  "StatTrak™ Dual Berettas | Marina (Field-Tested)": {
-    "price": 9.69,
-    "date": "2026-01-16 21:41:03"
-  },
-  "StatTrak™ Dual Berettas | Marina (Minimal Wear)": {
-    "price": 15.0,
-    "date": "2026-01-16 21:41:03"
-  },
-  "Dual Berettas | Marina (Factory New)": {
-    "price": 48.13,
-    "date": "2026-01-16 21:41:03"
-  },
-  "Dual Berettas | Marina (Battle-Scarred)": {
-    "price": 6.85,
-    "date": "2026-01-16 21:41:03"
-  },
-  "Dual Berettas | Marina (Well-Worn)": {
-    "price": 6.99,
-    "date": "2026-01-16 21:41:03"
-  },
-  "StatTrak™ Dual Berettas | Marina (Factory New)": {
-    "price": 68.72,
-    "date": "2026-01-16 21:41:03"
-  },
-  "StatTrak™ Dual Berettas | Marina (Battle-Scarred)": {
-    "price": 12.01,
-    "date": "2026-01-16 21:41:03"
-  },
-  "StatTrak™ Dual Berettas | Marina (Well-Worn)": {
-    "price": 12.8,
-    "date": "2026-01-16 21:41:03"
-  },
-  "FAMAS | Pulse (Factory New)": {
-    "price": 19.97,
-    "date": "2026-01-16 21:41:44"
-  },
-  "FAMAS | Pulse (Minimal Wear)": {
-    "price": 12.85,
-    "date": "2026-01-16 21:41:44"
-  },
-  "FAMAS | Pulse (Field-Tested)": {
-    "price": 10.83,
-    "date": "2026-01-16 21:41:44"
-  },
-  "StatTrak™ FAMAS | Pulse (Factory New)": {
-    "price": 28.0,
-    "date": "2026-01-16 21:41:44"
-  },
-  "StatTrak™ FAMAS | Pulse (Field-Tested)": {
-    "price": 16.53,
-    "date": "2026-01-16 21:41:44"
-  },
-  "StatTrak™ FAMAS | Pulse (Minimal Wear)": {
-    "price": 16.04,
-    "date": "2026-01-16 21:41:44"
-  },
-  "StatTrak™ FAMAS | Pulse (Well-Worn)": {
-    "price": 19.98,
-    "date": "2026-01-16 21:41:44"
-  },
-  "FAMAS | Pulse (Well-Worn)": {
-    "price": 13.89,
-    "date": "2026-01-16 21:41:44"
-  },
-  "StatTrak™ Five-SeveN | Kami (Factory New)": {
-    "price": 6.96,
-    "date": "2026-01-16 21:42:38"
-  },
-  "StatTrak™ Five-SeveN | Kami (Minimal Wear)": {
-    "price": 4.26,
-    "date": "2026-01-16 21:42:38"
-  },
-  "Five-SeveN | Kami (Factory New)": {
-    "price": 5.0,
-    "date": "2026-01-16 21:42:38"
-  },
-  "Five-SeveN | Kami (Minimal Wear)": {
-    "price": 2.88,
-    "date": "2026-01-16 21:42:38"
-  },
-  "StatTrak™ Five-SeveN | Kami (Field-Tested)": {
-    "price": 3.24,
-    "date": "2026-01-16 21:42:38"
-  },
-  "Five-SeveN | Kami (Field-Tested)": {
-    "price": 2.57,
-    "date": "2026-01-16 21:42:38"
-  },
-  "StatTrak™ Galil AR | Sandstorm (Field-Tested)": {
-    "price": 4.2,
-    "date": "2026-01-16 21:43:36"
-  },
-  "Galil AR | Sandstorm (Field-Tested)": {
-    "price": 1.46,
-    "date": "2026-01-16 21:43:36"
-  },
-  "Galil AR | Sandstorm (Minimal Wear)": {
-    "price": 12.22,
-    "date": "2026-01-16 21:43:36"
-  },
-  "StatTrak™ Galil AR | Sandstorm (Battle-Scarred)": {
-    "price": 6.36,
-    "date": "2026-01-16 21:43:36"
-  },
-  "Galil AR | Sandstorm (Well-Worn)": {
-    "price": 1.95,
-    "date": "2026-01-16 21:43:36"
-  },
-  "StatTrak™ Galil AR | Sandstorm (Minimal Wear)": {
-    "price": 10.01,
-    "date": "2026-01-16 21:43:36"
-  },
-  "StatTrak™ Galil AR | Sandstorm (Well-Worn)": {
-    "price": 4.99,
-    "date": "2026-01-16 21:43:36"
-  },
-  "Galil AR | Sandstorm (Battle-Scarred)": {
-    "price": 1.42,
-    "date": "2026-01-16 21:43:36"
-  },
-  "StatTrak™ M249 | Magma (Field-Tested)": {
-    "price": 1.61,
-    "date": "2026-01-16 21:44:21"
-  },
-  "M249 | Magma (Field-Tested)": {
-    "price": 1.29,
-    "date": "2026-01-16 21:44:21"
-  },
-  "StatTrak™ M249 | Magma (Minimal Wear)": {
-    "price": 2.08,
-    "date": "2026-01-16 21:44:21"
-  },
-  "M249 | Magma (Minimal Wear)": {
-    "price": 2.33,
-    "date": "2026-01-16 21:44:21"
-  },
-  "M249 | Magma (Factory New)": {
-    "price": 4.8,
-    "date": "2026-01-16 21:44:21"
-  },
-  "StatTrak™ M249 | Magma (Factory New)": {
-    "price": 3.0,
-    "date": "2026-01-16 21:44:21"
-  },
-  "M249 | Magma (Well-Worn)": {
-    "price": 1.4,
-    "date": "2026-01-16 21:44:21"
-  },
-  "M249 | Magma (Battle-Scarred)": {
-    "price": 1.7,
-    "date": "2026-01-16 21:44:21"
-  },
-  "StatTrak™ M249 | Magma (Well-Worn)": {
-    "price": 2.08,
-    "date": "2026-01-16 21:44:21"
-  },
-  "StatTrak™ M249 | Magma (Battle-Scarred)": {
-    "price": 3.17,
-    "date": "2026-01-16 21:44:21"
-  },
-  "M4A4 | Asiimov (Field-Tested)": {
-    "price": 467.82,
-    "date": "2026-01-16 21:45:00"
-  },
-  "M4A4 | Asiimov (Battle-Scarred)": {
-    "price": 110.74,
-    "date": "2026-01-16 21:45:00"
-  },
-  "M4A4 | Asiimov (Well-Worn)": {
-    "price": 183.21,
-    "date": "2026-01-16 21:45:00"
-  },
-  "StatTrak™ M4A4 | Asiimov (Battle-Scarred)": {
-    "price": 259.6,
-    "date": "2026-01-16 21:45:00"
-  },
-  "StatTrak™ M4A4 | Asiimov (Well-Worn)": {
-    "price": 777.51,
-    "date": "2026-01-16 21:45:00"
-  },
-  "StatTrak™ M4A4 | Asiimov (Field-Tested)": {
-    "price": 612.0,
-    "date": "2026-01-16 21:45:00"
-  },
-  "MP9 | Rose Iron (Factory New)": {
-    "price": 23.94,
-    "date": "2026-01-16 21:46:31"
-  },
-  "MP9 | Rose Iron (Minimal Wear)": {
-    "price": 12.02,
-    "date": "2026-01-16 21:46:31"
-  },
-  "StatTrak™ MP9 | Rose Iron (Factory New)": {
-    "price": 27.63,
-    "date": "2026-01-16 21:46:31"
-  },
-  "StatTrak™ MP9 | Rose Iron (Field-Tested)": {
-    "price": 17.31,
-    "date": "2026-01-16 21:46:31"
-  },
-  "MP9 | Rose Iron (Field-Tested)": {
-    "price": 12.09,
-    "date": "2026-01-16 21:46:31"
-  },
-  "StatTrak™ MP9 | Rose Iron (Minimal Wear)": {
-    "price": 17.18,
-    "date": "2026-01-16 21:46:31"
-  },
-  "Nova | Rising Skull (Factory New)": {
-    "price": 17.41,
-    "date": "2026-01-16 21:47:25"
-  },
-  "Nova | Rising Skull (Field-Tested)": {
-    "price": 5.79,
-    "date": "2026-01-16 21:47:25"
-  },
-  "Nova | Rising Skull (Minimal Wear)": {
-    "price": 8.74,
-    "date": "2026-01-16 21:47:25"
-  },
-  "StatTrak™ Nova | Rising Skull (Factory New)": {
-    "price": 19.98,
-    "date": "2026-01-16 21:47:25"
-  },
-  "StatTrak™ Nova | Rising Skull (Field-Tested)": {
-    "price": 17.06,
-    "date": "2026-01-16 21:47:25"
-  },
-  "StatTrak™ Nova | Rising Skull (Minimal Wear)": {
-    "price": 15.5,
-    "date": "2026-01-16 21:47:25"
-  },
-  "Nova | Rising Skull (Well-Worn)": {
-    "price": 5.84,
-    "date": "2026-01-16 21:47:25"
-  },
-  "Nova | Rising Skull (Battle-Scarred)": {
-    "price": 5.6,
-    "date": "2026-01-16 21:47:25"
-  },
-  "StatTrak™ Nova | Rising Skull (Well-Worn)": {
-    "price": 31.82,
-    "date": "2026-01-16 21:47:25"
-  },
-  "StatTrak™ Nova | Rising Skull (Battle-Scarred)": {
-    "price": 19.55,
-    "date": "2026-01-16 21:47:25"
-  },
-  "P250 | Mehndi (Minimal Wear)": {
-    "price": 34.0,
-    "date": "2026-01-16 21:48:08"
-  },
-  "P250 | Mehndi (Well-Worn)": {
-    "price": 24.81,
-    "date": "2026-01-16 21:48:08"
-  },
-  "P250 | Mehndi (Field-Tested)": {
-    "price": 27.05,
-    "date": "2026-01-16 21:48:08"
-  },
-  "StatTrak™ P250 | Mehndi (Field-Tested)": {
-    "price": 44.0,
-    "date": "2026-01-16 21:48:08"
-  },
-  "P250 | Mehndi (Factory New)": {
-    "price": 98.64,
-    "date": "2026-01-16 21:48:08"
-  },
-  "P250 | Mehndi (Battle-Scarred)": {
-    "price": 30.74,
-    "date": "2026-01-16 21:48:08"
-  },
-  "StatTrak™ P250 | Mehndi (Battle-Scarred)": {
-    "price": 36.98,
-    "date": "2026-01-16 21:48:08"
-  },
-  "StatTrak™ P250 | Mehndi (Minimal Wear)": {
-    "price": 116.99,
-    "date": "2026-01-16 21:48:08"
-  },
-  "StatTrak™ P250 | Mehndi (Well-Worn)": {
-    "price": 40.62,
-    "date": "2026-01-16 21:48:08"
-  },
-  "StatTrak™ P250 | Mehndi (Factory New)": {
-    "price": 100.0,
-    "date": "2026-01-16 21:48:08"
-  },
-  "Sawed-Off | The Kraken (Factory New)": {
-    "price": 137.5,
-    "date": "2026-01-16 21:48:50"
-  },
-  "Sawed-Off | The Kraken (Field-Tested)": {
-    "price": 121.11,
-    "date": "2026-01-16 21:48:50"
-  },
-  "Sawed-Off | The Kraken (Minimal Wear)": {
-    "price": 114.1,
-    "date": "2026-01-16 21:48:50"
-  },
-  "StatTrak™ Sawed-Off | The Kraken (Factory New)": {
-    "price": 148.35,
-    "date": "2026-01-16 21:48:50"
-  },
-  "Sawed-Off | The Kraken (Well-Worn)": {
-    "price": 196.79,
-    "date": "2026-01-16 21:48:50"
-  },
-  "StatTrak™ Sawed-Off | The Kraken (Minimal Wear)": {
-    "price": 120.0,
-    "date": "2026-01-16 21:48:50"
-  },
-  "StatTrak™ Sawed-Off | The Kraken (Field-Tested)": {
-    "price": 127.15,
-    "date": "2026-01-16 21:48:50"
-  },
-  "StatTrak™ Sawed-Off | The Kraken (Well-Worn)": {
-    "price": 1782.09,
-    "date": "2026-01-16 21:48:50"
-  },
-  "AWP | Dragon Lore": {
-    "price": 0.0,
-    "date": "2026-01-16 21:49:41"
-  },
-  "CZ75-Auto | Chalice (Factory New)": {
-    "price": 696.85,
-    "date": "2026-01-16 21:49:46"
-  },
-  "CZ75-Auto | Chalice (Minimal Wear)": {
-    "price": 812.31,
-    "date": "2026-01-16 21:49:46"
-  },
-  "Desert Eagle | Hand Cannon (Factory New)": {
-    "price": 1155.29,
-    "date": "2026-01-16 21:50:34"
-  },
-  "Desert Eagle | Hand Cannon (Field-Tested)": {
-    "price": 1207.5,
-    "date": "2026-01-16 21:50:34"
-  },
-  "Desert Eagle | Hand Cannon (Minimal Wear)": {
-    "price": 805.0,
-    "date": "2026-01-16 21:50:34"
-  },
-  "Desert Eagle | Hand Cannon (Well-Worn)": {
-    "price": 700.0,
-    "date": "2026-01-16 21:50:34"
-  },
-  "Desert Eagle | Hand Cannon (Battle-Scarred)": {
-    "price": 1251.78,
-    "date": "2026-01-16 21:50:34"
-  },
-  "Dual Berettas | Briar (Factory New)": {
-    "price": 5.81,
-    "date": "2026-01-16 21:51:27"
-  },
-  "Dual Berettas | Briar (Minimal Wear)": {
-    "price": 3.36,
-    "date": "2026-01-16 21:51:27"
-  },
-  "Dual Berettas | Briar (Field-Tested)": {
-    "price": 3.56,
-    "date": "2026-01-16 21:51:27"
-  },
-  "P2000 | Chainmail (Factory New)": {
-    "price": 129.97,
-    "date": "2026-01-16 21:52:14"
-  },
-  "P2000 | Chainmail (Minimal Wear)": {
-    "price": 129.84,
-    "date": "2026-01-16 21:52:14"
-  },
-  "P2000 | Chainmail (Field-Tested)": {
-    "price": 150.85,
-    "date": "2026-01-16 21:52:14"
-  },
-  "M4A1-S | Knight": {
-    "price": 0.0,
-    "date": "2026-01-16 21:53:04"
-  },
-  "MAC-10 | Indigo (Field-Tested)": {
-    "price": 3.02,
-    "date": "2026-01-16 21:53:08"
-  },
-  "MAC-10 | Indigo (Minimal Wear)": {
-    "price": 5.37,
-    "date": "2026-01-16 21:53:08"
-  },
-  "MAC-10 | Indigo (Battle-Scarred)": {
-    "price": 2.88,
-    "date": "2026-01-16 21:53:08"
-  },
-  "MAC-10 | Indigo (Well-Worn)": {
-    "price": 2.91,
-    "date": "2026-01-16 21:53:08"
-  },
-  "MAC-10 | Indigo (Factory New)": {
-    "price": 34.76,
-    "date": "2026-01-16 21:53:08"
-  },
-  "MAG-7 | Silver (Factory New)": {
-    "price": 22.31,
-    "date": "2026-01-16 21:54:02"
-  },
-  "MAG-7 | Silver (Minimal Wear)": {
-    "price": 24.24,
-    "date": "2026-01-16 21:54:02"
-  },
   "MP9 | Dark Age": {
     "price": 0.0,
     "date": "2026-01-16 21:54:52"
@@ -11250,34 +10430,6 @@
   "StatTrak™ Nova | Clear Polymer (Minimal Wear)": {
     "price": 11.09,
     "date": "2026-01-16 22:08:26"
-  },
-  "P250 | Contaminant (Field-Tested)": {
-    "price": 1.53,
-    "date": "2026-01-16 22:09:16"
-  },
-  "P250 | Contaminant (Battle-Scarred)": {
-    "price": 0.88,
-    "date": "2026-01-16 22:09:16"
-  },
-  "P250 | Contaminant (Minimal Wear)": {
-    "price": 1.32,
-    "date": "2026-01-16 22:09:16"
-  },
-  "StatTrak™ P250 | Contaminant (Field-Tested)": {
-    "price": 1.2,
-    "date": "2026-01-16 22:09:16"
-  },
-  "P250 | Contamination (Field-Tested)": {
-    "price": 9.2,
-    "date": "2026-01-16 22:09:16"
-  },
-  "StatTrak™ P250 | Contaminant (Minimal Wear)": {
-    "price": 2.32,
-    "date": "2026-01-16 22:09:16"
-  },
-  "P250 | Contaminant (Factory New)": {
-    "price": 3.73,
-    "date": "2026-01-16 22:09:16"
   },
   "P90 | Cocoa Rampage (Field-Tested)": {
     "price": 1.58,
@@ -25919,46 +25071,6 @@
     "price": 2.92,
     "date": "2026-01-17 14:09:05"
   },
-  "USP-S | Guardian (Factory New)": {
-    "price": 11.79,
-    "date": "2026-01-17 14:09:56"
-  },
-  "USP-S | Guardian (Minimal Wear)": {
-    "price": 5.81,
-    "date": "2026-01-17 14:09:56"
-  },
-  "USP-S | Guardian (Field-Tested)": {
-    "price": 4.03,
-    "date": "2026-01-17 14:09:56"
-  },
-  "M4A1-S | Guardian (Factory New)": {
-    "price": 154.03,
-    "date": "2026-01-17 14:09:56"
-  },
-  "StatTrak™ USP-S | Guardian (Factory New)": {
-    "price": 19.23,
-    "date": "2026-01-17 14:09:56"
-  },
-  "M4A1-S | Guardian (Minimal Wear)": {
-    "price": 54.45,
-    "date": "2026-01-17 14:09:56"
-  },
-  "StatTrak™ USP-S | Guardian (Minimal Wear)": {
-    "price": 11.7,
-    "date": "2026-01-17 14:09:56"
-  },
-  "StatTrak™ USP-S | Guardian (Field-Tested)": {
-    "price": 7.95,
-    "date": "2026-01-17 14:09:56"
-  },
-  "M4A1-S | Guardian (Field-Tested)": {
-    "price": 43.44,
-    "date": "2026-01-17 14:09:56"
-  },
-  "StatTrak™ M4A1-S | Guardian (Factory New)": {
-    "price": 147.47,
-    "date": "2026-01-17 14:09:56"
-  },
   "AK-47 | Ice Coaled (Field-Tested)": {
     "price": 7.43,
     "date": "2026-01-17 14:10:43"
@@ -29041,10 +28153,6 @@
   },
   "G3SG1 | Contractor (Well-Worn)": {
     "price": 3.34,
-    "date": "2026-01-17 20:34:18"
-  },
-  "G3SG1 | Contractor (Battle-Scarred)": {
-    "price": 4.3,
     "date": "2026-01-17 20:34:18"
   },
   "G3SG1 | Contractor (Factory New)": {
@@ -39655,16 +38763,8 @@
     "price": 0.03,
     "date": "2026-01-18 01:51:55"
   },
-  "Tec-9 | Army Mesh (Field-Tested)": {
-    "price": 0.04,
-    "date": "2026-01-18 01:51:55"
-  },
   "Tec-9 | Tiger Stencil (Field-Tested)": {
     "price": 0.11,
-    "date": "2026-01-18 01:51:55"
-  },
-  "Tec-9 | Army Mesh (Minimal Wear)": {
-    "price": 0.04,
     "date": "2026-01-18 01:51:55"
   },
   "MP9 | Multi-Terrain (Field-Tested)": {
@@ -43298,5 +42398,905 @@
   "MP7 | Army Recon (Factory New)": {
     "price": 0.24,
     "date": "2026-01-18 08:28:00"
+  },
+  "MP9 | Orange Peel (Field-Tested)": {
+    "price": 0.05,
+    "date": "2026-01-18 08:28:56"
+  },
+  "MP9 | Orange Peel (Battle-Scarred)": {
+    "price": 0.05,
+    "date": "2026-01-18 08:28:56"
+  },
+  "MP9 | Orange Peel (Well-Worn)": {
+    "price": 0.05,
+    "date": "2026-01-18 08:28:56"
+  },
+  "MP9 | Orange Peel (Minimal Wear)": {
+    "price": 0.13,
+    "date": "2026-01-18 08:28:56"
+  },
+  "MP9 | Orange Peel (Factory New)": {
+    "price": 2.64,
+    "date": "2026-01-18 08:28:56"
+  },
+  "MP7 | Orange Peel (Field-Tested)": {
+    "price": 30.74,
+    "date": "2026-01-18 08:28:56"
+  },
+  "SCAR-20 | Contractor (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:29:54"
+  },
+  "SCAR-20 | Contractor (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:29:54"
+  },
+  "Dual Berettas | Contractor (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:29:54"
+  },
+  "SCAR-20 | Contractor (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:29:54"
+  },
+  "SCAR-20 | Contractor (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:29:54"
+  },
+  "AUG | Contractor (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:29:54"
+  },
+  "SCAR-20 | Contractor (Factory New)": {
+    "price": 0.26,
+    "date": "2026-01-18 08:29:54"
+  },
+  "Five-SeveN | Contractor (Battle-Scarred)": {
+    "price": 4.65,
+    "date": "2026-01-18 08:29:54"
+  },
+  "G3SG1 | Contractor (Battle-Scarred)": {
+    "price": 4.3,
+    "date": "2026-01-18 08:29:54"
+  },
+  "SSG 08 | Acid Fade (Factory New)": {
+    "price": 0.85,
+    "date": "2026-01-18 08:30:39"
+  },
+  "SSG 08 | Blue Spruce (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:31:25"
+  },
+  "SSG 08 | Blue Spruce (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:31:25"
+  },
+  "SSG 08 | Blue Spruce (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:31:25"
+  },
+  "SSG 08 | Blue Spruce (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:31:25"
+  },
+  "SSG 08 | Blue Spruce (Factory New)": {
+    "price": 0.27,
+    "date": "2026-01-18 08:31:25"
+  },
+  "Tec-9 | Army Mesh (Field-Tested)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:32:19"
+  },
+  "Tec-9 | Army Mesh (Minimal Wear)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:32:19"
+  },
+  "Tec-9 | Army Mesh (Battle-Scarred)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:32:19"
+  },
+  "Tec-9 | Army Mesh (Factory New)": {
+    "price": 0.05,
+    "date": "2026-01-18 08:32:19"
+  },
+  "Tec-9 | Army Mesh (Well-Worn)": {
+    "price": 0.03,
+    "date": "2026-01-18 08:32:19"
+  },
+  "USP-S | Forest Leaves (Field-Tested)": {
+    "price": 0.08,
+    "date": "2026-01-18 08:33:00"
+  },
+  "USP-S | Forest Leaves (Battle-Scarred)": {
+    "price": 0.07,
+    "date": "2026-01-18 08:33:00"
+  },
+  "USP-S | Forest Leaves (Well-Worn)": {
+    "price": 0.09,
+    "date": "2026-01-18 08:33:00"
+  },
+  "USP-S | Forest Leaves (Minimal Wear)": {
+    "price": 0.18,
+    "date": "2026-01-18 08:33:00"
+  },
+  "USP-S | Forest Leaves (Factory New)": {
+    "price": 5.13,
+    "date": "2026-01-18 08:33:00"
+  },
+  "AUG | Radiation Hazard (Field-Tested)": {
+    "price": 7.95,
+    "date": "2026-01-18 08:33:41"
+  },
+  "AUG | Radiation Hazard (Factory New)": {
+    "price": 15.69,
+    "date": "2026-01-18 08:33:41"
+  },
+  "AUG | Radiation Hazard (Minimal Wear)": {
+    "price": 12.97,
+    "date": "2026-01-18 08:33:41"
+  },
+  "AUG | Radiation Hazard (Well-Worn)": {
+    "price": 4.69,
+    "date": "2026-01-18 08:33:41"
+  },
+  "AUG | Radiation Hazard (Battle-Scarred)": {
+    "price": 6.4,
+    "date": "2026-01-18 08:33:41"
+  },
+  "PP-Bizon | Chemical Green (Field-Tested)": {
+    "price": 10.46,
+    "date": "2026-01-18 08:34:34"
+  },
+  "PP-Bizon | Chemical Green (Minimal Wear)": {
+    "price": 14.68,
+    "date": "2026-01-18 08:34:34"
+  },
+  "PP-Bizon | Chemical Green (Battle-Scarred)": {
+    "price": 4.88,
+    "date": "2026-01-18 08:34:34"
+  },
+  "PP-Bizon | Chemical Green (Factory New)": {
+    "price": 27.88,
+    "date": "2026-01-18 08:34:34"
+  },
+  "PP-Bizon | Chemical Green (Well-Worn)": {
+    "price": 6.9,
+    "date": "2026-01-18 08:34:34"
+  },
+  "FAMAS | Styx (Field-Tested)": {
+    "price": 23.46,
+    "date": "2026-01-18 08:35:20"
+  },
+  "FAMAS | Styx (Factory New)": {
+    "price": 123.66,
+    "date": "2026-01-18 08:35:20"
+  },
+  "FAMAS | Styx (Minimal Wear)": {
+    "price": 47.0,
+    "date": "2026-01-18 08:35:20"
+  },
+  "FAMAS | Styx (Battle-Scarred)": {
+    "price": 23.05,
+    "date": "2026-01-18 08:35:20"
+  },
+  "FAMAS | Styx (Well-Worn)": {
+    "price": 34.84,
+    "date": "2026-01-18 08:35:20"
+  },
+  "Five-SeveN | Hot Shot (Minimal Wear)": {
+    "price": 16.5,
+    "date": "2026-01-18 08:36:11"
+  },
+  "Five-SeveN | Hot Shot (Well-Worn)": {
+    "price": 9.61,
+    "date": "2026-01-18 08:36:11"
+  },
+  "Five-SeveN | Hot Shot (Battle-Scarred)": {
+    "price": 5.59,
+    "date": "2026-01-18 08:36:11"
+  },
+  "Five-SeveN | Hot Shot (Field-Tested)": {
+    "price": 11.52,
+    "date": "2026-01-18 08:36:11"
+  },
+  "Five-SeveN | Hot Shot (Factory New)": {
+    "price": 53.73,
+    "date": "2026-01-18 08:36:11"
+  },
+  "Galil AR | Cerberus (Field-Tested)": {
+    "price": 70.95,
+    "date": "2026-01-18 08:37:00"
+  },
+  "Galil AR | Cerberus (Minimal Wear)": {
+    "price": 167.44,
+    "date": "2026-01-18 08:37:00"
+  },
+  "Galil AR | Cerberus (Factory New)": {
+    "price": 515.36,
+    "date": "2026-01-18 08:37:00"
+  },
+  "Galil AR | Cerberus (Well-Worn)": {
+    "price": 51.1,
+    "date": "2026-01-18 08:37:00"
+  },
+  "Galil AR | Cerberus (Battle-Scarred)": {
+    "price": 43.26,
+    "date": "2026-01-18 08:37:00"
+  },
+  "Glock-18 | Reactor (Field-Tested)": {
+    "price": 23.0,
+    "date": "2026-01-18 08:37:53"
+  },
+  "Glock-18 | Reactor (Well-Worn)": {
+    "price": 21.43,
+    "date": "2026-01-18 08:37:53"
+  },
+  "Glock-18 | Reactor (Minimal Wear)": {
+    "price": 37.5,
+    "date": "2026-01-18 08:37:53"
+  },
+  "Glock-18 | Reactor (Factory New)": {
+    "price": 150.82,
+    "date": "2026-01-18 08:37:53"
+  },
+  "Glock-18 | Reactor (Battle-Scarred)": {
+    "price": 18.79,
+    "date": "2026-01-18 08:37:53"
+  },
+  "MAC-10 | Nuclear Garden (Minimal Wear)": {
+    "price": 29.86,
+    "date": "2026-01-18 08:38:46"
+  },
+  "MAC-10 | Nuclear Garden (Factory New)": {
+    "price": 50.91,
+    "date": "2026-01-18 08:38:46"
+  },
+  "MAC-10 | Nuclear Garden (Field-Tested)": {
+    "price": 21.79,
+    "date": "2026-01-18 08:38:46"
+  },
+  "MAC-10 | Nuclear Garden (Well-Worn)": {
+    "price": 21.19,
+    "date": "2026-01-18 08:38:46"
+  },
+  "MAC-10 | Nuclear Garden (Battle-Scarred)": {
+    "price": 19.14,
+    "date": "2026-01-18 08:38:46"
+  },
+  "MP9 | Setting Sun (Factory New)": {
+    "price": 552.0,
+    "date": "2026-01-18 08:39:23"
+  },
+  "MP9 | Setting Sun (Minimal Wear)": {
+    "price": 85.17,
+    "date": "2026-01-18 08:39:23"
+  },
+  "MP9 | Setting Sun (Field-Tested)": {
+    "price": 59.88,
+    "date": "2026-01-18 08:39:23"
+  },
+  "MP9 | Setting Sun (Well-Worn)": {
+    "price": 20.07,
+    "date": "2026-01-18 08:39:23"
+  },
+  "MP9 | Setting Sun (Battle-Scarred)": {
+    "price": 19.23,
+    "date": "2026-01-18 08:39:23"
+  },
+  "Negev | Nuclear Waste (Field-Tested)": {
+    "price": 6.97,
+    "date": "2026-01-18 08:40:03"
+  },
+  "Negev | Nuclear Waste (Minimal Wear)": {
+    "price": 11.5,
+    "date": "2026-01-18 08:40:03"
+  },
+  "Negev | Nuclear Waste (Factory New)": {
+    "price": 16.64,
+    "date": "2026-01-18 08:40:03"
+  },
+  "Negev | Nuclear Waste (Well-Worn)": {
+    "price": 8.08,
+    "date": "2026-01-18 08:40:03"
+  },
+  "P250 | Contaminant (Field-Tested)": {
+    "price": 1.53,
+    "date": "2026-01-18 08:40:57"
+  },
+  "P250 | Contaminant (Battle-Scarred)": {
+    "price": 0.82,
+    "date": "2026-01-18 08:40:57"
+  },
+  "P250 | Contaminant (Minimal Wear)": {
+    "price": 1.3,
+    "date": "2026-01-18 08:40:57"
+  },
+  "StatTrak™ P250 | Contaminant (Field-Tested)": {
+    "price": 1.58,
+    "date": "2026-01-18 08:40:57"
+  },
+  "P250 | Contamination (Field-Tested)": {
+    "price": 9.02,
+    "date": "2026-01-18 08:40:57"
+  },
+  "StatTrak™ P250 | Contaminant (Minimal Wear)": {
+    "price": 2.34,
+    "date": "2026-01-18 08:40:57"
+  },
+  "P250 | Contaminant (Factory New)": {
+    "price": 3.64,
+    "date": "2026-01-18 08:40:57"
+  },
+  "SG 553 | Fallout Warning (Field-Tested)": {
+    "price": 9.91,
+    "date": "2026-01-18 08:41:52"
+  },
+  "SG 553 | Fallout Warning (Minimal Wear)": {
+    "price": 13.73,
+    "date": "2026-01-18 08:41:52"
+  },
+  "SG 553 | Fallout Warning (Battle-Scarred)": {
+    "price": 5.0,
+    "date": "2026-01-18 08:41:52"
+  },
+  "SG 553 | Fallout Warning (Factory New)": {
+    "price": 19.27,
+    "date": "2026-01-18 08:41:52"
+  },
+  "SG 553 | Fallout Warning (Well-Worn)": {
+    "price": 8.25,
+    "date": "2026-01-18 08:41:52"
+  },
+  "Tec-9 | Toxic (Field-Tested)": {
+    "price": 20.13,
+    "date": "2026-01-18 08:42:32"
+  },
+  "Tec-9 | Toxic (Minimal Wear)": {
+    "price": 28.21,
+    "date": "2026-01-18 08:42:32"
+  },
+  "Tec-9 | Toxic (Factory New)": {
+    "price": 43.6,
+    "date": "2026-01-18 08:42:32"
+  },
+  "Tec-9 | Toxic (Battle-Scarred)": {
+    "price": 15.12,
+    "date": "2026-01-18 08:42:32"
+  },
+  "Tec-9 | Toxic (Well-Worn)": {
+    "price": 17.31,
+    "date": "2026-01-18 08:42:32"
+  },
+  "XM1014 | Bone Machine (Factory New)": {
+    "price": 30.19,
+    "date": "2026-01-18 08:43:09"
+  },
+  "XM1014 | Bone Machine (Field-Tested)": {
+    "price": 19.92,
+    "date": "2026-01-18 08:43:09"
+  },
+  "XM1014 | Bone Machine (Minimal Wear)": {
+    "price": 26.71,
+    "date": "2026-01-18 08:43:09"
+  },
+  "XM1014 | Bone Machine (Battle-Scarred)": {
+    "price": 19.98,
+    "date": "2026-01-18 08:43:09"
+  },
+  "XM1014 | Bone Machine (Well-Worn)": {
+    "price": 17.79,
+    "date": "2026-01-18 08:43:09"
+  },
+  "AWP | Redline (Field-Tested)": {
+    "price": 55.0,
+    "date": "2026-01-18 08:43:50"
+  },
+  "AWP | Redline (Minimal Wear)": {
+    "price": 120.58,
+    "date": "2026-01-18 08:43:50"
+  },
+  "StatTrak™ AWP | Redline (Field-Tested)": {
+    "price": 123.22,
+    "date": "2026-01-18 08:43:50"
+  },
+  "StatTrak™ AWP | Redline (Minimal Wear)": {
+    "price": 207.83,
+    "date": "2026-01-18 08:43:50"
+  },
+  "AWP | Redline (Well-Worn)": {
+    "price": 75.28,
+    "date": "2026-01-18 08:43:50"
+  },
+  "StatTrak™ AWP | Redline (Well-Worn)": {
+    "price": 160.22,
+    "date": "2026-01-18 08:43:50"
+  },
+  "StatTrak™ PP-Bizon | Cobalt Halftone (Field-Tested)": {
+    "price": 2.37,
+    "date": "2026-01-18 08:44:47"
+  },
+  "StatTrak™ PP-Bizon | Cobalt Halftone (Minimal Wear)": {
+    "price": 2.68,
+    "date": "2026-01-18 08:44:47"
+  },
+  "PP-Bizon | Cobalt Halftone (Minimal Wear)": {
+    "price": 1.51,
+    "date": "2026-01-18 08:44:47"
+  },
+  "StatTrak™ PP-Bizon | Cobalt Halftone (Well-Worn)": {
+    "price": 2.0,
+    "date": "2026-01-18 08:44:47"
+  },
+  "PP-Bizon | Cobalt Halftone (Field-Tested)": {
+    "price": 1.29,
+    "date": "2026-01-18 08:44:47"
+  },
+  "PP-Bizon | Cobalt Halftone (Factory New)": {
+    "price": 5.02,
+    "date": "2026-01-18 08:44:47"
+  },
+  "PP-Bizon | Cobalt Halftone (Well-Worn)": {
+    "price": 1.15,
+    "date": "2026-01-18 08:44:47"
+  },
+  "StatTrak™ PP-Bizon | Cobalt Halftone (Factory New)": {
+    "price": 4.68,
+    "date": "2026-01-18 08:44:47"
+  },
+  "Dual Berettas | Marina (Minimal Wear)": {
+    "price": 10.67,
+    "date": "2026-01-18 08:45:32"
+  },
+  "Dual Berettas | Marina (Field-Tested)": {
+    "price": 6.33,
+    "date": "2026-01-18 08:45:32"
+  },
+  "StatTrak™ Dual Berettas | Marina (Field-Tested)": {
+    "price": 9.68,
+    "date": "2026-01-18 08:45:32"
+  },
+  "StatTrak™ Dual Berettas | Marina (Minimal Wear)": {
+    "price": 15.0,
+    "date": "2026-01-18 08:45:32"
+  },
+  "Dual Berettas | Marina (Factory New)": {
+    "price": 38.31,
+    "date": "2026-01-18 08:45:32"
+  },
+  "Dual Berettas | Marina (Battle-Scarred)": {
+    "price": 6.85,
+    "date": "2026-01-18 08:45:32"
+  },
+  "Dual Berettas | Marina (Well-Worn)": {
+    "price": 6.99,
+    "date": "2026-01-18 08:45:32"
+  },
+  "StatTrak™ Dual Berettas | Marina (Factory New)": {
+    "price": 68.77,
+    "date": "2026-01-18 08:45:32"
+  },
+  "StatTrak™ Dual Berettas | Marina (Battle-Scarred)": {
+    "price": 12.01,
+    "date": "2026-01-18 08:45:32"
+  },
+  "StatTrak™ Dual Berettas | Marina (Well-Worn)": {
+    "price": 12.8,
+    "date": "2026-01-18 08:45:32"
+  },
+  "FAMAS | Pulse (Factory New)": {
+    "price": 19.11,
+    "date": "2026-01-18 08:46:24"
+  },
+  "FAMAS | Pulse (Minimal Wear)": {
+    "price": 12.01,
+    "date": "2026-01-18 08:46:24"
+  },
+  "FAMAS | Pulse (Field-Tested)": {
+    "price": 11.08,
+    "date": "2026-01-18 08:46:24"
+  },
+  "StatTrak™ FAMAS | Pulse (Factory New)": {
+    "price": 27.0,
+    "date": "2026-01-18 08:46:24"
+  },
+  "StatTrak™ FAMAS | Pulse (Field-Tested)": {
+    "price": 16.44,
+    "date": "2026-01-18 08:46:24"
+  },
+  "StatTrak™ FAMAS | Pulse (Minimal Wear)": {
+    "price": 18.68,
+    "date": "2026-01-18 08:46:24"
+  },
+  "StatTrak™ FAMAS | Pulse (Well-Worn)": {
+    "price": 20.9,
+    "date": "2026-01-18 08:46:24"
+  },
+  "FAMAS | Pulse (Well-Worn)": {
+    "price": 13.27,
+    "date": "2026-01-18 08:46:24"
+  },
+  "StatTrak™ Five-SeveN | Kami (Factory New)": {
+    "price": 7.2,
+    "date": "2026-01-18 08:47:02"
+  },
+  "StatTrak™ Five-SeveN | Kami (Minimal Wear)": {
+    "price": 4.43,
+    "date": "2026-01-18 08:47:02"
+  },
+  "Five-SeveN | Kami (Factory New)": {
+    "price": 4.74,
+    "date": "2026-01-18 08:47:02"
+  },
+  "Five-SeveN | Kami (Minimal Wear)": {
+    "price": 2.84,
+    "date": "2026-01-18 08:47:02"
+  },
+  "StatTrak™ Five-SeveN | Kami (Field-Tested)": {
+    "price": 3.07,
+    "date": "2026-01-18 08:47:02"
+  },
+  "Five-SeveN | Kami (Field-Tested)": {
+    "price": 2.57,
+    "date": "2026-01-18 08:47:02"
+  },
+  "StatTrak™ Galil AR | Sandstorm (Field-Tested)": {
+    "price": 4.23,
+    "date": "2026-01-18 08:47:47"
+  },
+  "Galil AR | Sandstorm (Field-Tested)": {
+    "price": 1.55,
+    "date": "2026-01-18 08:47:47"
+  },
+  "Galil AR | Sandstorm (Minimal Wear)": {
+    "price": 12.14,
+    "date": "2026-01-18 08:47:47"
+  },
+  "StatTrak™ Galil AR | Sandstorm (Battle-Scarred)": {
+    "price": 6.28,
+    "date": "2026-01-18 08:47:47"
+  },
+  "Galil AR | Sandstorm (Well-Worn)": {
+    "price": 1.91,
+    "date": "2026-01-18 08:47:47"
+  },
+  "StatTrak™ Galil AR | Sandstorm (Minimal Wear)": {
+    "price": 9.06,
+    "date": "2026-01-18 08:47:47"
+  },
+  "StatTrak™ Galil AR | Sandstorm (Well-Worn)": {
+    "price": 4.99,
+    "date": "2026-01-18 08:47:47"
+  },
+  "Galil AR | Sandstorm (Battle-Scarred)": {
+    "price": 1.41,
+    "date": "2026-01-18 08:47:47"
+  },
+  "StatTrak™ M249 | Magma (Field-Tested)": {
+    "price": 1.61,
+    "date": "2026-01-18 08:48:38"
+  },
+  "M249 | Magma (Field-Tested)": {
+    "price": 1.32,
+    "date": "2026-01-18 08:48:38"
+  },
+  "StatTrak™ M249 | Magma (Minimal Wear)": {
+    "price": 2.08,
+    "date": "2026-01-18 08:48:38"
+  },
+  "M249 | Magma (Minimal Wear)": {
+    "price": 2.33,
+    "date": "2026-01-18 08:48:38"
+  },
+  "M249 | Magma (Factory New)": {
+    "price": 4.77,
+    "date": "2026-01-18 08:48:38"
+  },
+  "StatTrak™ M249 | Magma (Factory New)": {
+    "price": 3.0,
+    "date": "2026-01-18 08:48:38"
+  },
+  "M249 | Magma (Well-Worn)": {
+    "price": 1.4,
+    "date": "2026-01-18 08:48:38"
+  },
+  "M249 | Magma (Battle-Scarred)": {
+    "price": 1.69,
+    "date": "2026-01-18 08:48:38"
+  },
+  "StatTrak™ M249 | Magma (Well-Worn)": {
+    "price": 2.14,
+    "date": "2026-01-18 08:48:38"
+  },
+  "StatTrak™ M249 | Magma (Battle-Scarred)": {
+    "price": 3.19,
+    "date": "2026-01-18 08:48:38"
+  },
+  "M4A4 | Asiimov (Field-Tested)": {
+    "price": 470.0,
+    "date": "2026-01-18 08:49:35"
+  },
+  "M4A4 | Asiimov (Battle-Scarred)": {
+    "price": 110.99,
+    "date": "2026-01-18 08:49:35"
+  },
+  "M4A4 | Asiimov (Well-Worn)": {
+    "price": 183.26,
+    "date": "2026-01-18 08:49:35"
+  },
+  "StatTrak™ M4A4 | Asiimov (Battle-Scarred)": {
+    "price": 259.72,
+    "date": "2026-01-18 08:49:35"
+  },
+  "StatTrak™ M4A4 | Asiimov (Well-Worn)": {
+    "price": 777.91,
+    "date": "2026-01-18 08:49:35"
+  },
+  "StatTrak™ M4A4 | Asiimov (Field-Tested)": {
+    "price": 612.0,
+    "date": "2026-01-18 08:49:35"
+  },
+  "USP-S | Guardian (Factory New)": {
+    "price": 11.79,
+    "date": "2026-01-18 08:50:17"
+  },
+  "USP-S | Guardian (Minimal Wear)": {
+    "price": 5.45,
+    "date": "2026-01-18 08:50:17"
+  },
+  "USP-S | Guardian (Field-Tested)": {
+    "price": 3.96,
+    "date": "2026-01-18 08:50:17"
+  },
+  "M4A1-S | Guardian (Factory New)": {
+    "price": 150.88,
+    "date": "2026-01-18 08:50:17"
+  },
+  "StatTrak™ USP-S | Guardian (Factory New)": {
+    "price": 17.42,
+    "date": "2026-01-18 08:50:17"
+  },
+  "M4A1-S | Guardian (Minimal Wear)": {
+    "price": 51.1,
+    "date": "2026-01-18 08:50:17"
+  },
+  "StatTrak™ USP-S | Guardian (Minimal Wear)": {
+    "price": 12.82,
+    "date": "2026-01-18 08:50:17"
+  },
+  "StatTrak™ USP-S | Guardian (Field-Tested)": {
+    "price": 8.11,
+    "date": "2026-01-18 08:50:17"
+  },
+  "M4A1-S | Guardian (Field-Tested)": {
+    "price": 43.6,
+    "date": "2026-01-18 08:50:17"
+  },
+  "StatTrak™ M4A1-S | Guardian (Factory New)": {
+    "price": 147.47,
+    "date": "2026-01-18 08:50:17"
+  },
+  "MP9 | Rose Iron (Factory New)": {
+    "price": 21.1,
+    "date": "2026-01-18 08:51:10"
+  },
+  "MP9 | Rose Iron (Minimal Wear)": {
+    "price": 14.0,
+    "date": "2026-01-18 08:51:10"
+  },
+  "StatTrak™ MP9 | Rose Iron (Factory New)": {
+    "price": 27.64,
+    "date": "2026-01-18 08:51:10"
+  },
+  "StatTrak™ MP9 | Rose Iron (Field-Tested)": {
+    "price": 17.38,
+    "date": "2026-01-18 08:51:10"
+  },
+  "StatTrak™ MP9 | Rose Iron (Minimal Wear)": {
+    "price": 19.74,
+    "date": "2026-01-18 08:51:10"
+  },
+  "MP9 | Rose Iron (Field-Tested)": {
+    "price": 14.75,
+    "date": "2026-01-18 08:51:10"
+  },
+  "Nova | Rising Skull (Factory New)": {
+    "price": 17.44,
+    "date": "2026-01-18 08:52:02"
+  },
+  "Nova | Rising Skull (Field-Tested)": {
+    "price": 5.81,
+    "date": "2026-01-18 08:52:02"
+  },
+  "Nova | Rising Skull (Minimal Wear)": {
+    "price": 8.1,
+    "date": "2026-01-18 08:52:02"
+  },
+  "StatTrak™ Nova | Rising Skull (Factory New)": {
+    "price": 19.85,
+    "date": "2026-01-18 08:52:02"
+  },
+  "StatTrak™ Nova | Rising Skull (Field-Tested)": {
+    "price": 18.56,
+    "date": "2026-01-18 08:52:02"
+  },
+  "StatTrak™ Nova | Rising Skull (Minimal Wear)": {
+    "price": 24.03,
+    "date": "2026-01-18 08:52:02"
+  },
+  "Nova | Rising Skull (Well-Worn)": {
+    "price": 5.99,
+    "date": "2026-01-18 08:52:02"
+  },
+  "Nova | Rising Skull (Battle-Scarred)": {
+    "price": 5.64,
+    "date": "2026-01-18 08:52:02"
+  },
+  "StatTrak™ Nova | Rising Skull (Well-Worn)": {
+    "price": 17.34,
+    "date": "2026-01-18 08:52:02"
+  },
+  "StatTrak™ Nova | Rising Skull (Battle-Scarred)": {
+    "price": 19.55,
+    "date": "2026-01-18 08:52:02"
+  },
+  "P250 | Mehndi (Minimal Wear)": {
+    "price": 33.38,
+    "date": "2026-01-18 08:52:45"
+  },
+  "P250 | Mehndi (Well-Worn)": {
+    "price": 26.05,
+    "date": "2026-01-18 08:52:45"
+  },
+  "StatTrak™ P250 | Mehndi (Field-Tested)": {
+    "price": 41.99,
+    "date": "2026-01-18 08:52:45"
+  },
+  "P250 | Mehndi (Field-Tested)": {
+    "price": 30.74,
+    "date": "2026-01-18 08:52:45"
+  },
+  "P250 | Mehndi (Factory New)": {
+    "price": 84.77,
+    "date": "2026-01-18 08:52:45"
+  },
+  "P250 | Mehndi (Battle-Scarred)": {
+    "price": 26.36,
+    "date": "2026-01-18 08:52:45"
+  },
+  "StatTrak™ P250 | Mehndi (Battle-Scarred)": {
+    "price": 38.0,
+    "date": "2026-01-18 08:52:45"
+  },
+  "StatTrak™ P250 | Mehndi (Minimal Wear)": {
+    "price": 85.57,
+    "date": "2026-01-18 08:52:45"
+  },
+  "StatTrak™ P250 | Mehndi (Well-Worn)": {
+    "price": 40.64,
+    "date": "2026-01-18 08:52:45"
+  },
+  "StatTrak™ P250 | Mehndi (Factory New)": {
+    "price": 100.0,
+    "date": "2026-01-18 08:52:45"
+  },
+  "Sawed-Off | The Kraken (Factory New)": {
+    "price": 146.56,
+    "date": "2026-01-18 08:53:33"
+  },
+  "Sawed-Off | The Kraken (Field-Tested)": {
+    "price": 130.8,
+    "date": "2026-01-18 08:53:33"
+  },
+  "Sawed-Off | The Kraken (Minimal Wear)": {
+    "price": 132.99,
+    "date": "2026-01-18 08:53:33"
+  },
+  "StatTrak™ Sawed-Off | The Kraken (Factory New)": {
+    "price": 148.41,
+    "date": "2026-01-18 08:53:33"
+  },
+  "Sawed-Off | The Kraken (Well-Worn)": {
+    "price": 197.51,
+    "date": "2026-01-18 08:53:33"
+  },
+  "StatTrak™ Sawed-Off | The Kraken (Minimal Wear)": {
+    "price": 115.41,
+    "date": "2026-01-18 08:53:33"
+  },
+  "StatTrak™ Sawed-Off | The Kraken (Field-Tested)": {
+    "price": 107.8,
+    "date": "2026-01-18 08:53:33"
+  },
+  "StatTrak™ Sawed-Off | The Kraken (Well-Worn)": {
+    "price": 1795.45,
+    "date": "2026-01-18 08:53:33"
+  },
+  "AWP | Dragon Lore": {
+    "price": 0.0,
+    "date": "2026-01-18 08:54:27"
+  },
+  "CZ75-Auto | Chalice (Factory New)": {
+    "price": 702.09,
+    "date": "2026-01-18 08:54:29"
+  },
+  "CZ75-Auto | Chalice (Minimal Wear)": {
+    "price": 812.74,
+    "date": "2026-01-18 08:54:29"
+  },
+  "Desert Eagle | Hand Cannon (Factory New)": {
+    "price": 1155.03,
+    "date": "2026-01-18 08:55:12"
+  },
+  "Desert Eagle | Hand Cannon (Field-Tested)": {
+    "price": 1207.5,
+    "date": "2026-01-18 08:55:12"
+  },
+  "Desert Eagle | Hand Cannon (Minimal Wear)": {
+    "price": 805.0,
+    "date": "2026-01-18 08:55:12"
+  },
+  "Desert Eagle | Hand Cannon (Well-Worn)": {
+    "price": 700.0,
+    "date": "2026-01-18 08:55:12"
+  },
+  "Desert Eagle | Hand Cannon (Battle-Scarred)": {
+    "price": 1256.58,
+    "date": "2026-01-18 08:55:12"
+  },
+  "Dual Berettas | Briar (Factory New)": {
+    "price": 6.24,
+    "date": "2026-01-18 08:55:57"
+  },
+  "Dual Berettas | Briar (Minimal Wear)": {
+    "price": 3.47,
+    "date": "2026-01-18 08:55:57"
+  },
+  "Dual Berettas | Briar (Field-Tested)": {
+    "price": 3.57,
+    "date": "2026-01-18 08:55:57"
+  },
+  "P2000 | Chainmail (Factory New)": {
+    "price": 130.03,
+    "date": "2026-01-18 08:56:49"
+  },
+  "P2000 | Chainmail (Minimal Wear)": {
+    "price": 122.84,
+    "date": "2026-01-18 08:56:49"
+  },
+  "P2000 | Chainmail (Field-Tested)": {
+    "price": 150.94,
+    "date": "2026-01-18 08:56:49"
+  },
+  "M4A1-S | Knight": {
+    "price": 0.0,
+    "date": "2026-01-18 08:57:31"
+  },
+  "MAC-10 | Indigo (Field-Tested)": {
+    "price": 3.25,
+    "date": "2026-01-18 08:57:34"
+  },
+  "MAC-10 | Indigo (Minimal Wear)": {
+    "price": 5.23,
+    "date": "2026-01-18 08:57:34"
+  },
+  "MAC-10 | Indigo (Battle-Scarred)": {
+    "price": 2.9,
+    "date": "2026-01-18 08:57:34"
+  },
+  "MAC-10 | Indigo (Well-Worn)": {
+    "price": 2.92,
+    "date": "2026-01-18 08:57:34"
+  },
+  "MAC-10 | Indigo (Factory New)": {
+    "price": 34.78,
+    "date": "2026-01-18 08:57:34"
+  },
+  "MAG-7 | Silver (Factory New)": {
+    "price": 22.51,
+    "date": "2026-01-18 08:58:19"
+  },
+  "MAG-7 | Silver (Minimal Wear)": {
+    "price": 24.24,
+    "date": "2026-01-18 08:58:19"
   }
 }
