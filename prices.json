@@ -3659,42 +3659,6 @@
     "price": 604.15,
     "date": "2026-01-15 21:24:44"
   },
-  "★ M9 Bayonet | Stained (Well-Worn)": {
-    "price": 582.68,
-    "date": "2026-01-15 21:50:30"
-  },
-  "★ M9 Bayonet | Stained (Battle-Scarred)": {
-    "price": 617.64,
-    "date": "2026-01-15 21:50:30"
-  },
-  "★ M9 Bayonet | Lore (Minimal Wear)": {
-    "price": 1656.43,
-    "date": "2026-01-15 21:52:50"
-  },
-  "★ M9 Bayonet | Autotronic (Well-Worn)": {
-    "price": 1082.38,
-    "date": "2026-01-15 21:54:29"
-  },
-  "★ M9 Bayonet | Night (Minimal Wear)": {
-    "price": 800.0,
-    "date": "2026-01-15 21:58:38"
-  },
-  "★ M9 Bayonet | Ultraviolet (Battle-Scarred)": {
-    "price": 496.04,
-    "date": "2026-01-15 21:59:29"
-  },
-  "★ M9 Bayonet | Scorched (Battle-Scarred)": {
-    "price": 629.31,
-    "date": "2026-01-15 22:00:12"
-  },
-  "★ Nomad Knife | Fade (Factory New)": {
-    "price": 515.23,
-    "date": "2026-01-15 22:02:37"
-  },
-  "★ Nomad Knife | Marble Fade (Minimal Wear)": {
-    "price": 1150.0,
-    "date": "2026-01-15 22:02:37"
-  },
   "★ Paracord Knife | Safari Mesh (Battle-Scarred)": {
     "price": 72.99,
     "date": "2026-01-16 03:02:47"
@@ -7491,22 +7455,6 @@
     "price": 381.25,
     "date": "2026-01-16 08:41:32"
   },
-  "M4A1-S | Bright Water (Minimal Wear)": {
-    "price": 69.6,
-    "date": "2026-01-16 08:42:13"
-  },
-  "M4A1-S | Bright Water (Field-Tested)": {
-    "price": 54.74,
-    "date": "2026-01-16 08:42:13"
-  },
-  "StatTrak™ M4A1-S | Bright Water (Minimal Wear)": {
-    "price": 99.84,
-    "date": "2026-01-16 08:42:13"
-  },
-  "StatTrak™ M4A1-S | Bright Water (Field-Tested)": {
-    "price": 87.03,
-    "date": "2026-01-16 08:42:13"
-  },
   "M4A4 | Zirka (Minimal Wear)": {
     "price": 45.63,
     "date": "2026-01-16 08:42:51"
@@ -8282,22 +8230,6 @@
   "P2000 | Granite Marbleized (Factory New)": {
     "price": 1.84,
     "date": "2026-01-16 20:32:13"
-  },
-  "M4A1-S | Boreal Forest (Minimal Wear)": {
-    "price": 0.36,
-    "date": "2026-01-16 20:33:12"
-  },
-  "M4A1-S | Boreal Forest (Well-Worn)": {
-    "price": 0.14,
-    "date": "2026-01-16 20:33:12"
-  },
-  "M4A1-S | Boreal Forest (Battle-Scarred)": {
-    "price": 0.13,
-    "date": "2026-01-16 20:33:12"
-  },
-  "M4A1-S | Boreal Forest (Factory New)": {
-    "price": 17.89,
-    "date": "2026-01-16 20:33:12"
   },
   "MP7 | Anodized Navy (Factory New)": {
     "price": 0.76,
@@ -9271,14 +9203,6 @@
     "price": 0.0,
     "date": "2026-01-17 01:28:36"
   },
-  "★ M9 Bayonet | Ultraviolet (Well-Worn)": {
-    "price": 545.7,
-    "date": "2026-01-17 01:28:39"
-  },
-  "★ Nomad Knife | Doppler (Minimal Wear)": {
-    "price": 660.47,
-    "date": "2026-01-17 08:27:09"
-  },
   "★ Nomad Knife | Slaughter (Factory New)": {
     "price": 406.37,
     "date": "2026-01-17 08:27:51"
@@ -9835,26 +9759,6 @@
     "price": 119.61,
     "date": "2026-01-17 09:57:06"
   },
-  "★ Bowie Knife | Stained (Field-Tested)": {
-    "price": 115.31,
-    "date": "2026-01-17 09:58:56"
-  },
-  "★ Bowie Knife | Stained (Well-Worn)": {
-    "price": 106.81,
-    "date": "2026-01-17 09:58:56"
-  },
-  "★ Bowie Knife | Stained (Battle-Scarred)": {
-    "price": 109.03,
-    "date": "2026-01-17 09:58:56"
-  },
-  "★ Bowie Knife | Stained (Minimal Wear)": {
-    "price": 127.72,
-    "date": "2026-01-17 09:58:56"
-  },
-  "★ Bowie Knife | Stained (Factory New)": {
-    "price": 210.0,
-    "date": "2026-01-17 09:58:56"
-  },
   "★ Bowie Knife | Lore (Battle-Scarred)": {
     "price": 116.11,
     "date": "2026-01-17 10:01:32"
@@ -10403,20 +10307,12 @@
     "price": 86.56,
     "date": "2026-01-17 11:25:26"
   },
-  "★ Nomad Knife | Doppler (Factory New)": {
-    "price": 575.29,
-    "date": "2026-01-17 11:26:08"
-  },
   "★ Nomad Knife": {
     "price": 220.6,
     "date": "2026-01-17 11:26:08"
   },
   "★ Nomad Knife | Ultraviolet (Field-Tested)": {
     "price": 173.01,
-    "date": "2026-01-17 11:26:08"
-  },
-  "★ Nomad Knife | Marble Fade (Factory New)": {
-    "price": 379.23,
     "date": "2026-01-17 11:26:08"
   },
   "★ Stiletto Knife": {
@@ -25553,10 +25449,6 @@
   },
   "M4A1-S | Wash me plz (Minimal Wear)": {
     "price": 0.26,
-    "date": "2026-01-17 22:44:04"
-  },
-  "M4A1-S | Boreal Forest (Field-Tested)": {
-    "price": 0.14,
     "date": "2026-01-17 22:44:04"
   },
   "M4A1-S | Nitro (Field-Tested)": {
@@ -40871,57 +40763,9 @@
     "price": 684.25,
     "date": "2026-01-18 12:21:14"
   },
-  "★ M9 Bayonet | Slaughter (Minimal Wear)": {
-    "price": 1150.0,
-    "date": "2026-01-18 12:21:14"
-  },
   "★ Bayonet | Slaughter (Field-Tested)": {
     "price": 410.36,
     "date": "2026-01-18 12:21:14"
-  },
-  "★ M9 Bayonet | Slaughter (Factory New)": {
-    "price": 1578.72,
-    "date": "2026-01-18 12:21:14"
-  },
-  "★ M9 Bayonet | Slaughter (Field-Tested)": {
-    "price": 1097.21,
-    "date": "2026-01-18 12:21:14"
-  },
-  "★ Bayonet | Tiger Tooth (Factory New)": {
-    "price": 440.0,
-    "date": "2026-01-18 12:21:57"
-  },
-  "★ M9 Bayonet | Tiger Tooth (Factory New)": {
-    "price": 1103.0,
-    "date": "2026-01-18 12:21:57"
-  },
-  "★ Bayonet | Tiger Tooth (Minimal Wear)": {
-    "price": 663.04,
-    "date": "2026-01-18 12:21:57"
-  },
-  "★ M9 Bayonet | Tiger Tooth (Minimal Wear)": {
-    "price": 1795.45,
-    "date": "2026-01-18 12:21:57"
-  },
-  "★ Bayonet | Blue Steel (Minimal Wear)": {
-    "price": 384.0,
-    "date": "2026-01-18 12:22:53"
-  },
-  "★ Bayonet | Blue Steel (Well-Worn)": {
-    "price": 322.78,
-    "date": "2026-01-18 12:22:53"
-  },
-  "★ Bayonet | Blue Steel (Field-Tested)": {
-    "price": 324.65,
-    "date": "2026-01-18 12:22:53"
-  },
-  "★ M9 Bayonet | Blue Steel (Field-Tested)": {
-    "price": 850.0,
-    "date": "2026-01-18 12:22:53"
-  },
-  "★ M9 Bayonet | Blue Steel (Well-Worn)": {
-    "price": 807.16,
-    "date": "2026-01-18 12:22:53"
   },
   "★ M9 Bayonet | Blue Steel (Battle-Scarred)": {
     "price": 1150.0,
@@ -40930,30 +40774,6 @@
   "★ M9 Bayonet | Blue Steel (Minimal Wear)": {
     "price": 906.62,
     "date": "2026-01-18 12:22:53"
-  },
-  "★ Bayonet | Damascus Steel (Field-Tested)": {
-    "price": 248.49,
-    "date": "2026-01-18 12:23:50"
-  },
-  "★ Bayonet | Damascus Steel (Factory New)": {
-    "price": 299.0,
-    "date": "2026-01-18 12:23:50"
-  },
-  "★ Bayonet | Damascus Steel (Minimal Wear)": {
-    "price": 264.74,
-    "date": "2026-01-18 12:23:50"
-  },
-  "★ M9 Bayonet | Damascus Steel (Field-Tested)": {
-    "price": 673.11,
-    "date": "2026-01-18 12:23:50"
-  },
-  "★ M9 Bayonet | Damascus Steel (Minimal Wear)": {
-    "price": 724.0,
-    "date": "2026-01-18 12:23:50"
-  },
-  "★ M9 Bayonet | Damascus Steel (Factory New)": {
-    "price": 904.42,
-    "date": "2026-01-18 12:23:50"
   },
   "★ Bayonet | Damascus Steel (Well-Worn)": {
     "price": 342.24,
@@ -40975,66 +40795,6 @@
     "price": 280.96,
     "date": "2026-01-18 12:24:38"
   },
-  "★ M9 Bayonet | Stained (Minimal Wear)": {
-    "price": 689.97,
-    "date": "2026-01-18 12:24:38"
-  },
-  "★ M9 Bayonet | Stained (Field-Tested)": {
-    "price": 700.0,
-    "date": "2026-01-18 12:24:38"
-  },
-  "★ M9 Bayonet | Stained (Factory New)": {
-    "price": 905.63,
-    "date": "2026-01-18 12:24:38"
-  },
-  "★ Bayonet | Case Hardened (Field-Tested)": {
-    "price": 365.51,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ Bayonet | Case Hardened (Minimal Wear)": {
-    "price": 450.0,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ M9 Bayonet | Case Hardened (Well-Worn)": {
-    "price": 766.3,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ M9 Bayonet | Case Hardened (Field-Tested)": {
-    "price": 741.79,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ Bayonet | Case Hardened (Well-Worn)": {
-    "price": 345.78,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ Bayonet | Case Hardened (Battle-Scarred)": {
-    "price": 287.5,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ M9 Bayonet | Case Hardened (Minimal Wear)": {
-    "price": 949.99,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ Bayonet | Case Hardened (Factory New)": {
-    "price": 716.17,
-    "date": "2026-01-18 12:25:19"
-  },
-  "★ Bayonet | Rust Coat (Battle-Scarred)": {
-    "price": 185.77,
-    "date": "2026-01-18 12:26:03"
-  },
-  "★ M9 Bayonet | Rust Coat (Battle-Scarred)": {
-    "price": 499.26,
-    "date": "2026-01-18 12:26:03"
-  },
-  "★ Bayonet | Rust Coat (Well-Worn)": {
-    "price": 230.0,
-    "date": "2026-01-18 12:26:03"
-  },
-  "★ M9 Bayonet | Rust Coat (Well-Worn)": {
-    "price": 974.56,
-    "date": "2026-01-18 12:26:03"
-  },
   "★ Bayonet | Lore (Field-Tested)": {
     "price": 389.57,
     "date": "2026-01-18 12:26:43"
@@ -41043,49 +40803,13 @@
     "price": 501.33,
     "date": "2026-01-18 12:26:43"
   },
-  "★ M9 Bayonet | Lore (Field-Tested)": {
-    "price": 790.0,
-    "date": "2026-01-18 12:26:43"
-  },
   "★ Bayonet | Lore (Factory New)": {
     "price": 737.97,
-    "date": "2026-01-18 12:26:43"
-  },
-  "★ M9 Bayonet | Lore (Battle-Scarred)": {
-    "price": 600.55,
     "date": "2026-01-18 12:26:43"
   },
   "★ Bayonet | Lore (Battle-Scarred)": {
     "price": 307.4,
     "date": "2026-01-18 12:26:43"
-  },
-  "★ M9 Bayonet | Lore (Well-Worn)": {
-    "price": 792.54,
-    "date": "2026-01-18 12:26:43"
-  },
-  "★ Bayonet | Black Laminate (Field-Tested)": {
-    "price": 255.3,
-    "date": "2026-01-18 12:27:41"
-  },
-  "★ Bayonet | Black Laminate (Well-Worn)": {
-    "price": 246.4,
-    "date": "2026-01-18 12:27:41"
-  },
-  "★ Bayonet | Black Laminate (Battle-Scarred)": {
-    "price": 248.0,
-    "date": "2026-01-18 12:27:41"
-  },
-  "★ Bayonet | Black Laminate (Minimal Wear)": {
-    "price": 293.75,
-    "date": "2026-01-18 12:27:41"
-  },
-  "★ M9 Bayonet | Black Laminate (Battle-Scarred)": {
-    "price": 714.92,
-    "date": "2026-01-18 12:27:41"
-  },
-  "★ M9 Bayonet | Black Laminate (Minimal Wear)": {
-    "price": 850.0,
-    "date": "2026-01-18 12:27:41"
   },
   "★ Bayonet | Autotronic (Field-Tested)": {
     "price": 361.1,
@@ -41103,89 +40827,17 @@
     "price": 916.29,
     "date": "2026-01-18 12:28:26"
   },
-  "★ M9 Bayonet | Autotronic (Battle-Scarred)": {
-    "price": 1109.0,
-    "date": "2026-01-18 12:28:26"
-  },
-  "★ M9 Bayonet | Autotronic (Minimal Wear)": {
-    "price": 1741.59,
-    "date": "2026-01-18 12:28:26"
-  },
   "★ Bayonet | Autotronic (Well-Worn)": {
     "price": 429.61,
     "date": "2026-01-18 12:28:26"
-  },
-  "★ M9 Bayonet | Autotronic (Field-Tested)": {
-    "price": 1089.43,
-    "date": "2026-01-18 12:28:26"
-  },
-  "★ Bayonet | Forest DDPAT (Field-Tested)": {
-    "price": 173.57,
-    "date": "2026-01-18 12:29:12"
-  },
-  "★ Bayonet | Forest DDPAT (Minimal Wear)": {
-    "price": 210.0,
-    "date": "2026-01-18 12:29:12"
-  },
-  "★ Bayonet | Forest DDPAT (Battle-Scarred)": {
-    "price": 190.0,
-    "date": "2026-01-18 12:29:12"
-  },
-  "★ M9 Bayonet | Forest DDPAT (Well-Worn)": {
-    "price": 610.0,
-    "date": "2026-01-18 12:29:12"
-  },
-  "★ M9 Bayonet | Forest DDPAT (Field-Tested)": {
-    "price": 435.4,
-    "date": "2026-01-18 12:29:12"
   },
   "★ M9 Bayonet | Forest DDPAT (Minimal Wear)": {
     "price": 572.1,
     "date": "2026-01-18 12:29:12"
   },
-  "★ Bayonet | Boreal Forest (Minimal Wear)": {
-    "price": 222.32,
-    "date": "2026-01-18 12:30:03"
-  },
-  "★ Bayonet | Boreal Forest (Field-Tested)": {
-    "price": 182.8,
-    "date": "2026-01-18 12:30:03"
-  },
-  "★ Bayonet | Boreal Forest (Well-Worn)": {
-    "price": 179.0,
-    "date": "2026-01-18 12:30:03"
-  },
-  "★ M9 Bayonet | Boreal Forest (Field-Tested)": {
-    "price": 450.87,
-    "date": "2026-01-18 12:30:03"
-  },
-  "★ M9 Bayonet | Boreal Forest (Minimal Wear)": {
-    "price": 512.98,
-    "date": "2026-01-18 12:30:03"
-  },
   "★ Bayonet | Boreal Forest (Battle-Scarred)": {
     "price": 175.22,
     "date": "2026-01-18 12:30:03"
-  },
-  "★ M9 Bayonet | Boreal Forest (Well-Worn)": {
-    "price": 538.0,
-    "date": "2026-01-18 12:30:03"
-  },
-  "★ Bayonet | Bright Water (Field-Tested)": {
-    "price": 241.1,
-    "date": "2026-01-18 12:30:51"
-  },
-  "★ Bayonet | Bright Water (Factory New)": {
-    "price": 342.5,
-    "date": "2026-01-18 12:30:51"
-  },
-  "★ Bayonet | Bright Water (Minimal Wear)": {
-    "price": 261.97,
-    "date": "2026-01-18 12:30:51"
-  },
-  "★ M9 Bayonet | Bright Water (Field-Tested)": {
-    "price": 507.38,
-    "date": "2026-01-18 12:30:51"
   },
   "★ Bayonet | Bright Water (Battle-Scarred)": {
     "price": 228.82,
@@ -41195,44 +40847,12 @@
     "price": 950.17,
     "date": "2026-01-18 12:30:51"
   },
-  "★ Bayonet | Crimson Web (Field-Tested)": {
-    "price": 294.76,
-    "date": "2026-01-18 12:31:53"
-  },
-  "★ Bayonet | Crimson Web (Minimal Wear)": {
-    "price": 431.2,
-    "date": "2026-01-18 12:31:53"
-  },
-  "★ M9 Bayonet | Crimson Web (Field-Tested)": {
-    "price": 737.42,
-    "date": "2026-01-18 12:31:53"
-  },
-  "★ Bayonet | Crimson Web (Battle-Scarred)": {
-    "price": 308.44,
-    "date": "2026-01-18 12:31:53"
-  },
-  "★ Bayonet | Crimson Web (Well-Worn)": {
-    "price": 348.25,
-    "date": "2026-01-18 12:31:53"
-  },
-  "★ M9 Bayonet | Crimson Web (Well-Worn)": {
-    "price": 656.65,
-    "date": "2026-01-18 12:31:53"
-  },
-  "★ M9 Bayonet | Crimson Web (Minimal Wear)": {
-    "price": 1189.49,
-    "date": "2026-01-18 12:31:53"
-  },
   "★ Bayonet | Night (Field-Tested)": {
     "price": 185.77,
     "date": "2026-01-18 12:32:50"
   },
   "★ Bayonet | Night (Minimal Wear)": {
     "price": 265.7,
-    "date": "2026-01-18 12:32:50"
-  },
-  "★ M9 Bayonet | Night (Field-Tested)": {
-    "price": 524.0,
     "date": "2026-01-18 12:32:50"
   },
   "★ Bayonet | Night (Battle-Scarred)": {
@@ -41243,20 +40863,8 @@
     "price": 201.71,
     "date": "2026-01-18 12:32:50"
   },
-  "★ M9 Bayonet | Night (Well-Worn)": {
-    "price": 669.44,
-    "date": "2026-01-18 12:32:50"
-  },
-  "★ M9 Bayonet | Night (Battle-Scarred)": {
-    "price": 614.88,
-    "date": "2026-01-18 12:32:50"
-  },
   "★ Bayonet | Ultraviolet (Field-Tested)": {
     "price": 202.99,
-    "date": "2026-01-18 12:33:30"
-  },
-  "★ M9 Bayonet | Ultraviolet (Field-Tested)": {
-    "price": 600.84,
     "date": "2026-01-18 12:33:30"
   },
   "★ Bayonet | Ultraviolet (Minimal Wear)": {
@@ -41271,20 +40879,12 @@
     "price": 208.4,
     "date": "2026-01-18 12:33:30"
   },
-  "★ M9 Bayonet | Ultraviolet (Minimal Wear)": {
-    "price": 811.15,
-    "date": "2026-01-18 12:33:30"
-  },
   "★ Bayonet | Ultraviolet (Factory New)": {
     "price": 1006.13,
     "date": "2026-01-18 12:33:30"
   },
   "★ Bayonet | Scorched (Field-Tested)": {
     "price": 175.0,
-    "date": "2026-01-18 12:34:20"
-  },
-  "★ M9 Bayonet | Scorched (Field-Tested)": {
-    "price": 519.0,
     "date": "2026-01-18 12:34:20"
   },
   "★ Bayonet | Scorched (Minimal Wear)": {
@@ -41295,77 +40895,9 @@
     "price": 191.59,
     "date": "2026-01-18 12:34:20"
   },
-  "★ M9 Bayonet | Scorched (Minimal Wear)": {
-    "price": 525.0,
-    "date": "2026-01-18 12:34:20"
-  },
   "★ Bayonet | Scorched (Well-Worn)": {
     "price": 204.7,
     "date": "2026-01-18 12:34:20"
-  },
-  "★ M9 Bayonet | Scorched (Well-Worn)": {
-    "price": 458.63,
-    "date": "2026-01-18 12:34:20"
-  },
-  "★ Bayonet | Safari Mesh (Field-Tested)": {
-    "price": 170.58,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ Bayonet | Safari Mesh (Battle-Scarred)": {
-    "price": 173.65,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ M9 Bayonet | Safari Mesh (Field-Tested)": {
-    "price": 410.22,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ Bayonet | Safari Mesh (Minimal Wear)": {
-    "price": 177.5,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ Bayonet | Safari Mesh (Well-Worn)": {
-    "price": 180.24,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ M9 Bayonet | Safari Mesh (Minimal Wear)": {
-    "price": 470.47,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ M9 Bayonet | Safari Mesh (Well-Worn)": {
-    "price": 722.46,
-    "date": "2026-01-18 12:35:18"
-  },
-  "★ Bayonet | Urban Masked (Minimal Wear)": {
-    "price": 247.6,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ Bayonet | Urban Masked (Field-Tested)": {
-    "price": 192.32,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ M9 Bayonet | Urban Masked (Field-Tested)": {
-    "price": 500.72,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ Bayonet | Urban Masked (Battle-Scarred)": {
-    "price": 187.27,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ Bayonet | Urban Masked (Well-Worn)": {
-    "price": 207.77,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ M9 Bayonet | Urban Masked (Battle-Scarred)": {
-    "price": 593.65,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ M9 Bayonet | Urban Masked (Minimal Wear)": {
-    "price": 569.55,
-    "date": "2026-01-18 12:36:14"
-  },
-  "★ M9 Bayonet | Urban Masked (Well-Worn)": {
-    "price": 541.88,
-    "date": "2026-01-18 12:36:14"
   },
   "★ Butterfly Knife | Fade": {
     "price": 0.0,
@@ -43350,5 +42882,473 @@
   "★ M9 Bayonet | Doppler (Factory New)": {
     "price": 1599.0,
     "date": "2026-01-18 16:02:41"
+  },
+  "★ M9 Bayonet | Slaughter (Minimal Wear)": {
+    "price": 1150.0,
+    "date": "2026-01-18 16:03:37"
+  },
+  "★ M9 Bayonet | Slaughter (Factory New)": {
+    "price": 1578.72,
+    "date": "2026-01-18 16:03:37"
+  },
+  "★ M9 Bayonet | Slaughter (Field-Tested)": {
+    "price": 1097.21,
+    "date": "2026-01-18 16:03:37"
+  },
+  "★ Bayonet | Tiger Tooth (Factory New)": {
+    "price": 453.39,
+    "date": "2026-01-18 16:04:30"
+  },
+  "★ M9 Bayonet | Tiger Tooth (Factory New)": {
+    "price": 1103.0,
+    "date": "2026-01-18 16:04:30"
+  },
+  "★ Bayonet | Tiger Tooth (Minimal Wear)": {
+    "price": 661.8,
+    "date": "2026-01-18 16:04:30"
+  },
+  "★ M9 Bayonet | Tiger Tooth (Minimal Wear)": {
+    "price": 1795.45,
+    "date": "2026-01-18 16:04:30"
+  },
+  "★ Bayonet | Blue Steel (Minimal Wear)": {
+    "price": 384.0,
+    "date": "2026-01-18 16:05:24"
+  },
+  "★ Bayonet | Blue Steel (Well-Worn)": {
+    "price": 322.78,
+    "date": "2026-01-18 16:05:24"
+  },
+  "★ Bayonet | Blue Steel (Field-Tested)": {
+    "price": 320.01,
+    "date": "2026-01-18 16:05:24"
+  },
+  "★ Bayonet | Damascus Steel (Field-Tested)": {
+    "price": 250.09,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ Bayonet | Damascus Steel (Factory New)": {
+    "price": 299.0,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ Bayonet | Damascus Steel (Minimal Wear)": {
+    "price": 264.74,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ M9 Bayonet | Damascus Steel (Field-Tested)": {
+    "price": 673.11,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ M9 Bayonet | Damascus Steel (Minimal Wear)": {
+    "price": 724.0,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ M9 Bayonet | Blue Steel (Field-Tested)": {
+    "price": 850.0,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ M9 Bayonet | Blue Steel (Well-Worn)": {
+    "price": 807.16,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ M9 Bayonet | Damascus Steel (Factory New)": {
+    "price": 900.0,
+    "date": "2026-01-18 16:06:21"
+  },
+  "★ M9 Bayonet | Stained (Minimal Wear)": {
+    "price": 689.97,
+    "date": "2026-01-18 16:07:01"
+  },
+  "★ M9 Bayonet | Stained (Field-Tested)": {
+    "price": 700.0,
+    "date": "2026-01-18 16:07:01"
+  },
+  "★ M9 Bayonet | Stained (Factory New)": {
+    "price": 905.63,
+    "date": "2026-01-18 16:07:01"
+  },
+  "★ M9 Bayonet | Stained (Well-Worn)": {
+    "price": 741.79,
+    "date": "2026-01-18 16:07:01"
+  },
+  "★ M9 Bayonet | Stained (Battle-Scarred)": {
+    "price": 580.54,
+    "date": "2026-01-18 16:07:01"
+  },
+  "★ Bayonet | Case Hardened (Field-Tested)": {
+    "price": 365.51,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ Bayonet | Case Hardened (Minimal Wear)": {
+    "price": 754.99,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ M9 Bayonet | Case Hardened (Well-Worn)": {
+    "price": 766.3,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ M9 Bayonet | Case Hardened (Field-Tested)": {
+    "price": 741.79,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ Bayonet | Case Hardened (Well-Worn)": {
+    "price": 345.78,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ Bayonet | Case Hardened (Battle-Scarred)": {
+    "price": 287.5,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ M9 Bayonet | Case Hardened (Minimal Wear)": {
+    "price": 1031.33,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ Bayonet | Case Hardened (Factory New)": {
+    "price": 716.17,
+    "date": "2026-01-18 16:07:39"
+  },
+  "★ Bayonet | Rust Coat (Battle-Scarred)": {
+    "price": 188.0,
+    "date": "2026-01-18 16:08:23"
+  },
+  "★ M9 Bayonet | Rust Coat (Battle-Scarred)": {
+    "price": 499.26,
+    "date": "2026-01-18 16:08:23"
+  },
+  "★ Bayonet | Rust Coat (Well-Worn)": {
+    "price": 229.97,
+    "date": "2026-01-18 16:08:23"
+  },
+  "★ M9 Bayonet | Rust Coat (Well-Worn)": {
+    "price": 974.56,
+    "date": "2026-01-18 16:08:23"
+  },
+  "★ M9 Bayonet | Lore (Field-Tested)": {
+    "price": 790.0,
+    "date": "2026-01-18 16:09:13"
+  },
+  "★ M9 Bayonet | Lore (Battle-Scarred)": {
+    "price": 600.55,
+    "date": "2026-01-18 16:09:13"
+  },
+  "★ M9 Bayonet | Lore (Well-Worn)": {
+    "price": 792.54,
+    "date": "2026-01-18 16:09:13"
+  },
+  "★ M9 Bayonet | Lore (Minimal Wear)": {
+    "price": 1590.64,
+    "date": "2026-01-18 16:09:13"
+  },
+  "★ Bayonet | Black Laminate (Field-Tested)": {
+    "price": 255.3,
+    "date": "2026-01-18 16:10:08"
+  },
+  "★ Bayonet | Black Laminate (Well-Worn)": {
+    "price": 243.82,
+    "date": "2026-01-18 16:10:08"
+  },
+  "★ Bayonet | Black Laminate (Battle-Scarred)": {
+    "price": 248.0,
+    "date": "2026-01-18 16:10:08"
+  },
+  "★ Bayonet | Black Laminate (Minimal Wear)": {
+    "price": 293.75,
+    "date": "2026-01-18 16:10:08"
+  },
+  "★ M9 Bayonet | Black Laminate (Battle-Scarred)": {
+    "price": 714.92,
+    "date": "2026-01-18 16:10:08"
+  },
+  "★ M9 Bayonet | Black Laminate (Minimal Wear)": {
+    "price": 850.0,
+    "date": "2026-01-18 16:10:08"
+  },
+  "★ M9 Bayonet | Autotronic (Battle-Scarred)": {
+    "price": 1109.0,
+    "date": "2026-01-18 16:11:05"
+  },
+  "★ M9 Bayonet | Autotronic (Minimal Wear)": {
+    "price": 1741.59,
+    "date": "2026-01-18 16:11:05"
+  },
+  "★ M9 Bayonet | Autotronic (Field-Tested)": {
+    "price": 1089.43,
+    "date": "2026-01-18 16:11:05"
+  },
+  "★ M9 Bayonet | Autotronic (Well-Worn)": {
+    "price": 1241.0,
+    "date": "2026-01-18 16:11:05"
+  },
+  "★ Bayonet | Forest DDPAT (Field-Tested)": {
+    "price": 184.61,
+    "date": "2026-01-18 16:11:45"
+  },
+  "★ Bayonet | Forest DDPAT (Minimal Wear)": {
+    "price": 203.98,
+    "date": "2026-01-18 16:11:45"
+  },
+  "★ M9 Bayonet | Boreal Forest (Minimal Wear)": {
+    "price": 512.98,
+    "date": "2026-01-18 16:11:45"
+  },
+  "★ Bayonet | Forest DDPAT (Battle-Scarred)": {
+    "price": 190.0,
+    "date": "2026-01-18 16:11:45"
+  },
+  "★ M9 Bayonet | Forest DDPAT (Well-Worn)": {
+    "price": 610.0,
+    "date": "2026-01-18 16:11:45"
+  },
+  "★ M9 Bayonet | Forest DDPAT (Field-Tested)": {
+    "price": 434.24,
+    "date": "2026-01-18 16:11:45"
+  },
+  "★ M9 Bayonet | Boreal Forest (Well-Worn)": {
+    "price": 538.0,
+    "date": "2026-01-18 16:11:45"
+  },
+  "M4A1-S | Boreal Forest (Field-Tested)": {
+    "price": 0.14,
+    "date": "2026-01-18 16:12:42"
+  },
+  "M4A1-S | Boreal Forest (Minimal Wear)": {
+    "price": 0.36,
+    "date": "2026-01-18 16:12:42"
+  },
+  "M4A1-S | Boreal Forest (Well-Worn)": {
+    "price": 0.15,
+    "date": "2026-01-18 16:12:42"
+  },
+  "M4A1-S | Boreal Forest (Battle-Scarred)": {
+    "price": 0.13,
+    "date": "2026-01-18 16:12:42"
+  },
+  "M4A1-S | Boreal Forest (Factory New)": {
+    "price": 16.65,
+    "date": "2026-01-18 16:12:42"
+  },
+  "★ Bayonet | Boreal Forest (Minimal Wear)": {
+    "price": 222.32,
+    "date": "2026-01-18 16:12:42"
+  },
+  "★ Bayonet | Boreal Forest (Field-Tested)": {
+    "price": 182.29,
+    "date": "2026-01-18 16:12:42"
+  },
+  "★ Bayonet | Boreal Forest (Well-Worn)": {
+    "price": 179.0,
+    "date": "2026-01-18 16:12:42"
+  },
+  "★ M9 Bayonet | Boreal Forest (Field-Tested)": {
+    "price": 450.87,
+    "date": "2026-01-18 16:12:42"
+  },
+  "M4A1-S | Bright Water (Minimal Wear)": {
+    "price": 67.09,
+    "date": "2026-01-18 16:13:38"
+  },
+  "M4A1-S | Bright Water (Field-Tested)": {
+    "price": 53.86,
+    "date": "2026-01-18 16:13:38"
+  },
+  "StatTrak™ M4A1-S | Bright Water (Minimal Wear)": {
+    "price": 102.6,
+    "date": "2026-01-18 16:13:38"
+  },
+  "★ Bayonet | Bright Water (Field-Tested)": {
+    "price": 241.1,
+    "date": "2026-01-18 16:13:38"
+  },
+  "StatTrak™ M4A1-S | Bright Water (Field-Tested)": {
+    "price": 87.66,
+    "date": "2026-01-18 16:13:38"
+  },
+  "★ Bayonet | Bright Water (Factory New)": {
+    "price": 342.5,
+    "date": "2026-01-18 16:13:38"
+  },
+  "★ Bayonet | Bright Water (Minimal Wear)": {
+    "price": 261.97,
+    "date": "2026-01-18 16:13:38"
+  },
+  "★ M9 Bayonet | Bright Water (Field-Tested)": {
+    "price": 507.38,
+    "date": "2026-01-18 16:13:38"
+  },
+  "★ Bayonet | Crimson Web (Field-Tested)": {
+    "price": 285.0,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ M9 Bayonet | Crimson Web (Field-Tested)": {
+    "price": 737.42,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ Bayonet | Crimson Web (Minimal Wear)": {
+    "price": 431.2,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ Bayonet | Crimson Web (Battle-Scarred)": {
+    "price": 308.44,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ Bayonet | Crimson Web (Well-Worn)": {
+    "price": 354.66,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ M9 Bayonet | Crimson Web (Well-Worn)": {
+    "price": 656.65,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ M9 Bayonet | Crimson Web (Minimal Wear)": {
+    "price": 1189.49,
+    "date": "2026-01-18 16:14:28"
+  },
+  "★ M9 Bayonet | Night (Field-Tested)": {
+    "price": 545.7,
+    "date": "2026-01-18 16:15:18"
+  },
+  "★ M9 Bayonet | Night (Well-Worn)": {
+    "price": 669.44,
+    "date": "2026-01-18 16:15:18"
+  },
+  "★ M9 Bayonet | Night (Battle-Scarred)": {
+    "price": 614.88,
+    "date": "2026-01-18 16:15:18"
+  },
+  "★ M9 Bayonet | Night (Minimal Wear)": {
+    "price": 640.41,
+    "date": "2026-01-18 16:15:18"
+  },
+  "★ M9 Bayonet | Ultraviolet (Field-Tested)": {
+    "price": 597.94,
+    "date": "2026-01-18 16:15:55"
+  },
+  "★ M9 Bayonet | Ultraviolet (Minimal Wear)": {
+    "price": 811.15,
+    "date": "2026-01-18 16:15:55"
+  },
+  "★ M9 Bayonet | Ultraviolet (Well-Worn)": {
+    "price": 545.7,
+    "date": "2026-01-18 16:15:55"
+  },
+  "★ M9 Bayonet | Ultraviolet (Battle-Scarred)": {
+    "price": 534.09,
+    "date": "2026-01-18 16:15:55"
+  },
+  "★ M9 Bayonet | Scorched (Field-Tested)": {
+    "price": 519.0,
+    "date": "2026-01-18 16:16:40"
+  },
+  "★ M9 Bayonet | Scorched (Minimal Wear)": {
+    "price": 525.0,
+    "date": "2026-01-18 16:16:40"
+  },
+  "★ M9 Bayonet | Scorched (Well-Worn)": {
+    "price": 449.19,
+    "date": "2026-01-18 16:16:40"
+  },
+  "★ M9 Bayonet | Scorched (Battle-Scarred)": {
+    "price": 623.66,
+    "date": "2026-01-18 16:16:40"
+  },
+  "★ Bayonet | Safari Mesh (Field-Tested)": {
+    "price": 170.57,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ Bayonet | Safari Mesh (Battle-Scarred)": {
+    "price": 173.65,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ M9 Bayonet | Safari Mesh (Field-Tested)": {
+    "price": 410.22,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ Bayonet | Safari Mesh (Minimal Wear)": {
+    "price": 177.5,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ Bayonet | Safari Mesh (Well-Worn)": {
+    "price": 180.24,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ M9 Bayonet | Safari Mesh (Minimal Wear)": {
+    "price": 470.47,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ M9 Bayonet | Safari Mesh (Well-Worn)": {
+    "price": 722.46,
+    "date": "2026-01-18 16:17:20"
+  },
+  "★ Bayonet | Urban Masked (Minimal Wear)": {
+    "price": 277.5,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ Bayonet | Urban Masked (Field-Tested)": {
+    "price": 193.71,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ M9 Bayonet | Urban Masked (Field-Tested)": {
+    "price": 500.72,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ Bayonet | Urban Masked (Battle-Scarred)": {
+    "price": 187.27,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ Bayonet | Urban Masked (Well-Worn)": {
+    "price": 208.98,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ M9 Bayonet | Urban Masked (Minimal Wear)": {
+    "price": 569.55,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ M9 Bayonet | Urban Masked (Battle-Scarred)": {
+    "price": 593.65,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ M9 Bayonet | Urban Masked (Well-Worn)": {
+    "price": 541.88,
+    "date": "2026-01-18 16:18:06"
+  },
+  "★ Nomad Knife | Marble Fade (Factory New)": {
+    "price": 379.23,
+    "date": "2026-01-18 16:19:01"
+  },
+  "★ Nomad Knife | Fade (Factory New)": {
+    "price": 521.32,
+    "date": "2026-01-18 16:19:01"
+  },
+  "★ Nomad Knife | Marble Fade (Minimal Wear)": {
+    "price": 399.9,
+    "date": "2026-01-18 16:19:01"
+  },
+  "★ Nomad Knife | Doppler (Factory New)": {
+    "price": 580.0,
+    "date": "2026-01-18 16:21:38"
+  },
+  "★ Nomad Knife | Doppler (Minimal Wear)": {
+    "price": 660.47,
+    "date": "2026-01-18 16:21:38"
+  },
+  "★ Bowie Knife | Stained (Field-Tested)": {
+    "price": 119.0,
+    "date": "2026-01-18 20:28:13"
+  },
+  "★ Bowie Knife | Stained (Well-Worn)": {
+    "price": 115.0,
+    "date": "2026-01-18 20:28:13"
+  },
+  "★ Bowie Knife | Stained (Battle-Scarred)": {
+    "price": 128.02,
+    "date": "2026-01-18 20:28:13"
+  },
+  "★ Bowie Knife | Stained (Minimal Wear)": {
+    "price": 126.8,
+    "date": "2026-01-18 20:28:13"
+  },
+  "★ Bowie Knife | Stained (Factory New)": {
+    "price": 210.0,
+    "date": "2026-01-18 20:28:13"
   }
 }
